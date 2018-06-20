@@ -1,0 +1,2212 @@
+[d] 18-05-14 03:05:30 @ Module was booted too
+
+[i] 18-05-14 03:05:30 @ Cala was booted...
+
+[d] 18-05-14 03:05:30 @ Loading module: db
+
+[d] 18-05-14 03:05:30 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:30 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:30 @ Module was booted too
+
+[d] 18-05-14 03:05:30 @ Conneted to Db
+
+[d] 18-05-14 03:05:30 @ Loading module: users
+
+[d] 18-05-14 03:05:30 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:30 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:30 @ Module was booted too
+
+[d] 18-05-14 03:05:30 @ Loading user
+
+[d] 18-05-14 03:05:30 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-14 03:05:30 @ Unable to locate user
+
+[d] 18-05-14 03:05:30 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:30 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:30 @ Module was booted too
+
+[d] 18-05-14 03:05:30 @ Loading user
+
+[d] 18-05-14 03:05:30 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-14 03:05:30 @ Unable to locate user
+
+[d] 18-05-14 03:05:30 @ Function found
+
+[d] 18-05-14 03:05:30 @ Looking for path: users_log_me_in
+
+[d] 18-05-14 03:05:30 @ Found path: users_log_me_in
+
+[d] 18-05-14 03:05:30 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/login.php
+
+[d] 18-05-14 03:05:30 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/login.php
+
+[d] 18-05-14 03:05:30 @ Module was booted too
+
+[d] 18-05-14 03:05:30 @ Loading user
+
+[d] 18-05-14 03:05:30 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-14 03:05:30 @ Unable to locate user
+
+[d] 18-05-14 03:05:30 @ Found function: users_logMeIn
+
+[d] 18-05-14 03:05:30 @ Log in this person
+
+[d] 18-05-14 03:05:30 @ username based login
+
+[d] 18-05-14 03:05:30 @ Loading user
+
+[d] 18-05-14 03:05:30 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:30 @ Able to login
+
+[d] 18-05-14 03:05:30 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', '2d002cadd65e8bcf2df543e5e858d757', '181.193.3.250', '1526312610')
+
+[d] 18-05-14 03:05:30 @ Finished! Memory used: Mb0.468288<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[i] 18-05-14 03:05:44 @ Cala was booted...
+
+[d] 18-05-14 03:05:44 @ Loading module: db
+
+[d] 18-05-14 03:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[d] 18-05-14 03:05:44 @ Conneted to Db
+
+[d] 18-05-14 03:05:44 @ Loading module: users
+
+[d] 18-05-14 03:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[d] 18-05-14 03:05:44 @ Loading user
+
+[d] 18-05-14 03:05:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[d] 18-05-14 03:05:44 @ Function found
+
+[d] 18-05-14 03:05:44 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:44 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:44 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:44 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:44 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[d] 18-05-14 03:05:44 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:44 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = 'ESDFCA'
+
+[d] 18-05-14 03:05:44 @ Finished! Memory used: Mb0.522872<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[i] 18-05-14 03:05:53 @ Cala was booted...
+
+[d] 18-05-14 03:05:53 @ Loading module: db
+
+[d] 18-05-14 03:05:53 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:53 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[d] 18-05-14 03:05:53 @ Conneted to Db
+
+[d] 18-05-14 03:05:53 @ Loading module: users
+
+[d] 18-05-14 03:05:53 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[d] 18-05-14 03:05:53 @ Loading user
+
+[d] 18-05-14 03:05:53 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:53 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[d] 18-05-14 03:05:53 @ Loading user
+
+[d] 18-05-14 03:05:53 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:53 @ Function found
+
+[d] 18-05-14 03:05:53 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:53 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:53 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:53 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:53 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:53 @ Found function: users_getMyDetails
+
+[d] 18-05-14 03:05:53 @ Getting my details
+
+[d] 18-05-14 03:05:53 @ Loading user: test
+
+[d] 18-05-14 03:05:53 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-05-14 03:05:53 @ Finished! Memory used: Mb0.46668<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:57 @ Module was booted too
+
+[i] 18-05-14 03:05:57 @ Cala was booted...
+
+[d] 18-05-14 03:05:57 @ Loading module: db
+
+[d] 18-05-14 03:05:57 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:57 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:57 @ Module was booted too
+
+[d] 18-05-14 03:05:57 @ Conneted to Db
+
+[d] 18-05-14 03:05:57 @ Loading module: users
+
+[d] 18-05-14 03:05:57 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:57 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:57 @ Module was booted too
+
+[d] 18-05-14 03:05:57 @ Loading user
+
+[d] 18-05-14 03:05:57 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:57 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:57 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:57 @ Module was booted too
+
+[d] 18-05-14 03:05:57 @ Loading user
+
+[d] 18-05-14 03:05:57 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:57 @ Function found
+
+[d] 18-05-14 03:05:57 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:57 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:57 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:57 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:57 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:57 @ Found function: users_getMyDetails
+
+[d] 18-05-14 03:05:57 @ Getting my details
+
+[d] 18-05-14 03:05:57 @ Loading user: test
+
+[d] 18-05-14 03:05:57 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-05-14 03:05:57 @ Finished! Memory used: Mb0.46668<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:39 @ Module was booted too
+
+[i] 18-05-14 03:05:39 @ Cala was booted...
+
+[d] 18-05-14 03:05:39 @ Loading module: db
+
+[d] 18-05-14 03:05:39 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:39 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:39 @ Module was booted too
+
+[d] 18-05-14 03:05:39 @ Conneted to Db
+
+[d] 18-05-14 03:05:39 @ Loading module: users
+
+[d] 18-05-14 03:05:39 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:39 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:39 @ Module was booted too
+
+[d] 18-05-14 03:05:39 @ Loading user
+
+[d] 18-05-14 03:05:39 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:39 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:39 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:39 @ Module was booted too
+
+[d] 18-05-14 03:05:39 @ Loading user
+
+[d] 18-05-14 03:05:39 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:39 @ Function found
+
+[d] 18-05-14 03:05:39 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:39 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:39 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:39 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:39 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:39 @ Found function: users_getMyDetails
+
+[d] 18-05-14 03:05:39 @ Getting my details
+
+[d] 18-05-14 03:05:39 @ Loading user: test
+
+[d] 18-05-14 03:05:39 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-05-14 03:05:39 @ Finished! Memory used: Mb0.46668<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[i] 18-05-14 03:05:44 @ Cala was booted...
+
+[d] 18-05-14 03:05:44 @ Loading module: db
+
+[d] 18-05-14 03:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[d] 18-05-14 03:05:44 @ Conneted to Db
+
+[d] 18-05-14 03:05:44 @ Loading module: users
+
+[d] 18-05-14 03:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[d] 18-05-14 03:05:44 @ Loading user
+
+[d] 18-05-14 03:05:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[d] 18-05-14 03:05:44 @ Loading user
+
+[d] 18-05-14 03:05:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:44 @ Function found
+
+[d] 18-05-14 03:05:44 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:44 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:44 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:44 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:44 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:44 @ Found function: users_getMyDetails
+
+[d] 18-05-14 03:05:44 @ Getting my details
+
+[d] 18-05-14 03:05:44 @ Loading user: test
+
+[d] 18-05-14 03:05:44 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-05-14 03:05:44 @ Finished! Memory used: Mb0.46668<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:14 @ Module was booted too
+
+[i] 18-05-14 03:05:14 @ Cala was booted...
+
+[d] 18-05-14 03:05:14 @ Loading module: db
+
+[d] 18-05-14 03:05:14 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:14 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:14 @ Module was booted too
+
+[d] 18-05-14 03:05:14 @ Conneted to Db
+
+[d] 18-05-14 03:05:14 @ Loading module: users
+
+[d] 18-05-14 03:05:14 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:14 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:14 @ Module was booted too
+
+[d] 18-05-14 03:05:14 @ Loading user
+
+[d] 18-05-14 03:05:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:14 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:14 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:14 @ Module was booted too
+
+[d] 18-05-14 03:05:14 @ Loading user
+
+[d] 18-05-14 03:05:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:14 @ Function found
+
+[d] 18-05-14 03:05:14 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:14 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:14 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:14 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:14 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:14 @ Found function: users_getMyDetails
+
+[d] 18-05-14 03:05:14 @ Getting my details
+
+[d] 18-05-14 03:05:14 @ Loading user: test
+
+[d] 18-05-14 03:05:14 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-05-14 03:05:14 @ Finished! Memory used: Mb0.46668<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:19 @ Module was booted too
+
+[i] 18-05-14 03:05:19 @ Cala was booted...
+
+[d] 18-05-14 03:05:19 @ Loading module: db
+
+[d] 18-05-14 03:05:19 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:19 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:19 @ Module was booted too
+
+[d] 18-05-14 03:05:19 @ Conneted to Db
+
+[d] 18-05-14 03:05:19 @ Loading module: users
+
+[d] 18-05-14 03:05:19 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:19 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:19 @ Module was booted too
+
+[d] 18-05-14 03:05:19 @ Loading user
+
+[d] 18-05-14 03:05:19 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:19 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:19 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:19 @ Module was booted too
+
+[d] 18-05-14 03:05:19 @ Loading user
+
+[d] 18-05-14 03:05:19 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:19 @ Function found
+
+[d] 18-05-14 03:05:19 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:19 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:19 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:19 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:19 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:19 @ Found function: users_getMyDetails
+
+[d] 18-05-14 03:05:19 @ Getting my details
+
+[d] 18-05-14 03:05:19 @ Loading user: test
+
+[d] 18-05-14 03:05:19 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-05-14 03:05:19 @ Finished! Memory used: Mb0.46668<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:15 @ Module was booted too
+
+[i] 18-05-14 03:05:15 @ Cala was booted...
+
+[d] 18-05-14 03:05:15 @ Loading module: db
+
+[d] 18-05-14 03:05:15 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:15 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:15 @ Module was booted too
+
+[d] 18-05-14 03:05:15 @ Conneted to Db
+
+[d] 18-05-14 03:05:15 @ Loading module: users
+
+[d] 18-05-14 03:05:15 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:15 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:15 @ Module was booted too
+
+[d] 18-05-14 03:05:15 @ Loading user
+
+[d] 18-05-14 03:05:15 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:15 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:15 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:15 @ Module was booted too
+
+[d] 18-05-14 03:05:15 @ Loading user
+
+[d] 18-05-14 03:05:15 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:15 @ Function found
+
+[d] 18-05-14 03:05:15 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:15 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:15 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:15 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:15 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:15 @ Found function: users_getMyDetails
+
+[d] 18-05-14 03:05:15 @ Getting my details
+
+[d] 18-05-14 03:05:15 @ Loading user: test
+
+[d] 18-05-14 03:05:15 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-05-14 03:05:15 @ Finished! Memory used: Mb0.46668<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[i] 18-05-14 03:05:44 @ Cala was booted...
+
+[d] 18-05-14 03:05:44 @ Loading module: db
+
+[d] 18-05-14 03:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[d] 18-05-14 03:05:44 @ Conneted to Db
+
+[d] 18-05-14 03:05:44 @ Loading module: users
+
+[d] 18-05-14 03:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[d] 18-05-14 03:05:44 @ Loading user
+
+[d] 18-05-14 03:05:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:44 @ Module was booted too
+
+[d] 18-05-14 03:05:44 @ Loading user
+
+[d] 18-05-14 03:05:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:44 @ Function found
+
+[d] 18-05-14 03:05:44 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:44 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:44 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:44 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:44 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:44 @ Found function: users_getMyDetails
+
+[d] 18-05-14 03:05:44 @ Getting my details
+
+[d] 18-05-14 03:05:44 @ Loading user: test
+
+[d] 18-05-14 03:05:44 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-05-14 03:05:44 @ Finished! Memory used: Mb0.46668<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:49 @ Module was booted too
+
+[i] 18-05-14 03:05:49 @ Cala was booted...
+
+[d] 18-05-14 03:05:49 @ Loading module: db
+
+[d] 18-05-14 03:05:49 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:49 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:49 @ Module was booted too
+
+[d] 18-05-14 03:05:49 @ Conneted to Db
+
+[d] 18-05-14 03:05:49 @ Loading module: users
+
+[d] 18-05-14 03:05:49 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:49 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:49 @ Module was booted too
+
+[d] 18-05-14 03:05:49 @ Loading user
+
+[d] 18-05-14 03:05:49 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:49 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:49 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:49 @ Module was booted too
+
+[d] 18-05-14 03:05:49 @ Loading user
+
+[d] 18-05-14 03:05:49 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:49 @ Function found
+
+[d] 18-05-14 03:05:49 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:49 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:49 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:49 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:49 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:49 @ Found function: users_getMyDetails
+
+[d] 18-05-14 03:05:49 @ Getting my details
+
+[d] 18-05-14 03:05:49 @ Loading user: test
+
+[d] 18-05-14 03:05:49 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-05-14 03:05:49 @ Finished! Memory used: Mb0.46668<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[i] 18-05-14 03:05:56 @ Cala was booted...
+
+[d] 18-05-14 03:05:56 @ Loading module: db
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Conneted to Db
+
+[d] 18-05-14 03:05:56 @ Loading module: users
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Loading user
+
+[d] 18-05-14 03:05:56 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Function found
+
+[d] 18-05-14 03:05:56 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:56 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:56 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:56 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:56 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:56 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '123456'
+
+[d] 18-05-14 03:05:56 @ Finished! Memory used: Mb0.522872<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[i] 18-05-14 03:05:56 @ Cala was booted...
+
+[d] 18-05-14 03:05:56 @ Loading module: db
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Conneted to Db
+
+[d] 18-05-14 03:05:56 @ Loading module: users
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Loading user
+
+[d] 18-05-14 03:05:56 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Function found
+
+[d] 18-05-14 03:05:56 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:56 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:56 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:56 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:56 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:56 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '123456'
+
+[d] 18-05-14 03:05:56 @ Finished! Memory used: Mb0.522872<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[i] 18-05-14 03:05:56 @ Cala was booted...
+
+[d] 18-05-14 03:05:56 @ Loading module: db
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Conneted to Db
+
+[d] 18-05-14 03:05:56 @ Loading module: users
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Loading user
+
+[d] 18-05-14 03:05:56 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Function found
+
+[d] 18-05-14 03:05:56 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:56 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:56 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:56 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:56 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:56 @ Module was booted too
+
+[d] 18-05-14 03:05:56 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:56 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '123456'
+
+[d] 18-05-14 03:05:56 @ Finished! Memory used: Mb0.522872<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:57 @ Module was booted too
+
+[i] 18-05-14 03:05:57 @ Cala was booted...
+
+[d] 18-05-14 03:05:57 @ Loading module: db
+
+[d] 18-05-14 03:05:57 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:57 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:57 @ Module was booted too
+
+[d] 18-05-14 03:05:57 @ Conneted to Db
+
+[d] 18-05-14 03:05:57 @ Loading module: users
+
+[d] 18-05-14 03:05:57 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:57 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:57 @ Module was booted too
+
+[d] 18-05-14 03:05:57 @ Loading user
+
+[d] 18-05-14 03:05:57 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:57 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:57 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:57 @ Module was booted too
+
+[d] 18-05-14 03:05:57 @ Function found
+
+[d] 18-05-14 03:05:57 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:57 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:57 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:57 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:57 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:57 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:57 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:57 @ Module was booted too
+
+[d] 18-05-14 03:05:57 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:57 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '123456'
+
+[d] 18-05-14 03:05:57 @ Finished! Memory used: Mb0.522872<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:29 @ Module was booted too
+
+[i] 18-05-14 03:05:29 @ Cala was booted...
+
+[d] 18-05-14 03:05:29 @ Loading module: db
+
+[d] 18-05-14 03:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:29 @ Module was booted too
+
+[d] 18-05-14 03:05:29 @ Conneted to Db
+
+[d] 18-05-14 03:05:29 @ Loading module: users
+
+[d] 18-05-14 03:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:29 @ Module was booted too
+
+[d] 18-05-14 03:05:29 @ Loading user
+
+[d] 18-05-14 03:05:29 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:29 @ Module was booted too
+
+[d] 18-05-14 03:05:29 @ Function found
+
+[d] 18-05-14 03:05:29 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:29 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:29 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:29 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:29 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:29 @ Module was booted too
+
+[d] 18-05-14 03:05:29 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:29 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = 'U662UL'
+
+[d] 18-05-14 03:05:29 @ Finished! Memory used: Mb0.522872<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:29 @ Module was booted too
+
+[i] 18-05-14 03:05:29 @ Cala was booted...
+
+[d] 18-05-14 03:05:29 @ Loading module: db
+
+[d] 18-05-14 03:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:29 @ Module was booted too
+
+[d] 18-05-14 03:05:29 @ Conneted to Db
+
+[d] 18-05-14 03:05:29 @ Loading module: users
+
+[d] 18-05-14 03:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:29 @ Module was booted too
+
+[d] 18-05-14 03:05:29 @ Loading user
+
+[d] 18-05-14 03:05:29 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:29 @ Module was booted too
+
+[d] 18-05-14 03:05:29 @ Function found
+
+[d] 18-05-14 03:05:29 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:29 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:29 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:29 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:29 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '2d002cadd65e8bcf2df543e5e858d757'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:29 @ Module was booted too
+
+[d] 18-05-14 03:05:29 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:29 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = 'U662UL'
+
+[d] 18-05-14 03:05:29 @ Finished! Memory used: Mb0.522872<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[i] 18-05-14 03:05:53 @ Cala was booted...
+
+[d] 18-05-14 03:05:53 @ Loading module: db
+
+[d] 18-05-14 03:05:53 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:53 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[d] 18-05-14 03:05:53 @ Conneted to Db
+
+[d] 18-05-14 03:05:53 @ Loading module: users
+
+[d] 18-05-14 03:05:53 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[d] 18-05-14 03:05:53 @ Loading user
+
+[d] 18-05-14 03:05:53 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:53 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[d] 18-05-14 03:05:53 @ Loading user
+
+[d] 18-05-14 03:05:53 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:53 @ Function found
+
+[d] 18-05-14 03:05:53 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:53 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:53 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:53 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:53 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '7d4d4ec5e30dac3b2436d399be0513eb'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:53 @ No results found
+
+[d] 18-05-14 03:05:53 @ Finished! Memory used: Mb0.464168<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[i] 18-05-14 03:05:53 @ Cala was booted...
+
+[d] 18-05-14 03:05:53 @ Loading module: db
+
+[d] 18-05-14 03:05:53 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:53 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[d] 18-05-14 03:05:53 @ Conneted to Db
+
+[d] 18-05-14 03:05:53 @ Loading module: users
+
+[d] 18-05-14 03:05:53 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[d] 18-05-14 03:05:53 @ Loading user
+
+[d] 18-05-14 03:05:53 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:53 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:53 @ Module was booted too
+
+[d] 18-05-14 03:05:53 @ Loading user
+
+[d] 18-05-14 03:05:53 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:53 @ Function found
+
+[d] 18-05-14 03:05:53 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:53 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:53 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:53 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:53 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '7d4d4ec5e30dac3b2436d399be0513eb'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:53 @ No results found
+
+[d] 18-05-14 03:05:53 @ Finished! Memory used: Mb0.464168<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:59 @ Module was booted too
+
+[i] 18-05-14 03:05:59 @ Cala was booted...
+
+[d] 18-05-14 03:05:59 @ Loading module: db
+
+[d] 18-05-14 03:05:59 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:59 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:59 @ Module was booted too
+
+[d] 18-05-14 03:05:59 @ Conneted to Db
+
+[d] 18-05-14 03:05:59 @ Loading module: users
+
+[d] 18-05-14 03:05:59 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:59 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:59 @ Module was booted too
+
+[d] 18-05-14 03:05:59 @ Loading user
+
+[d] 18-05-14 03:05:59 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:59 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:59 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:59 @ Module was booted too
+
+[d] 18-05-14 03:05:59 @ Loading user
+
+[d] 18-05-14 03:05:59 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:59 @ Function found
+
+[d] 18-05-14 03:05:59 @ Looking for path: users_get_my_details
+
+[d] 18-05-14 03:05:59 @ Found path: users_get_my_details
+
+[d] 18-05-14 03:05:59 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:59 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:59 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '7d4d4ec5e30dac3b2436d399be0513eb'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:59 @ No results found
+
+[d] 18-05-14 03:05:59 @ Finished! Memory used: Mb0.464168<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:03 @ Module was booted too
+
+[i] 18-05-14 03:05:03 @ Cala was booted...
+
+[d] 18-05-14 03:05:03 @ Loading module: db
+
+[d] 18-05-14 03:05:03 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:03 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:03 @ Module was booted too
+
+[d] 18-05-14 03:05:03 @ Conneted to Db
+
+[d] 18-05-14 03:05:03 @ Loading module: users
+
+[d] 18-05-14 03:05:03 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:03 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:03 @ Module was booted too
+
+[d] 18-05-14 03:05:03 @ Loading user
+
+[d] 18-05-14 03:05:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:03 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:03 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:03 @ Module was booted too
+
+[d] 18-05-14 03:05:03 @ Loading user
+
+[d] 18-05-14 03:05:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:03 @ Function found
+
+[d] 18-05-14 03:05:03 @ Looking for path: users_log_me_in
+
+[d] 18-05-14 03:05:03 @ Found path: users_log_me_in
+
+[d] 18-05-14 03:05:03 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/login.php
+
+[d] 18-05-14 03:05:03 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/login.php
+
+[d] 18-05-14 03:05:03 @ Module was booted too
+
+[d] 18-05-14 03:05:03 @ Loading user
+
+[d] 18-05-14 03:05:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:03 @ Found function: users_logMeIn
+
+[d] 18-05-14 03:05:03 @ Log in this person
+
+[d] 18-05-14 03:05:03 @ username based login
+
+[d] 18-05-14 03:05:03 @ Loading user
+
+[d] 18-05-14 03:05:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'Test'
+
+[d] 18-05-14 03:05:03 @ Able to login
+
+[d] 18-05-14 03:05:03 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', '1c188233f198bd999b5df5b9c7dd4cf6', '181.193.3.250', '1526313423')
+
+[d] 18-05-14 03:05:03 @ Finished! Memory used: Mb0.470656<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:21 @ Module was booted too
+
+[i] 18-05-14 03:05:21 @ Cala was booted...
+
+[d] 18-05-14 03:05:21 @ Loading module: db
+
+[d] 18-05-14 03:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:21 @ Module was booted too
+
+[d] 18-05-14 03:05:21 @ Conneted to Db
+
+[d] 18-05-14 03:05:21 @ Loading module: users
+
+[d] 18-05-14 03:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:21 @ Module was booted too
+
+[d] 18-05-14 03:05:21 @ Loading user
+
+[d] 18-05-14 03:05:21 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:21 @ Module was booted too
+
+[d] 18-05-14 03:05:21 @ Function found
+
+[d] 18-05-14 03:05:21 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:21 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:21 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:21 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:21 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:21 @ Module was booted too
+
+[d] 18-05-14 03:05:21 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:21 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = 'U662UL'
+
+[d] 18-05-14 03:05:21 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:21 @ Module was booted too
+
+[i] 18-05-14 03:05:21 @ Cala was booted...
+
+[d] 18-05-14 03:05:21 @ Loading module: db
+
+[d] 18-05-14 03:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:21 @ Module was booted too
+
+[d] 18-05-14 03:05:21 @ Conneted to Db
+
+[d] 18-05-14 03:05:21 @ Loading module: users
+
+[d] 18-05-14 03:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:21 @ Module was booted too
+
+[d] 18-05-14 03:05:21 @ Loading user
+
+[d] 18-05-14 03:05:21 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:21 @ Module was booted too
+
+[d] 18-05-14 03:05:21 @ Function found
+
+[d] 18-05-14 03:05:21 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:21 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:21 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:21 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:21 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:21 @ Module was booted too
+
+[d] 18-05-14 03:05:21 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:21 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = 'U662UL'
+
+[d] 18-05-14 03:05:21 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:27 @ Module was booted too
+
+[i] 18-05-14 03:05:27 @ Cala was booted...
+
+[d] 18-05-14 03:05:27 @ Loading module: db
+
+[d] 18-05-14 03:05:27 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:27 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:27 @ Module was booted too
+
+[d] 18-05-14 03:05:27 @ Conneted to Db
+
+[d] 18-05-14 03:05:27 @ Loading module: users
+
+[d] 18-05-14 03:05:27 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:27 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:27 @ Module was booted too
+
+[d] 18-05-14 03:05:27 @ Loading user
+
+[d] 18-05-14 03:05:27 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:27 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:27 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:27 @ Module was booted too
+
+[d] 18-05-14 03:05:27 @ Function found
+
+[d] 18-05-14 03:05:27 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:27 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:27 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:27 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:27 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:27 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:27 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:27 @ Module was booted too
+
+[d] 18-05-14 03:05:27 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:27 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = 'U662UL'
+
+[d] 18-05-14 03:05:27 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:02 @ Module was booted too
+
+[i] 18-05-14 03:05:02 @ Cala was booted...
+
+[d] 18-05-14 03:05:02 @ Loading module: db
+
+[d] 18-05-14 03:05:02 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:02 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:02 @ Module was booted too
+
+[d] 18-05-14 03:05:02 @ Conneted to Db
+
+[d] 18-05-14 03:05:02 @ Loading module: users
+
+[d] 18-05-14 03:05:02 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:02 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:02 @ Module was booted too
+
+[d] 18-05-14 03:05:02 @ Loading user
+
+[d] 18-05-14 03:05:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:02 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:02 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:02 @ Module was booted too
+
+[d] 18-05-14 03:05:02 @ Function found
+
+[d] 18-05-14 03:05:02 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:02 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:02 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:02 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:02 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:02 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:02 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:02 @ Module was booted too
+
+[d] 18-05-14 03:05:02 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:02 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '02JR4K'
+
+[d] 18-05-14 03:05:02 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:05 @ Module was booted too
+
+[i] 18-05-14 03:05:05 @ Cala was booted...
+
+[d] 18-05-14 03:05:05 @ Loading module: db
+
+[d] 18-05-14 03:05:05 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:05 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:05 @ Module was booted too
+
+[d] 18-05-14 03:05:05 @ Conneted to Db
+
+[d] 18-05-14 03:05:05 @ Loading module: users
+
+[d] 18-05-14 03:05:05 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:05 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:05 @ Module was booted too
+
+[d] 18-05-14 03:05:05 @ Loading user
+
+[d] 18-05-14 03:05:05 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:05 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:05 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:05 @ Module was booted too
+
+[d] 18-05-14 03:05:05 @ Function found
+
+[d] 18-05-14 03:05:05 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:05 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:05 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:05 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:05 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:05 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:05 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:05 @ Module was booted too
+
+[d] 18-05-14 03:05:05 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:05 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '02JR4K'
+
+[d] 18-05-14 03:05:05 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:06 @ Module was booted too
+
+[i] 18-05-14 03:05:06 @ Cala was booted...
+
+[d] 18-05-14 03:05:06 @ Loading module: db
+
+[d] 18-05-14 03:05:06 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:06 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:06 @ Module was booted too
+
+[d] 18-05-14 03:05:06 @ Conneted to Db
+
+[d] 18-05-14 03:05:06 @ Loading module: users
+
+[d] 18-05-14 03:05:06 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:06 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:06 @ Module was booted too
+
+[d] 18-05-14 03:05:06 @ Loading user
+
+[d] 18-05-14 03:05:06 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:06 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:06 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:06 @ Module was booted too
+
+[d] 18-05-14 03:05:06 @ Function found
+
+[d] 18-05-14 03:05:06 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:06 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:06 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:06 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:06 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:06 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:06 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:06 @ Module was booted too
+
+[d] 18-05-14 03:05:06 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:06 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '02JR4K'
+
+[d] 18-05-14 03:05:06 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:08 @ Module was booted too
+
+[i] 18-05-14 03:05:08 @ Cala was booted...
+
+[d] 18-05-14 03:05:08 @ Loading module: db
+
+[d] 18-05-14 03:05:08 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:08 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:08 @ Module was booted too
+
+[d] 18-05-14 03:05:08 @ Conneted to Db
+
+[d] 18-05-14 03:05:08 @ Loading module: users
+
+[d] 18-05-14 03:05:08 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:08 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:08 @ Module was booted too
+
+[d] 18-05-14 03:05:08 @ Loading user
+
+[d] 18-05-14 03:05:08 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:08 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:08 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:08 @ Module was booted too
+
+[d] 18-05-14 03:05:08 @ Function found
+
+[d] 18-05-14 03:05:08 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:08 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:08 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:08 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:08 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:08 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:08 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:08 @ Module was booted too
+
+[d] 18-05-14 03:05:08 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:08 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '02JR4K'
+
+[d] 18-05-14 03:05:08 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:10 @ Module was booted too
+
+[i] 18-05-14 03:05:10 @ Cala was booted...
+
+[d] 18-05-14 03:05:10 @ Loading module: db
+
+[d] 18-05-14 03:05:10 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:10 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:10 @ Module was booted too
+
+[d] 18-05-14 03:05:10 @ Conneted to Db
+
+[d] 18-05-14 03:05:10 @ Loading module: users
+
+[d] 18-05-14 03:05:10 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:10 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:10 @ Module was booted too
+
+[d] 18-05-14 03:05:10 @ Loading user
+
+[d] 18-05-14 03:05:10 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:10 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:10 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:10 @ Module was booted too
+
+[d] 18-05-14 03:05:10 @ Function found
+
+[d] 18-05-14 03:05:10 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:10 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:10 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:10 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:10 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:10 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:10 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:10 @ Module was booted too
+
+[d] 18-05-14 03:05:10 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:10 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '02JR4K'
+
+[d] 18-05-14 03:05:10 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:13 @ Module was booted too
+
+[i] 18-05-14 03:05:13 @ Cala was booted...
+
+[d] 18-05-14 03:05:13 @ Loading module: db
+
+[d] 18-05-14 03:05:13 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:13 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:13 @ Module was booted too
+
+[d] 18-05-14 03:05:13 @ Conneted to Db
+
+[d] 18-05-14 03:05:13 @ Loading module: users
+
+[d] 18-05-14 03:05:13 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:13 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:13 @ Module was booted too
+
+[d] 18-05-14 03:05:13 @ Loading user
+
+[d] 18-05-14 03:05:13 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:13 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:13 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:13 @ Module was booted too
+
+[d] 18-05-14 03:05:13 @ Function found
+
+[d] 18-05-14 03:05:13 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:13 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:13 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:13 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:13 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:13 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:13 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:13 @ Module was booted too
+
+[d] 18-05-14 03:05:13 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:13 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '02JR4K'
+
+[d] 18-05-14 03:05:13 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:15 @ Module was booted too
+
+[i] 18-05-14 03:05:15 @ Cala was booted...
+
+[d] 18-05-14 03:05:15 @ Loading module: db
+
+[d] 18-05-14 03:05:15 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:15 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:15 @ Module was booted too
+
+[d] 18-05-14 03:05:15 @ Conneted to Db
+
+[d] 18-05-14 03:05:15 @ Loading module: users
+
+[d] 18-05-14 03:05:15 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:15 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:15 @ Module was booted too
+
+[d] 18-05-14 03:05:15 @ Loading user
+
+[d] 18-05-14 03:05:15 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:15 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:15 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:15 @ Module was booted too
+
+[d] 18-05-14 03:05:15 @ Function found
+
+[d] 18-05-14 03:05:15 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:15 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:15 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:15 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:15 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:15 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:15 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:15 @ Module was booted too
+
+[d] 18-05-14 03:05:15 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:15 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '02JR4K'
+
+[d] 18-05-14 03:05:15 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:17 @ Module was booted too
+
+[i] 18-05-14 03:05:17 @ Cala was booted...
+
+[d] 18-05-14 03:05:17 @ Loading module: db
+
+[d] 18-05-14 03:05:17 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:17 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:17 @ Module was booted too
+
+[d] 18-05-14 03:05:17 @ Conneted to Db
+
+[d] 18-05-14 03:05:17 @ Loading module: users
+
+[d] 18-05-14 03:05:17 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:17 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:17 @ Module was booted too
+
+[d] 18-05-14 03:05:17 @ Loading user
+
+[d] 18-05-14 03:05:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:17 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:17 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:17 @ Module was booted too
+
+[d] 18-05-14 03:05:17 @ Function found
+
+[d] 18-05-14 03:05:17 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:17 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:17 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:17 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:17 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:17 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:17 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:17 @ Module was booted too
+
+[d] 18-05-14 03:05:17 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:17 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '02JR4K'
+
+[d] 18-05-14 03:05:17 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:19 @ Module was booted too
+
+[i] 18-05-14 03:05:19 @ Cala was booted...
+
+[d] 18-05-14 03:05:19 @ Loading module: db
+
+[d] 18-05-14 03:05:19 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:19 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:19 @ Module was booted too
+
+[d] 18-05-14 03:05:19 @ Conneted to Db
+
+[d] 18-05-14 03:05:19 @ Loading module: users
+
+[d] 18-05-14 03:05:19 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:19 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:19 @ Module was booted too
+
+[d] 18-05-14 03:05:19 @ Loading user
+
+[d] 18-05-14 03:05:19 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:19 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:19 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:19 @ Module was booted too
+
+[d] 18-05-14 03:05:19 @ Function found
+
+[d] 18-05-14 03:05:19 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:19 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:19 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:19 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:19 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:19 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:19 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:19 @ Module was booted too
+
+[d] 18-05-14 03:05:19 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:19 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '02JR4K'
+
+[d] 18-05-14 03:05:19 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-14 03:05:20 @ Module was booted too
+
+[i] 18-05-14 03:05:20 @ Cala was booted...
+
+[d] 18-05-14 03:05:20 @ Loading module: db
+
+[d] 18-05-14 03:05:20 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:20 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-14 03:05:20 @ Module was booted too
+
+[d] 18-05-14 03:05:20 @ Conneted to Db
+
+[d] 18-05-14 03:05:20 @ Loading module: users
+
+[d] 18-05-14 03:05:20 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:20 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-14 03:05:20 @ Module was booted too
+
+[d] 18-05-14 03:05:20 @ Loading user
+
+[d] 18-05-14 03:05:20 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-14 03:05:20 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:20 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-14 03:05:20 @ Module was booted too
+
+[d] 18-05-14 03:05:20 @ Function found
+
+[d] 18-05-14 03:05:20 @ Looking for path: get_code_type
+
+[d] 18-05-14 03:05:20 @ Found path: get_code_type
+
+[d] 18-05-14 03:05:20 @ Confirm that the user is logged in
+
+[d] 18-05-14 03:05:20 @ Confirm the session for this user
+
+[d] 18-05-14 03:05:20 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '1c188233f198bd999b5df5b9c7dd4cf6'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-14 03:05:20 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:20 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-14 03:05:20 @ Module was booted too
+
+[d] 18-05-14 03:05:20 @ Found function: getCodeType
+
+[d] 18-05-14 03:05:20 @ SELECT `materia`, `grado`  
+    FROM `sapiens_keys` 
+    WHERE `subjectCode` = '02JR4K'
+
+[d] 18-05-14 03:05:20 @ Finished! Memory used: Mb0.522952<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

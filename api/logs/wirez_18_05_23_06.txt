@@ -1,0 +1,148 @@
+[d] 18-05-23 06:05:09 @ Module was booted too
+
+[i] 18-05-23 06:05:09 @ Cala was booted...
+
+[d] 18-05-23 06:05:09 @ Loading module: db
+
+[d] 18-05-23 06:05:09 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-23 06:05:09 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-23 06:05:09 @ Module was booted too
+
+[d] 18-05-23 06:05:09 @ Conneted to Db
+
+[d] 18-05-23 06:05:09 @ Loading module: users
+
+[d] 18-05-23 06:05:09 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-23 06:05:09 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-23 06:05:09 @ Module was booted too
+
+[d] 18-05-23 06:05:09 @ Loading user
+
+[d] 18-05-23 06:05:09 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-23 06:05:09 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-23 06:05:09 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-23 06:05:09 @ Module was booted too
+
+[d] 18-05-23 06:05:09 @ Function found
+
+[d] 18-05-23 06:05:09 @ Looking for path: get_activated_subs
+
+[d] 18-05-23 06:05:09 @ Found path: get_activated_subs
+
+[d] 18-05-23 06:05:09 @ Confirm that the user is logged in
+
+[d] 18-05-23 06:05:09 @ Confirm the session for this user
+
+[d] 18-05-23 06:05:09 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '5801219711c589887234116cefdfc92e'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-23 06:05:09 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-23 06:05:09 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-23 06:05:09 @ Module was booted too
+
+[d] 18-05-23 06:05:09 @ Found function: getActivatedSubjects
+
+[d] 18-05-23 06:05:09 @ SELECT `codeId`, `subjectCode`, `materia`, `tipo`  
+    FROM `sapiens_keys` 
+    WHERE `usuarioAct` = 'test' 
+    AND (`fechaFin` >= 1527098409 
+    OR `fechaFin` = 0) 
+    AND `estado` = '1' 
+    AND `grado` = '5'
+
+[d] 18-05-23 06:05:09 @ UPDATE `sapiens_keys` 
+    SET `estado` = '2' 
+    WHERE `fechaFin` < 1527098409 
+    AND `fechaFin` > 0 
+    AND `usuarioAct` = 'test'
+
+[d] 18-05-23 06:05:09 @ Finished! Memory used: Mb0.544056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-23 06:05:39 @ Module was booted too
+
+[i] 18-05-23 06:05:39 @ Cala was booted...
+
+[d] 18-05-23 06:05:39 @ Loading module: db
+
+[d] 18-05-23 06:05:39 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-23 06:05:39 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-23 06:05:39 @ Module was booted too
+
+[d] 18-05-23 06:05:39 @ Conneted to Db
+
+[d] 18-05-23 06:05:39 @ Loading module: users
+
+[d] 18-05-23 06:05:39 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-23 06:05:39 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-23 06:05:39 @ Module was booted too
+
+[d] 18-05-23 06:05:39 @ Loading user
+
+[d] 18-05-23 06:05:39 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-05-23 06:05:39 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-23 06:05:39 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-23 06:05:39 @ Module was booted too
+
+[d] 18-05-23 06:05:39 @ Function found
+
+[d] 18-05-23 06:05:39 @ Looking for path: get_activated_subs
+
+[d] 18-05-23 06:05:39 @ Found path: get_activated_subs
+
+[d] 18-05-23 06:05:39 @ Confirm that the user is logged in
+
+[d] 18-05-23 06:05:39 @ Confirm the session for this user
+
+[d] 18-05-23 06:05:39 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '5801219711c589887234116cefdfc92e'
+        AND ip = '181.193.3.250'
+        AND idUser = '1'
+
+[d] 18-05-23 06:05:39 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-23 06:05:39 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-23 06:05:39 @ Module was booted too
+
+[d] 18-05-23 06:05:39 @ Found function: getActivatedSubjects
+
+[d] 18-05-23 06:05:39 @ SELECT `codeId`, `subjectCode`, `materia`, `tipo`  
+    FROM `sapiens_keys` 
+    WHERE `usuarioAct` = 'test' 
+    AND (`fechaFin` >= 1527098499 
+    OR `fechaFin` = 0) 
+    AND `estado` = '1' 
+    AND `grado` = '5'
+
+[d] 18-05-23 06:05:39 @ UPDATE `sapiens_keys` 
+    SET `estado` = '2' 
+    WHERE `fechaFin` < 1527098499 
+    AND `fechaFin` > 0 
+    AND `usuarioAct` = 'test'
+
+[d] 18-05-23 06:05:39 @ Finished! Memory used: Mb0.544056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

@@ -1,0 +1,538 @@
+[d] 18-04-19 02:04:33 @ Module was booted too
+
+[i] 18-04-19 02:04:33 @ Cala was booted...
+
+[d] 18-04-19 02:04:33 @ Loading module: db
+
+[d] 18-04-19 02:04:33 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:33 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:33 @ Module was booted too
+
+[e] 18-04-19 02:04:33 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:33 @ Loading module: users
+
+[d] 18-04-19 02:04:33 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:33 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:33 @ Module was booted too
+
+[d] 18-04-19 02:04:33 @ Loading user
+
+[d] 18-04-19 02:04:33 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-19 02:04:33 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:33 @ Loading in path: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:33 @ Including file: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:33 @ Module was booted too
+
+[i] 18-04-19 02:04:33 @ Cala was booted...
+
+[d] 18-04-19 02:04:33 @ Finished! Memory used: Mb0.604328<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 02:04:37 @ Module was booted too
+
+[i] 18-04-19 02:04:37 @ Cala was booted...
+
+[d] 18-04-19 02:04:37 @ Loading module: db
+
+[d] 18-04-19 02:04:37 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:37 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:37 @ Module was booted too
+
+[e] 18-04-19 02:04:37 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:37 @ Loading module: users
+
+[d] 18-04-19 02:04:37 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:37 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:37 @ Module was booted too
+
+[d] 18-04-19 02:04:37 @ Loading user
+
+[d] 18-04-19 02:04:37 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-19 02:04:37 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:37 @ Loading in path: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:37 @ Including file: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:37 @ Module was booted too
+
+[i] 18-04-19 02:04:37 @ Cala was booted...
+
+[d] 18-04-19 02:04:37 @ Finished! Memory used: Mb0.37788<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 02:04:00 @ Module was booted too
+
+[i] 18-04-19 02:04:00 @ Cala was booted...
+
+[d] 18-04-19 02:04:00 @ Loading module: db
+
+[d] 18-04-19 02:04:00 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:00 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:00 @ Module was booted too
+
+[e] 18-04-19 02:04:00 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:00 @ Loading module: users
+
+[d] 18-04-19 02:04:00 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:00 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:00 @ Module was booted too
+
+[d] 18-04-19 02:04:00 @ Loading user
+
+[d] 18-04-19 02:04:00 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-19 02:04:00 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:00 @ Loading in path: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:00 @ Including file: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:00 @ Module was booted too
+
+[i] 18-04-19 02:04:00 @ Cala was booted...
+
+[d] 18-04-19 02:04:00 @ Finished! Memory used: Mb0.377888<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 02:04:24 @ Module was booted too
+
+[i] 18-04-19 02:04:24 @ Cala was booted...
+
+[d] 18-04-19 02:04:24 @ Loading module: db
+
+[d] 18-04-19 02:04:24 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:24 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:24 @ Module was booted too
+
+[e] 18-04-19 02:04:24 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:24 @ Loading module: users
+
+[d] 18-04-19 02:04:24 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:24 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:24 @ Module was booted too
+
+[d] 18-04-19 02:04:24 @ Loading user
+
+[d] 18-04-19 02:04:24 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-19 02:04:24 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:24 @ Loading in path: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:24 @ Including file: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:24 @ Module was booted too
+
+[i] 18-04-19 02:04:24 @ Cala was booted...
+
+[d] 18-04-19 02:04:24 @ Finished! Memory used: Mb0.377888<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 02:04:46 @ Module was booted too
+
+[i] 18-04-19 02:04:46 @ Cala was booted...
+
+[d] 18-04-19 02:04:46 @ Loading module: db
+
+[d] 18-04-19 02:04:46 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:46 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:46 @ Module was booted too
+
+[e] 18-04-19 02:04:46 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:46 @ Loading module: users
+
+[d] 18-04-19 02:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:46 @ Module was booted too
+
+[d] 18-04-19 02:04:46 @ Loading user
+
+[d] 18-04-19 02:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-19 02:04:46 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:46 @ Loading in path: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:46 @ Including file: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:46 @ Module was booted too
+
+[i] 18-04-19 02:04:46 @ Cala was booted...
+
+[d] 18-04-19 02:04:46 @ Finished! Memory used: Mb0.377888<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 02:04:16 @ Module was booted too
+
+[i] 18-04-19 02:04:16 @ Cala was booted...
+
+[d] 18-04-19 02:04:16 @ Loading module: db
+
+[d] 18-04-19 02:04:16 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:16 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:16 @ Module was booted too
+
+[e] 18-04-19 02:04:16 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:16 @ Loading module: users
+
+[d] 18-04-19 02:04:16 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:16 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:16 @ Module was booted too
+
+[d] 18-04-19 02:04:16 @ Loading user
+
+[d] 18-04-19 02:04:16 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-19 02:04:16 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:16 @ Loading in path: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:16 @ Including file: ../api/modules/cala/module.php
+
+[d] 18-04-19 02:04:16 @ Module was booted too
+
+[i] 18-04-19 02:04:16 @ Cala was booted...
+
+[d] 18-04-19 02:04:16 @ Finished! Memory used: Mb0.37788<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 02:04:01 @ Module was booted too
+
+[i] 18-04-19 02:04:01 @ Cala was booted...
+
+[d] 18-04-19 02:04:01 @ Loading module: db
+
+[d] 18-04-19 02:04:01 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:01 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:01 @ Module was booted too
+
+[e] 18-04-19 02:04:01 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:01 @ Loading module: users
+
+[d] 18-04-19 02:04:01 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:01 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:01 @ Module was booted too
+
+[d] 18-04-19 02:04:01 @ Loading user
+
+[d] 18-04-19 02:04:01 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:01 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:01 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:01 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:01 @ Module was booted too
+
+[d] 18-04-19 02:04:01 @ Loading user
+
+[d] 18-04-19 02:04:01 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:01 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:01 @ Function found
+
+[d] 18-04-19 02:04:01 @ Looking for path: users_log_me_in
+
+[d] 18-04-19 02:04:01 @ Found path: users_log_me_in
+
+[d] 18-04-19 02:04:01 @ Missing param: pwd
+
+[d] 18-04-19 02:04:01 @ Finished! Memory used: Mb0.378832<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 02:04:22 @ Module was booted too
+
+[i] 18-04-19 02:04:22 @ Cala was booted...
+
+[d] 18-04-19 02:04:22 @ Loading module: db
+
+[d] 18-04-19 02:04:22 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:22 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:22 @ Module was booted too
+
+[e] 18-04-19 02:04:22 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:22 @ Loading module: users
+
+[d] 18-04-19 02:04:22 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:22 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:22 @ Module was booted too
+
+[d] 18-04-19 02:04:22 @ Loading user
+
+[d] 18-04-19 02:04:22 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:22 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:22 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:22 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:22 @ Module was booted too
+
+[d] 18-04-19 02:04:22 @ Loading user
+
+[d] 18-04-19 02:04:22 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:22 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:22 @ Function found
+
+[d] 18-04-19 02:04:22 @ Looking for path: users_log_me_in
+
+[d] 18-04-19 02:04:22 @ Found path: users_log_me_in
+
+[d] 18-04-19 02:04:22 @ Missing param: pwd
+
+[d] 18-04-19 02:04:22 @ Finished! Memory used: Mb0.37884<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 02:04:32 @ Module was booted too
+
+[i] 18-04-19 02:04:32 @ Cala was booted...
+
+[d] 18-04-19 02:04:32 @ Loading module: db
+
+[d] 18-04-19 02:04:32 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:32 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:32 @ Module was booted too
+
+[e] 18-04-19 02:04:32 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:32 @ Loading module: users
+
+[d] 18-04-19 02:04:32 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:32 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:32 @ Module was booted too
+
+[d] 18-04-19 02:04:32 @ Loading user
+
+[d] 18-04-19 02:04:32 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:32 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:32 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:32 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:32 @ Module was booted too
+
+[d] 18-04-19 02:04:32 @ Loading user
+
+[d] 18-04-19 02:04:32 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:32 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:32 @ Function found
+
+[d] 18-04-19 02:04:32 @ Looking for path: users_log_me_in
+
+[d] 18-04-19 02:04:32 @ Found path: users_log_me_in
+
+[d] 18-04-19 02:04:32 @ Missing param: pwd
+
+[d] 18-04-19 02:04:32 @ Finished! Memory used: Mb0.378832<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 02:04:55 @ Module was booted too
+
+[i] 18-04-19 02:04:55 @ Cala was booted...
+
+[d] 18-04-19 02:04:55 @ Loading module: db
+
+[d] 18-04-19 02:04:55 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:55 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:55 @ Module was booted too
+
+[e] 18-04-19 02:04:55 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:55 @ Loading module: users
+
+[d] 18-04-19 02:04:55 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:55 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:55 @ Module was booted too
+
+[d] 18-04-19 02:04:55 @ Loading user
+
+[d] 18-04-19 02:04:55 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:55 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:55 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:55 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:55 @ Module was booted too
+
+[d] 18-04-19 02:04:55 @ Loading user
+
+[d] 18-04-19 02:04:55 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:55 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:55 @ Function found
+
+[d] 18-04-19 02:04:55 @ Looking for path: users_log_me_in
+
+[d] 18-04-19 02:04:55 @ Found path: users_log_me_in
+
+[d] 18-04-19 02:04:55 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-19 02:04:55 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-19 02:04:55 @ Module was booted too
+
+[d] 18-04-19 02:04:55 @ Loading user
+
+[d] 18-04-19 02:04:55 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:55 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:55 @ Found function: users_logMeIn
+
+[d] 18-04-19 02:04:55 @ Log in this person
+
+[d] 18-04-19 02:04:55 @ username based login
+
+[d] 18-04-19 02:04:55 @ Loading user
+
+[d] 18-04-19 02:04:55 @ SELECT *
+	FROM users
+	 WHERE userName = 'd'
+
+[e] 18-04-19 02:04:55 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:55 @ Not able to login  | 8277e0910d750195b448797616e091ad
+
+[d] 18-04-19 02:04:55 @ Finished! Memory used: Mb0.513928<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 02:04:47 @ Module was booted too
+
+[i] 18-04-19 02:04:47 @ Cala was booted...
+
+[d] 18-04-19 02:04:47 @ Loading module: db
+
+[d] 18-04-19 02:04:47 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:47 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 02:04:47 @ Module was booted too
+
+[e] 18-04-19 02:04:47 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:47 @ Loading module: users
+
+[d] 18-04-19 02:04:47 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:47 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:47 @ Module was booted too
+
+[d] 18-04-19 02:04:47 @ Loading user
+
+[d] 18-04-19 02:04:47 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:47 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:47 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:47 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 02:04:47 @ Module was booted too
+
+[d] 18-04-19 02:04:47 @ Loading user
+
+[d] 18-04-19 02:04:47 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 02:04:47 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-19 02:04:47 @ Function found
+
+[d] 18-04-19 02:04:47 @ Looking for path: users_log_me_in
+
+[d] 18-04-19 02:04:47 @ Found path: users_log_me_in
+
+[d] 18-04-19 02:04:47 @ Missing param: pwd
+
+[d] 18-04-19 02:04:47 @ Finished! Memory used: Mb0.378832<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

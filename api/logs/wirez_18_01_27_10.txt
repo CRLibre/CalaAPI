@@ -1,0 +1,260 @@
+[d] 18-01-27 10:01:44 @ Module was booted too
+
+[i] 18-01-27 10:01:44 @ Cala was booted...
+
+[d] 18-01-27 10:01:44 @ Loading module: db
+
+[d] 18-01-27 10:01:44 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 10:01:44 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 10:01:44 @ Module was booted too
+
+[e] 18-01-27 10:01:44 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 10:01:44 @ Loading module: users
+
+[d] 18-01-27 10:01:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 10:01:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 10:01:44 @ Module was booted too
+
+[d] 18-01-27 10:01:44 @ Loading user
+
+[d] 18-01-27 10:01:44 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 10:01:44 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 10:01:44 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 10:01:44 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 10:01:44 @ Module was booted too
+
+[d] 18-01-27 10:01:44 @ Function found
+
+[d] 18-01-27 10:01:44 @ Looking for path: gen_xml
+
+[d] 18-01-27 10:01:44 @ Found path: gen_xml
+
+[d] 18-01-27 10:01:44 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 10:01:44 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 10:01:44 @ Module was booted too
+
+[d] 18-01-27 10:01:44 @ Found function: XMLGenerator
+
+[d] 18-01-27 10:01:44 @ Finished! Memory used: Mb0.526632<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 10:01:23 @ Module was booted too
+
+[i] 18-01-27 10:01:23 @ Cala was booted...
+
+[d] 18-01-27 10:01:23 @ Loading module: db
+
+[d] 18-01-27 10:01:23 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 10:01:23 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 10:01:23 @ Module was booted too
+
+[e] 18-01-27 10:01:23 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 10:01:23 @ Loading module: users
+
+[d] 18-01-27 10:01:23 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 10:01:23 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 10:01:23 @ Module was booted too
+
+[d] 18-01-27 10:01:23 @ Loading user
+
+[d] 18-01-27 10:01:23 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 10:01:23 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 10:01:23 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 10:01:23 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 10:01:23 @ Module was booted too
+
+[d] 18-01-27 10:01:23 @ Function found
+
+[d] 18-01-27 10:01:23 @ Looking for path: gen_xml
+
+[d] 18-01-27 10:01:23 @ Found path: gen_xml
+
+[d] 18-01-27 10:01:23 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 10:01:23 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 10:01:23 @ Module was booted too
+
+[d] 18-01-27 10:01:23 @ Found function: XMLGenerator
+
+[d] 18-01-27 10:01:23 @ Finished! Memory used: Mb0.424736<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 10:01:47 @ Module was booted too
+
+[i] 18-01-27 10:01:47 @ Cala was booted...
+
+[d] 18-01-27 10:01:47 @ Loading module: db
+
+[d] 18-01-27 10:01:47 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 10:01:47 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 10:01:47 @ Module was booted too
+
+[e] 18-01-27 10:01:47 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 10:01:47 @ Loading module: users
+
+[d] 18-01-27 10:01:47 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 10:01:47 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 10:01:47 @ Module was booted too
+
+[d] 18-01-27 10:01:47 @ Loading user
+
+[d] 18-01-27 10:01:47 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 10:01:47 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 10:01:47 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 10:01:47 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 10:01:47 @ Module was booted too
+
+[d] 18-01-27 10:01:47 @ Function found
+
+[d] 18-01-27 10:01:47 @ Looking for path: gen_xml
+
+[d] 18-01-27 10:01:47 @ Found path: gen_xml
+
+[d] 18-01-27 10:01:47 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 10:01:47 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 10:01:47 @ Module was booted too
+
+[d] 18-01-27 10:01:47 @ Found function: XMLGenerator
+
+[d] 18-01-27 10:01:47 @ Finished! Memory used: Mb0.526544<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 10:01:31 @ Module was booted too
+
+[i] 18-01-27 10:01:31 @ Cala was booted...
+
+[d] 18-01-27 10:01:31 @ Loading module: db
+
+[d] 18-01-27 10:01:31 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 10:01:31 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 10:01:31 @ Module was booted too
+
+[e] 18-01-27 10:01:31 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 10:01:31 @ Loading module: users
+
+[d] 18-01-27 10:01:31 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 10:01:31 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 10:01:31 @ Module was booted too
+
+[d] 18-01-27 10:01:31 @ Loading user
+
+[d] 18-01-27 10:01:31 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 10:01:31 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 10:01:31 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 10:01:31 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 10:01:31 @ Module was booted too
+
+[d] 18-01-27 10:01:31 @ Function found
+
+[d] 18-01-27 10:01:31 @ Looking for path: gen_xml
+
+[d] 18-01-27 10:01:31 @ Found path: gen_xml
+
+[d] 18-01-27 10:01:31 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 10:01:31 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 10:01:31 @ Module was booted too
+
+[d] 18-01-27 10:01:31 @ Found function: XMLGenerator
+
+[d] 18-01-27 10:01:31 @ Finished! Memory used: Mb0.424816<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 10:01:47 @ Module was booted too
+
+[i] 18-01-27 10:01:47 @ Cala was booted...
+
+[d] 18-01-27 10:01:47 @ Loading module: db
+
+[d] 18-01-27 10:01:47 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 10:01:47 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 10:01:47 @ Module was booted too
+
+[e] 18-01-27 10:01:47 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 10:01:47 @ Loading module: users
+
+[d] 18-01-27 10:01:47 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 10:01:47 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 10:01:47 @ Module was booted too
+
+[d] 18-01-27 10:01:47 @ Loading user
+
+[d] 18-01-27 10:01:47 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 10:01:47 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 10:01:47 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 10:01:47 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 10:01:47 @ Module was booted too
+
+[d] 18-01-27 10:01:47 @ Function found
+
+[d] 18-01-27 10:01:47 @ Looking for path: gen_xml
+
+[d] 18-01-27 10:01:47 @ Found path: gen_xml
+
+[d] 18-01-27 10:01:47 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 10:01:47 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 10:01:47 @ Module was booted too
+
+[d] 18-01-27 10:01:47 @ Found function: XMLGenerator
+
+[d] 18-01-27 10:01:47 @ Finished! Memory used: Mb0.424928<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

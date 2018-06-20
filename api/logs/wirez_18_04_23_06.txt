@@ -1,0 +1,300 @@
+[d] 18-04-23 06:04:03 @ Module was booted too
+
+[i] 18-04-23 06:04:03 @ Cala was booted...
+
+[d] 18-04-23 06:04:03 @ Loading module: db
+
+[d] 18-04-23 06:04:03 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 06:04:03 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 06:04:03 @ Module was booted too
+
+[d] 18-04-23 06:04:03 @ Conneted to Db
+
+[d] 18-04-23 06:04:03 @ Loading module: users
+
+[d] 18-04-23 06:04:03 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:03 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:03 @ Module was booted too
+
+[d] 18-04-23 06:04:03 @ Loading user
+
+[d] 18-04-23 06:04:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'test2'
+
+[d] 18-04-23 06:04:03 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:03 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:03 @ Module was booted too
+
+[d] 18-04-23 06:04:03 @ Loading user
+
+[d] 18-04-23 06:04:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'test2'
+
+[d] 18-04-23 06:04:03 @ Function found
+
+[d] 18-04-23 06:04:03 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 06:04:03 @ Found path: users_get_my_details
+
+[d] 18-04-23 06:04:03 @ Confirm that the user is logged in
+
+[d] 18-04-23 06:04:03 @ Confirm the session for this user
+
+[d] 18-04-23 06:04:03 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '6854ea37980a4732e38d07c967661cc5'
+        AND ip = '192.168.1.117'
+        AND idUser = '2'
+
+[d] 18-04-23 06:04:03 @ User last access is to old
+
+[d] 18-04-23 06:04:03 @ Finished! Memory used: Mb0.40644<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 06:04:44 @ Module was booted too
+
+[i] 18-04-23 06:04:44 @ Cala was booted...
+
+[d] 18-04-23 06:04:44 @ Loading module: db
+
+[d] 18-04-23 06:04:44 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 06:04:44 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 06:04:44 @ Module was booted too
+
+[d] 18-04-23 06:04:44 @ Conneted to Db
+
+[d] 18-04-23 06:04:44 @ Loading module: users
+
+[d] 18-04-23 06:04:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:44 @ Module was booted too
+
+[d] 18-04-23 06:04:44 @ Loading user
+
+[d] 18-04-23 06:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'test2'
+
+[d] 18-04-23 06:04:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:44 @ Module was booted too
+
+[d] 18-04-23 06:04:44 @ Loading user
+
+[d] 18-04-23 06:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'test2'
+
+[d] 18-04-23 06:04:44 @ Function found
+
+[d] 18-04-23 06:04:44 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 06:04:44 @ Found path: users_get_my_details
+
+[d] 18-04-23 06:04:44 @ Confirm that the user is logged in
+
+[d] 18-04-23 06:04:44 @ Confirm the session for this user
+
+[d] 18-04-23 06:04:44 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '6854ea37980a4732e38d07c967661cc5'
+        AND ip = '192.168.1.117'
+        AND idUser = '2'
+
+[d] 18-04-23 06:04:44 @ User last access is to old
+
+[d] 18-04-23 06:04:44 @ Finished! Memory used: Mb0.40644<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 06:04:14 @ Module was booted too
+
+[i] 18-04-23 06:04:14 @ Cala was booted...
+
+[d] 18-04-23 06:04:14 @ Loading module: db
+
+[d] 18-04-23 06:04:14 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 06:04:14 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 06:04:14 @ Module was booted too
+
+[d] 18-04-23 06:04:14 @ Conneted to Db
+
+[d] 18-04-23 06:04:14 @ Loading module: users
+
+[d] 18-04-23 06:04:14 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:14 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:14 @ Module was booted too
+
+[d] 18-04-23 06:04:14 @ Loading user
+
+[d] 18-04-23 06:04:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'test2'
+
+[d] 18-04-23 06:04:14 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:14 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:14 @ Module was booted too
+
+[d] 18-04-23 06:04:14 @ Loading user
+
+[d] 18-04-23 06:04:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'test2'
+
+[d] 18-04-23 06:04:14 @ Function found
+
+[d] 18-04-23 06:04:14 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 06:04:14 @ Found path: users_get_my_details
+
+[d] 18-04-23 06:04:14 @ Confirm that the user is logged in
+
+[d] 18-04-23 06:04:14 @ Confirm the session for this user
+
+[d] 18-04-23 06:04:14 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '6854ea37980a4732e38d07c967661cc5'
+        AND ip = '192.168.1.117'
+        AND idUser = '2'
+
+[d] 18-04-23 06:04:14 @ User last access is to old
+
+[d] 18-04-23 06:04:14 @ Finished! Memory used: Mb0.40644<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 06:04:13 @ Module was booted too
+
+[i] 18-04-23 06:04:13 @ Cala was booted...
+
+[d] 18-04-23 06:04:13 @ Loading module: db
+
+[d] 18-04-23 06:04:13 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 06:04:13 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 06:04:13 @ Module was booted too
+
+[d] 18-04-23 06:04:13 @ Conneted to Db
+
+[d] 18-04-23 06:04:13 @ Loading module: users
+
+[d] 18-04-23 06:04:13 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:13 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:13 @ Module was booted too
+
+[d] 18-04-23 06:04:13 @ Loading user
+
+[d] 18-04-23 06:04:13 @ SELECT *
+	FROM users
+	 WHERE userName = 'test2'
+
+[d] 18-04-23 06:04:13 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:13 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:13 @ Module was booted too
+
+[d] 18-04-23 06:04:13 @ Loading user
+
+[d] 18-04-23 06:04:13 @ SELECT *
+	FROM users
+	 WHERE userName = 'test2'
+
+[d] 18-04-23 06:04:13 @ Function found
+
+[d] 18-04-23 06:04:13 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 06:04:13 @ Found path: users_get_my_details
+
+[d] 18-04-23 06:04:13 @ Confirm that the user is logged in
+
+[d] 18-04-23 06:04:13 @ Confirm the session for this user
+
+[d] 18-04-23 06:04:13 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '6854ea37980a4732e38d07c967661cc5'
+        AND ip = '192.168.1.117'
+        AND idUser = '2'
+
+[d] 18-04-23 06:04:13 @ User last access is to old
+
+[d] 18-04-23 06:04:13 @ Finished! Memory used: Mb0.40644<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 06:04:28 @ Module was booted too
+
+[i] 18-04-23 06:04:28 @ Cala was booted...
+
+[d] 18-04-23 06:04:28 @ Loading module: db
+
+[d] 18-04-23 06:04:28 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 06:04:28 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 06:04:28 @ Module was booted too
+
+[d] 18-04-23 06:04:28 @ Conneted to Db
+
+[d] 18-04-23 06:04:28 @ Loading module: users
+
+[d] 18-04-23 06:04:28 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:28 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:28 @ Module was booted too
+
+[d] 18-04-23 06:04:28 @ Loading user
+
+[d] 18-04-23 06:04:28 @ SELECT *
+	FROM users
+	 WHERE userName = 'test2'
+
+[d] 18-04-23 06:04:28 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:28 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 06:04:28 @ Module was booted too
+
+[d] 18-04-23 06:04:28 @ Loading user
+
+[d] 18-04-23 06:04:28 @ SELECT *
+	FROM users
+	 WHERE userName = 'test2'
+
+[d] 18-04-23 06:04:28 @ Function found
+
+[d] 18-04-23 06:04:28 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 06:04:28 @ Found path: users_get_my_details
+
+[d] 18-04-23 06:04:28 @ Confirm that the user is logged in
+
+[d] 18-04-23 06:04:28 @ Confirm the session for this user
+
+[d] 18-04-23 06:04:28 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = '6854ea37980a4732e38d07c967661cc5'
+        AND ip = '192.168.1.117'
+        AND idUser = '2'
+
+[d] 18-04-23 06:04:28 @ User last access is to old
+
+[d] 18-04-23 06:04:28 @ Finished! Memory used: Mb0.406448<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

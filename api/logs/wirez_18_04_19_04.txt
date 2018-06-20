@@ -1,0 +1,108 @@
+[d] 18-04-19 04:04:27 @ Module was booted too
+
+[i] 18-04-19 04:04:27 @ Cala was booted...
+
+[d] 18-04-19 04:04:27 @ Loading module: db
+
+[d] 18-04-19 04:04:27 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 04:04:27 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 04:04:27 @ Module was booted too
+
+[e] 18-04-19 04:04:27 @ Connection failed: Access denied for user 'sapiens'@'localhost' (using password: YES)
+
+[d] 18-04-19 04:04:27 @ Loading module: users
+
+[d] 18-04-19 04:04:27 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 04:04:27 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 04:04:27 @ Module was booted too
+
+[d] 18-04-19 04:04:27 @ Loading user
+
+[d] 18-04-19 04:04:27 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 04:04:27 @ DB Connection error: Access denied for user 'sapiens'@'localhost' (using password: YES)
+
+[d] 18-04-19 04:04:27 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 04:04:27 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 04:04:27 @ Module was booted too
+
+[d] 18-04-19 04:04:27 @ Loading user
+
+[d] 18-04-19 04:04:27 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 04:04:27 @ DB Connection error: Access denied for user 'sapiens'@'localhost' (using password: YES)
+
+[d] 18-04-19 04:04:27 @ Function found
+
+[d] 18-04-19 04:04:27 @ Looking for path: users_log_me_in
+
+[d] 18-04-19 04:04:27 @ Found path: users_log_me_in
+
+[d] 18-04-19 04:04:27 @ Missing param: pwd
+
+[d] 18-04-19 04:04:27 @ Finished! Memory used: Mb0.606496<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 04:04:43 @ Module was booted too
+
+[i] 18-04-19 04:04:43 @ Cala was booted...
+
+[d] 18-04-19 04:04:43 @ Loading module: db
+
+[d] 18-04-19 04:04:43 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 04:04:43 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 04:04:43 @ Module was booted too
+
+[e] 18-04-19 04:04:43 @ Connection failed: Access denied for user 'sapiens'@'localhost' (using password: YES)
+
+[d] 18-04-19 04:04:43 @ Loading module: users
+
+[d] 18-04-19 04:04:43 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 04:04:43 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 04:04:43 @ Module was booted too
+
+[d] 18-04-19 04:04:43 @ Loading user
+
+[d] 18-04-19 04:04:43 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 04:04:43 @ DB Connection error: Access denied for user 'sapiens'@'localhost' (using password: YES)
+
+[d] 18-04-19 04:04:43 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 04:04:43 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 04:04:43 @ Module was booted too
+
+[d] 18-04-19 04:04:43 @ Loading user
+
+[d] 18-04-19 04:04:43 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[e] 18-04-19 04:04:43 @ DB Connection error: Access denied for user 'sapiens'@'localhost' (using password: YES)
+
+[d] 18-04-19 04:04:43 @ Function found
+
+[d] 18-04-19 04:04:43 @ Looking for path: users_log_me_in
+
+[d] 18-04-19 04:04:43 @ Found path: users_log_me_in
+
+[d] 18-04-19 04:04:43 @ Missing param: pwd
+
+[d] 18-04-19 04:04:43 @ Finished! Memory used: Mb0.378912<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

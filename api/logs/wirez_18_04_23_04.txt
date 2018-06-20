@@ -1,0 +1,3312 @@
+[d] 18-04-23 04:04:12 @ Module was booted too
+
+[i] 18-04-23 04:04:12 @ Cala was booted...
+
+[d] 18-04-23 04:04:12 @ Loading module: db
+
+[d] 18-04-23 04:04:12 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:12 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:12 @ Module was booted too
+
+[d] 18-04-23 04:04:12 @ Conneted to Db
+
+[d] 18-04-23 04:04:12 @ Loading module: users
+
+[d] 18-04-23 04:04:12 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:12 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:12 @ Module was booted too
+
+[d] 18-04-23 04:04:12 @ Loading user
+
+[d] 18-04-23 04:04:12 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:12 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:12 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:12 @ Module was booted too
+
+[d] 18-04-23 04:04:12 @ Loading user
+
+[d] 18-04-23 04:04:12 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:12 @ Function found
+
+[d] 18-04-23 04:04:12 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:12 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:12 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:12 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:12 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:12 @ No results found
+
+[d] 18-04-23 04:04:12 @ Finished! Memory used: Mb0.40656<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:01 @ Module was booted too
+
+[i] 18-04-23 04:04:01 @ Cala was booted...
+
+[d] 18-04-23 04:04:01 @ Loading module: db
+
+[d] 18-04-23 04:04:01 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:01 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:01 @ Module was booted too
+
+[d] 18-04-23 04:04:01 @ Conneted to Db
+
+[d] 18-04-23 04:04:01 @ Loading module: users
+
+[d] 18-04-23 04:04:01 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:01 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:01 @ Module was booted too
+
+[d] 18-04-23 04:04:01 @ Loading user
+
+[d] 18-04-23 04:04:01 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:01 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:01 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:01 @ Module was booted too
+
+[d] 18-04-23 04:04:01 @ Loading user
+
+[d] 18-04-23 04:04:01 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:01 @ Function found
+
+[d] 18-04-23 04:04:01 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:01 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:01 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:01 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:01 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:01 @ No results found
+
+[d] 18-04-23 04:04:01 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:43 @ Module was booted too
+
+[i] 18-04-23 04:04:43 @ Cala was booted...
+
+[d] 18-04-23 04:04:43 @ Loading module: db
+
+[d] 18-04-23 04:04:43 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:43 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:43 @ Module was booted too
+
+[d] 18-04-23 04:04:43 @ Conneted to Db
+
+[d] 18-04-23 04:04:43 @ Loading module: users
+
+[d] 18-04-23 04:04:43 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:43 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:43 @ Module was booted too
+
+[d] 18-04-23 04:04:43 @ Loading user
+
+[d] 18-04-23 04:04:43 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:43 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:43 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:43 @ Module was booted too
+
+[d] 18-04-23 04:04:43 @ Loading user
+
+[d] 18-04-23 04:04:43 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:43 @ Function found
+
+[d] 18-04-23 04:04:43 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:43 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:43 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:43 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:43 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:43 @ No results found
+
+[d] 18-04-23 04:04:43 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:22 @ Module was booted too
+
+[i] 18-04-23 04:04:22 @ Cala was booted...
+
+[d] 18-04-23 04:04:22 @ Loading module: db
+
+[d] 18-04-23 04:04:22 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:22 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:22 @ Module was booted too
+
+[d] 18-04-23 04:04:22 @ Conneted to Db
+
+[d] 18-04-23 04:04:22 @ Loading module: users
+
+[d] 18-04-23 04:04:22 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:22 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:22 @ Module was booted too
+
+[d] 18-04-23 04:04:22 @ Loading user
+
+[d] 18-04-23 04:04:22 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:22 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:22 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:22 @ Module was booted too
+
+[d] 18-04-23 04:04:22 @ Loading user
+
+[d] 18-04-23 04:04:22 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:22 @ Function found
+
+[d] 18-04-23 04:04:22 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:22 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:22 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:22 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:22 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:22 @ No results found
+
+[d] 18-04-23 04:04:22 @ Finished! Memory used: Mb0.40656<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:54 @ Module was booted too
+
+[i] 18-04-23 04:04:54 @ Cala was booted...
+
+[d] 18-04-23 04:04:54 @ Loading module: db
+
+[d] 18-04-23 04:04:54 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:54 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:54 @ Module was booted too
+
+[d] 18-04-23 04:04:54 @ Conneted to Db
+
+[d] 18-04-23 04:04:54 @ Loading module: users
+
+[d] 18-04-23 04:04:54 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:54 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:54 @ Module was booted too
+
+[d] 18-04-23 04:04:54 @ Loading user
+
+[d] 18-04-23 04:04:54 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:54 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:54 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:54 @ Module was booted too
+
+[d] 18-04-23 04:04:54 @ Loading user
+
+[d] 18-04-23 04:04:54 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:54 @ Function found
+
+[d] 18-04-23 04:04:54 @ Looking for path: users_log_me_in
+
+[d] 18-04-23 04:04:54 @ Found path: users_log_me_in
+
+[d] 18-04-23 04:04:54 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:54 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:54 @ Module was booted too
+
+[d] 18-04-23 04:04:54 @ Loading user
+
+[d] 18-04-23 04:04:54 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:54 @ Found function: users_logMeIn
+
+[d] 18-04-23 04:04:54 @ Log in this person
+
+[d] 18-04-23 04:04:54 @ username based login
+
+[d] 18-04-23 04:04:54 @ Loading user
+
+[d] 18-04-23 04:04:54 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-23 04:04:54 @ Unable to locate user
+
+[d] 18-04-23 04:04:54 @ Not able to login  | 5e543256c480ac577d30f76f9120eb74
+
+[d] 18-04-23 04:04:54 @ Finished! Memory used: Mb0.40796<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:21 @ Module was booted too
+
+[i] 18-04-23 04:04:21 @ Cala was booted...
+
+[d] 18-04-23 04:04:21 @ Loading module: db
+
+[d] 18-04-23 04:04:21 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:21 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:21 @ Module was booted too
+
+[d] 18-04-23 04:04:21 @ Conneted to Db
+
+[d] 18-04-23 04:04:21 @ Loading module: users
+
+[d] 18-04-23 04:04:21 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:21 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:21 @ Module was booted too
+
+[d] 18-04-23 04:04:21 @ Loading user
+
+[d] 18-04-23 04:04:21 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:21 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:21 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:21 @ Module was booted too
+
+[d] 18-04-23 04:04:21 @ Loading user
+
+[d] 18-04-23 04:04:21 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:21 @ Function found
+
+[d] 18-04-23 04:04:21 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:21 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:21 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:21 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:21 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:21 @ No results found
+
+[d] 18-04-23 04:04:21 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[i] 18-04-23 04:04:44 @ Cala was booted...
+
+[d] 18-04-23 04:04:44 @ Loading module: db
+
+[d] 18-04-23 04:04:44 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:44 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[d] 18-04-23 04:04:44 @ Conneted to Db
+
+[d] 18-04-23 04:04:44 @ Loading module: users
+
+[d] 18-04-23 04:04:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[d] 18-04-23 04:04:44 @ Loading user
+
+[d] 18-04-23 04:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[d] 18-04-23 04:04:44 @ Loading user
+
+[d] 18-04-23 04:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:44 @ Function found
+
+[d] 18-04-23 04:04:44 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:44 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:44 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:44 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:44 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:44 @ No results found
+
+[d] 18-04-23 04:04:44 @ Finished! Memory used: Mb0.406464<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:30 @ Module was booted too
+
+[i] 18-04-23 04:04:30 @ Cala was booted...
+
+[d] 18-04-23 04:04:30 @ Loading module: db
+
+[d] 18-04-23 04:04:30 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:30 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:30 @ Module was booted too
+
+[d] 18-04-23 04:04:30 @ Conneted to Db
+
+[d] 18-04-23 04:04:30 @ Loading module: users
+
+[d] 18-04-23 04:04:30 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:30 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:30 @ Module was booted too
+
+[d] 18-04-23 04:04:30 @ Loading user
+
+[d] 18-04-23 04:04:30 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:30 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:30 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:30 @ Module was booted too
+
+[d] 18-04-23 04:04:30 @ Loading user
+
+[d] 18-04-23 04:04:30 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:30 @ Function found
+
+[d] 18-04-23 04:04:30 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:30 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:30 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:30 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:30 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:30 @ No results found
+
+[d] 18-04-23 04:04:30 @ Finished! Memory used: Mb0.406464<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:46 @ Module was booted too
+
+[i] 18-04-23 04:04:46 @ Cala was booted...
+
+[d] 18-04-23 04:04:46 @ Loading module: db
+
+[d] 18-04-23 04:04:46 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:46 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:46 @ Module was booted too
+
+[d] 18-04-23 04:04:46 @ Conneted to Db
+
+[d] 18-04-23 04:04:46 @ Loading module: users
+
+[d] 18-04-23 04:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:46 @ Module was booted too
+
+[d] 18-04-23 04:04:46 @ Loading user
+
+[d] 18-04-23 04:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:46 @ Module was booted too
+
+[d] 18-04-23 04:04:46 @ Loading user
+
+[d] 18-04-23 04:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:46 @ Function found
+
+[d] 18-04-23 04:04:46 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:46 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:46 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:46 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:46 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:46 @ No results found
+
+[d] 18-04-23 04:04:46 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:31 @ Module was booted too
+
+[i] 18-04-23 04:04:31 @ Cala was booted...
+
+[d] 18-04-23 04:04:31 @ Loading module: db
+
+[d] 18-04-23 04:04:31 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:31 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:31 @ Module was booted too
+
+[d] 18-04-23 04:04:31 @ Conneted to Db
+
+[d] 18-04-23 04:04:31 @ Loading module: users
+
+[d] 18-04-23 04:04:31 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:31 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:31 @ Module was booted too
+
+[d] 18-04-23 04:04:31 @ Loading user
+
+[d] 18-04-23 04:04:31 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:31 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:31 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:31 @ Module was booted too
+
+[d] 18-04-23 04:04:31 @ Loading user
+
+[d] 18-04-23 04:04:31 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:31 @ Function found
+
+[d] 18-04-23 04:04:31 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:31 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:31 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:31 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:31 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:31 @ No results found
+
+[d] 18-04-23 04:04:31 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:36 @ Module was booted too
+
+[i] 18-04-23 04:04:36 @ Cala was booted...
+
+[d] 18-04-23 04:04:36 @ Loading module: db
+
+[d] 18-04-23 04:04:36 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:36 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:36 @ Module was booted too
+
+[d] 18-04-23 04:04:36 @ Conneted to Db
+
+[d] 18-04-23 04:04:36 @ Loading module: users
+
+[d] 18-04-23 04:04:36 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:36 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:36 @ Module was booted too
+
+[d] 18-04-23 04:04:36 @ Loading user
+
+[d] 18-04-23 04:04:36 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:36 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:36 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:36 @ Module was booted too
+
+[d] 18-04-23 04:04:36 @ Loading user
+
+[d] 18-04-23 04:04:36 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:36 @ Function found
+
+[d] 18-04-23 04:04:36 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:36 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:36 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:36 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:36 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:36 @ No results found
+
+[d] 18-04-23 04:04:36 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[i] 18-04-23 04:04:56 @ Cala was booted...
+
+[d] 18-04-23 04:04:56 @ Loading module: db
+
+[d] 18-04-23 04:04:56 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:56 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[d] 18-04-23 04:04:56 @ Conneted to Db
+
+[d] 18-04-23 04:04:56 @ Loading module: users
+
+[d] 18-04-23 04:04:56 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[d] 18-04-23 04:04:56 @ Loading user
+
+[d] 18-04-23 04:04:56 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:56 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[d] 18-04-23 04:04:56 @ Loading user
+
+[d] 18-04-23 04:04:56 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:56 @ Function found
+
+[d] 18-04-23 04:04:56 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:56 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:56 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:56 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:56 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:56 @ No results found
+
+[d] 18-04-23 04:04:56 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:10 @ Module was booted too
+
+[i] 18-04-23 04:04:10 @ Cala was booted...
+
+[d] 18-04-23 04:04:10 @ Loading module: db
+
+[d] 18-04-23 04:04:10 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:10 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:10 @ Module was booted too
+
+[d] 18-04-23 04:04:10 @ Conneted to Db
+
+[d] 18-04-23 04:04:10 @ Loading module: users
+
+[d] 18-04-23 04:04:10 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:10 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:10 @ Module was booted too
+
+[d] 18-04-23 04:04:10 @ Loading user
+
+[d] 18-04-23 04:04:10 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:10 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:10 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:10 @ Module was booted too
+
+[d] 18-04-23 04:04:10 @ Loading user
+
+[d] 18-04-23 04:04:10 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:10 @ Function found
+
+[d] 18-04-23 04:04:10 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:10 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:10 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:10 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:10 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:10 @ No results found
+
+[d] 18-04-23 04:04:10 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:33 @ Module was booted too
+
+[i] 18-04-23 04:04:33 @ Cala was booted...
+
+[d] 18-04-23 04:04:33 @ Loading module: db
+
+[d] 18-04-23 04:04:33 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:33 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:33 @ Module was booted too
+
+[d] 18-04-23 04:04:33 @ Conneted to Db
+
+[d] 18-04-23 04:04:33 @ Loading module: users
+
+[d] 18-04-23 04:04:33 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:33 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:33 @ Module was booted too
+
+[d] 18-04-23 04:04:33 @ Loading user
+
+[d] 18-04-23 04:04:33 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:33 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:33 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:33 @ Module was booted too
+
+[d] 18-04-23 04:04:33 @ Loading user
+
+[d] 18-04-23 04:04:33 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:33 @ Function found
+
+[d] 18-04-23 04:04:33 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:33 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:33 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:33 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:33 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:33 @ No results found
+
+[d] 18-04-23 04:04:33 @ Finished! Memory used: Mb0.40656<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:46 @ Module was booted too
+
+[i] 18-04-23 04:04:46 @ Cala was booted...
+
+[d] 18-04-23 04:04:46 @ Loading module: db
+
+[d] 18-04-23 04:04:46 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:46 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:46 @ Module was booted too
+
+[d] 18-04-23 04:04:46 @ Conneted to Db
+
+[d] 18-04-23 04:04:46 @ Loading module: users
+
+[d] 18-04-23 04:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:46 @ Module was booted too
+
+[d] 18-04-23 04:04:46 @ Loading user
+
+[d] 18-04-23 04:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:46 @ Module was booted too
+
+[d] 18-04-23 04:04:46 @ Loading user
+
+[d] 18-04-23 04:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:46 @ Function found
+
+[d] 18-04-23 04:04:46 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:46 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:46 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:46 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:46 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:46 @ No results found
+
+[d] 18-04-23 04:04:46 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:20 @ Module was booted too
+
+[i] 18-04-23 04:04:20 @ Cala was booted...
+
+[d] 18-04-23 04:04:20 @ Loading module: db
+
+[d] 18-04-23 04:04:20 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:20 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:20 @ Module was booted too
+
+[d] 18-04-23 04:04:20 @ Conneted to Db
+
+[d] 18-04-23 04:04:20 @ Loading module: users
+
+[d] 18-04-23 04:04:20 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:20 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:20 @ Module was booted too
+
+[d] 18-04-23 04:04:20 @ Loading user
+
+[d] 18-04-23 04:04:20 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:20 @ Unable to locate user
+
+[d] 18-04-23 04:04:20 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:20 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:20 @ Module was booted too
+
+[d] 18-04-23 04:04:20 @ Loading user
+
+[d] 18-04-23 04:04:20 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:20 @ Unable to locate user
+
+[d] 18-04-23 04:04:20 @ Function found
+
+[d] 18-04-23 04:04:20 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:20 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:20 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:20 @ User id = 0, this can't be logged in
+
+[d] 18-04-23 04:04:20 @ Finished! Memory used: Mb0.403608<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:41 @ Module was booted too
+
+[i] 18-04-23 04:04:41 @ Cala was booted...
+
+[d] 18-04-23 04:04:41 @ Loading module: db
+
+[d] 18-04-23 04:04:41 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:41 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:41 @ Module was booted too
+
+[d] 18-04-23 04:04:41 @ Conneted to Db
+
+[d] 18-04-23 04:04:41 @ Loading module: users
+
+[d] 18-04-23 04:04:41 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:41 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:41 @ Module was booted too
+
+[d] 18-04-23 04:04:41 @ Loading user
+
+[d] 18-04-23 04:04:41 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:41 @ Unable to locate user
+
+[d] 18-04-23 04:04:41 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:41 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:41 @ Module was booted too
+
+[d] 18-04-23 04:04:41 @ Loading user
+
+[d] 18-04-23 04:04:41 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:41 @ Unable to locate user
+
+[d] 18-04-23 04:04:41 @ Function found
+
+[d] 18-04-23 04:04:41 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:41 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:41 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:41 @ User id = 0, this can't be logged in
+
+[d] 18-04-23 04:04:41 @ Finished! Memory used: Mb0.403608<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[i] 18-04-23 04:04:15 @ Cala was booted...
+
+[d] 18-04-23 04:04:15 @ Loading module: db
+
+[d] 18-04-23 04:04:15 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:15 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[d] 18-04-23 04:04:15 @ Conneted to Db
+
+[d] 18-04-23 04:04:15 @ Loading module: users
+
+[d] 18-04-23 04:04:15 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[d] 18-04-23 04:04:15 @ Loading user
+
+[d] 18-04-23 04:04:15 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:15 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[d] 18-04-23 04:04:15 @ Loading user
+
+[d] 18-04-23 04:04:15 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:15 @ Function found
+
+[d] 18-04-23 04:04:15 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:15 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:15 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:15 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:15 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:15 @ No results found
+
+[d] 18-04-23 04:04:15 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:59 @ Module was booted too
+
+[i] 18-04-23 04:04:59 @ Cala was booted...
+
+[d] 18-04-23 04:04:59 @ Loading module: db
+
+[d] 18-04-23 04:04:59 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:59 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:59 @ Module was booted too
+
+[d] 18-04-23 04:04:59 @ Conneted to Db
+
+[d] 18-04-23 04:04:59 @ Loading module: users
+
+[d] 18-04-23 04:04:59 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:59 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:59 @ Module was booted too
+
+[d] 18-04-23 04:04:59 @ Loading user
+
+[d] 18-04-23 04:04:59 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:59 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:59 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:59 @ Module was booted too
+
+[d] 18-04-23 04:04:59 @ Loading user
+
+[d] 18-04-23 04:04:59 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:59 @ Function found
+
+[d] 18-04-23 04:04:59 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:59 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:59 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:59 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:59 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:59 @ No results found
+
+[d] 18-04-23 04:04:59 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:34 @ Module was booted too
+
+[i] 18-04-23 04:04:34 @ Cala was booted...
+
+[d] 18-04-23 04:04:34 @ Loading module: db
+
+[d] 18-04-23 04:04:34 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:34 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:34 @ Module was booted too
+
+[d] 18-04-23 04:04:34 @ Conneted to Db
+
+[d] 18-04-23 04:04:34 @ Loading module: users
+
+[d] 18-04-23 04:04:34 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:34 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:34 @ Module was booted too
+
+[d] 18-04-23 04:04:34 @ Loading user
+
+[d] 18-04-23 04:04:34 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:34 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:34 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:34 @ Module was booted too
+
+[d] 18-04-23 04:04:34 @ Loading user
+
+[d] 18-04-23 04:04:34 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:34 @ Function found
+
+[d] 18-04-23 04:04:34 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:34 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:34 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:34 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:34 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:34 @ No results found
+
+[d] 18-04-23 04:04:34 @ Finished! Memory used: Mb0.40656<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:57 @ Module was booted too
+
+[i] 18-04-23 04:04:57 @ Cala was booted...
+
+[d] 18-04-23 04:04:57 @ Loading module: db
+
+[d] 18-04-23 04:04:57 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:57 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:57 @ Module was booted too
+
+[d] 18-04-23 04:04:57 @ Conneted to Db
+
+[d] 18-04-23 04:04:57 @ Loading module: users
+
+[d] 18-04-23 04:04:57 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:57 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:57 @ Module was booted too
+
+[d] 18-04-23 04:04:57 @ Loading user
+
+[d] 18-04-23 04:04:57 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:57 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:57 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:57 @ Module was booted too
+
+[d] 18-04-23 04:04:57 @ Loading user
+
+[d] 18-04-23 04:04:57 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:57 @ Function found
+
+[d] 18-04-23 04:04:57 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:57 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:57 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:57 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:57 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:57 @ No results found
+
+[d] 18-04-23 04:04:57 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[i] 18-04-23 04:04:15 @ Cala was booted...
+
+[d] 18-04-23 04:04:15 @ Loading module: db
+
+[d] 18-04-23 04:04:15 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:15 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[d] 18-04-23 04:04:15 @ Conneted to Db
+
+[d] 18-04-23 04:04:15 @ Loading module: users
+
+[d] 18-04-23 04:04:15 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[d] 18-04-23 04:04:15 @ Loading user
+
+[d] 18-04-23 04:04:15 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:15 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[d] 18-04-23 04:04:15 @ Loading user
+
+[d] 18-04-23 04:04:15 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:15 @ Function found
+
+[d] 18-04-23 04:04:15 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:15 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:15 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:15 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:15 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:15 @ No results found
+
+[d] 18-04-23 04:04:15 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:21 @ Module was booted too
+
+[i] 18-04-23 04:04:21 @ Cala was booted...
+
+[d] 18-04-23 04:04:21 @ Loading module: db
+
+[d] 18-04-23 04:04:21 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:21 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:21 @ Module was booted too
+
+[d] 18-04-23 04:04:21 @ Conneted to Db
+
+[d] 18-04-23 04:04:21 @ Loading module: users
+
+[d] 18-04-23 04:04:21 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:21 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:21 @ Module was booted too
+
+[d] 18-04-23 04:04:21 @ Loading user
+
+[d] 18-04-23 04:04:21 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:21 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:21 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:21 @ Module was booted too
+
+[d] 18-04-23 04:04:21 @ Loading user
+
+[d] 18-04-23 04:04:21 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:21 @ Function found
+
+[d] 18-04-23 04:04:21 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:21 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:21 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:21 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:21 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:21 @ No results found
+
+[d] 18-04-23 04:04:21 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[i] 18-04-23 04:04:56 @ Cala was booted...
+
+[d] 18-04-23 04:04:56 @ Loading module: db
+
+[d] 18-04-23 04:04:56 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:56 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[d] 18-04-23 04:04:56 @ Conneted to Db
+
+[d] 18-04-23 04:04:56 @ Loading module: users
+
+[d] 18-04-23 04:04:56 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[d] 18-04-23 04:04:56 @ Loading user
+
+[d] 18-04-23 04:04:56 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:56 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[d] 18-04-23 04:04:56 @ Loading user
+
+[d] 18-04-23 04:04:56 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:56 @ Function found
+
+[d] 18-04-23 04:04:56 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:56 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:56 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:56 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:56 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:56 @ No results found
+
+[d] 18-04-23 04:04:56 @ Finished! Memory used: Mb0.40656<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[i] 18-04-23 04:04:56 @ Cala was booted...
+
+[d] 18-04-23 04:04:56 @ Loading module: db
+
+[d] 18-04-23 04:04:56 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:56 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[d] 18-04-23 04:04:56 @ Conneted to Db
+
+[d] 18-04-23 04:04:56 @ Loading module: users
+
+[d] 18-04-23 04:04:56 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[d] 18-04-23 04:04:56 @ Loading user
+
+[d] 18-04-23 04:04:56 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:56 @ Unable to locate user
+
+[d] 18-04-23 04:04:56 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:56 @ Module was booted too
+
+[d] 18-04-23 04:04:56 @ Loading user
+
+[d] 18-04-23 04:04:56 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:56 @ Unable to locate user
+
+[d] 18-04-23 04:04:56 @ Function found
+
+[d] 18-04-23 04:04:56 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:56 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:56 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:56 @ User id = 0, this can't be logged in
+
+[d] 18-04-23 04:04:56 @ Finished! Memory used: Mb0.403616<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:17 @ Module was booted too
+
+[i] 18-04-23 04:04:17 @ Cala was booted...
+
+[d] 18-04-23 04:04:17 @ Loading module: db
+
+[d] 18-04-23 04:04:17 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:17 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:17 @ Module was booted too
+
+[d] 18-04-23 04:04:17 @ Conneted to Db
+
+[d] 18-04-23 04:04:17 @ Loading module: users
+
+[d] 18-04-23 04:04:17 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:17 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:17 @ Module was booted too
+
+[d] 18-04-23 04:04:17 @ Loading user
+
+[d] 18-04-23 04:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:17 @ Unable to locate user
+
+[d] 18-04-23 04:04:17 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:17 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:17 @ Module was booted too
+
+[d] 18-04-23 04:04:17 @ Loading user
+
+[d] 18-04-23 04:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:17 @ Unable to locate user
+
+[d] 18-04-23 04:04:17 @ Function found
+
+[d] 18-04-23 04:04:17 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:17 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:17 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:17 @ User id = 0, this can't be logged in
+
+[d] 18-04-23 04:04:17 @ Finished! Memory used: Mb0.403608<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:35 @ Module was booted too
+
+[i] 18-04-23 04:04:35 @ Cala was booted...
+
+[d] 18-04-23 04:04:35 @ Loading module: db
+
+[d] 18-04-23 04:04:35 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:35 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:35 @ Module was booted too
+
+[d] 18-04-23 04:04:35 @ Conneted to Db
+
+[d] 18-04-23 04:04:35 @ Loading module: users
+
+[d] 18-04-23 04:04:35 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:35 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:35 @ Module was booted too
+
+[d] 18-04-23 04:04:35 @ Loading user
+
+[d] 18-04-23 04:04:35 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:35 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:35 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:35 @ Module was booted too
+
+[d] 18-04-23 04:04:35 @ Loading user
+
+[d] 18-04-23 04:04:35 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:35 @ Function found
+
+[d] 18-04-23 04:04:35 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:35 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:35 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:35 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:35 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:35 @ No results found
+
+[d] 18-04-23 04:04:35 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[i] 18-04-23 04:04:15 @ Cala was booted...
+
+[d] 18-04-23 04:04:15 @ Loading module: db
+
+[d] 18-04-23 04:04:15 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:15 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[d] 18-04-23 04:04:15 @ Conneted to Db
+
+[d] 18-04-23 04:04:15 @ Loading module: users
+
+[d] 18-04-23 04:04:15 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[d] 18-04-23 04:04:15 @ Loading user
+
+[d] 18-04-23 04:04:15 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:15 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:15 @ Module was booted too
+
+[d] 18-04-23 04:04:15 @ Loading user
+
+[d] 18-04-23 04:04:15 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:15 @ Function found
+
+[d] 18-04-23 04:04:15 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:15 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:15 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:15 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:15 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:15 @ No results found
+
+[d] 18-04-23 04:04:15 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:03 @ Module was booted too
+
+[i] 18-04-23 04:04:03 @ Cala was booted...
+
+[d] 18-04-23 04:04:03 @ Loading module: db
+
+[d] 18-04-23 04:04:03 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:03 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:03 @ Module was booted too
+
+[d] 18-04-23 04:04:03 @ Conneted to Db
+
+[d] 18-04-23 04:04:03 @ Loading module: users
+
+[d] 18-04-23 04:04:03 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:03 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:03 @ Module was booted too
+
+[d] 18-04-23 04:04:03 @ Loading user
+
+[d] 18-04-23 04:04:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:03 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:03 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:03 @ Module was booted too
+
+[d] 18-04-23 04:04:03 @ Loading user
+
+[d] 18-04-23 04:04:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:03 @ Function found
+
+[d] 18-04-23 04:04:03 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:03 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:03 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:03 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:03 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:03 @ No results found
+
+[d] 18-04-23 04:04:03 @ Finished! Memory used: Mb0.406552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:22 @ Module was booted too
+
+[i] 18-04-23 04:04:22 @ Cala was booted...
+
+[d] 18-04-23 04:04:22 @ Loading module: db
+
+[d] 18-04-23 04:04:22 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:22 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:22 @ Module was booted too
+
+[d] 18-04-23 04:04:22 @ Conneted to Db
+
+[d] 18-04-23 04:04:22 @ Loading module: users
+
+[d] 18-04-23 04:04:22 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:22 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:22 @ Module was booted too
+
+[d] 18-04-23 04:04:22 @ Loading user
+
+[d] 18-04-23 04:04:22 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:22 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:22 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:22 @ Module was booted too
+
+[d] 18-04-23 04:04:22 @ Loading user
+
+[d] 18-04-23 04:04:22 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:22 @ Function found
+
+[d] 18-04-23 04:04:22 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:22 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:22 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:22 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:22 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'c80b6ed26193907be8d4a9db8ecf19'
+        AND ip = '192.168.1.117'
+        AND idUser = '6'
+
+[d] 18-04-23 04:04:22 @ No results found
+
+[d] 18-04-23 04:04:22 @ Finished! Memory used: Mb0.40656<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[i] 18-04-23 04:04:44 @ Cala was booted...
+
+[d] 18-04-23 04:04:44 @ Loading module: db
+
+[d] 18-04-23 04:04:44 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:44 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[d] 18-04-23 04:04:44 @ Conneted to Db
+
+[d] 18-04-23 04:04:44 @ Loading module: users
+
+[d] 18-04-23 04:04:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[d] 18-04-23 04:04:44 @ Loading user
+
+[d] 18-04-23 04:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[d] 18-04-23 04:04:44 @ Loading user
+
+[d] 18-04-23 04:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:44 @ Function found
+
+[d] 18-04-23 04:04:44 @ Looking for path: users_log_me_in
+
+[d] 18-04-23 04:04:44 @ Found path: users_log_me_in
+
+[d] 18-04-23 04:04:44 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:44 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[d] 18-04-23 04:04:44 @ Loading user
+
+[d] 18-04-23 04:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-23 04:04:44 @ Found function: users_logMeIn
+
+[d] 18-04-23 04:04:44 @ Log in this person
+
+[d] 18-04-23 04:04:44 @ username based login
+
+[d] 18-04-23 04:04:44 @ Loading user
+
+[d] 18-04-23 04:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:44 @ Able to login
+
+[d] 18-04-23 04:04:44 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('7', 'f46a15e2a35f6855efeef7dc8e01dff0', '192.168.1.117', '1524520124')
+
+[d] 18-04-23 04:04:44 @ Finished! Memory used: Mb0.408272<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:02 @ Module was booted too
+
+[i] 18-04-23 04:04:02 @ Cala was booted...
+
+[d] 18-04-23 04:04:02 @ Loading module: db
+
+[d] 18-04-23 04:04:02 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:02 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:02 @ Module was booted too
+
+[d] 18-04-23 04:04:02 @ Conneted to Db
+
+[d] 18-04-23 04:04:02 @ Loading module: users
+
+[d] 18-04-23 04:04:02 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:02 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:02 @ Module was booted too
+
+[d] 18-04-23 04:04:02 @ Loading user
+
+[d] 18-04-23 04:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:02 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:02 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:02 @ Module was booted too
+
+[d] 18-04-23 04:04:02 @ Loading user
+
+[d] 18-04-23 04:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:02 @ Function found
+
+[d] 18-04-23 04:04:02 @ Looking for path: users_log_me_in
+
+[d] 18-04-23 04:04:02 @ Found path: users_log_me_in
+
+[d] 18-04-23 04:04:02 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:02 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:02 @ Module was booted too
+
+[d] 18-04-23 04:04:02 @ Loading user
+
+[d] 18-04-23 04:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:02 @ Found function: users_logMeIn
+
+[d] 18-04-23 04:04:02 @ Log in this person
+
+[d] 18-04-23 04:04:02 @ username based login
+
+[d] 18-04-23 04:04:02 @ Loading user
+
+[d] 18-04-23 04:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:02 @ Able to login
+
+[d] 18-04-23 04:04:02 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('7', '8b0d7005d2a81d546c86c4ffdab1c11d', '192.168.1.117', '1524520142')
+
+[d] 18-04-23 04:04:02 @ Finished! Memory used: Mb0.408208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:05 @ Module was booted too
+
+[i] 18-04-23 04:04:05 @ Cala was booted...
+
+[d] 18-04-23 04:04:05 @ Loading module: db
+
+[d] 18-04-23 04:04:05 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:05 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:05 @ Module was booted too
+
+[d] 18-04-23 04:04:05 @ Conneted to Db
+
+[d] 18-04-23 04:04:05 @ Loading module: users
+
+[d] 18-04-23 04:04:05 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:05 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:05 @ Module was booted too
+
+[d] 18-04-23 04:04:05 @ Loading user
+
+[d] 18-04-23 04:04:05 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:05 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:05 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:05 @ Module was booted too
+
+[d] 18-04-23 04:04:05 @ Loading user
+
+[d] 18-04-23 04:04:05 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:05 @ Function found
+
+[d] 18-04-23 04:04:05 @ Looking for path: users_log_me_in
+
+[d] 18-04-23 04:04:05 @ Found path: users_log_me_in
+
+[d] 18-04-23 04:04:05 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:05 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:05 @ Module was booted too
+
+[d] 18-04-23 04:04:05 @ Loading user
+
+[d] 18-04-23 04:04:05 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:05 @ Found function: users_logMeIn
+
+[d] 18-04-23 04:04:05 @ Log in this person
+
+[d] 18-04-23 04:04:05 @ username based login
+
+[d] 18-04-23 04:04:05 @ Loading user
+
+[d] 18-04-23 04:04:05 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:05 @ Able to login
+
+[d] 18-04-23 04:04:05 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('7', '11f4694009828be51a5129bad6777cbc', '192.168.1.117', '1524520145')
+
+[d] 18-04-23 04:04:05 @ Finished! Memory used: Mb0.408208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:09 @ Module was booted too
+
+[i] 18-04-23 04:04:09 @ Cala was booted...
+
+[d] 18-04-23 04:04:09 @ Loading module: db
+
+[d] 18-04-23 04:04:09 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:09 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:09 @ Module was booted too
+
+[d] 18-04-23 04:04:09 @ Conneted to Db
+
+[d] 18-04-23 04:04:09 @ Loading module: users
+
+[d] 18-04-23 04:04:09 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:09 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:09 @ Module was booted too
+
+[d] 18-04-23 04:04:09 @ Loading user
+
+[d] 18-04-23 04:04:09 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:09 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:09 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:09 @ Module was booted too
+
+[d] 18-04-23 04:04:09 @ Loading user
+
+[d] 18-04-23 04:04:09 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:09 @ Function found
+
+[d] 18-04-23 04:04:09 @ Looking for path: users_log_me_in
+
+[d] 18-04-23 04:04:09 @ Found path: users_log_me_in
+
+[d] 18-04-23 04:04:09 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:09 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:09 @ Module was booted too
+
+[d] 18-04-23 04:04:09 @ Loading user
+
+[d] 18-04-23 04:04:09 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:09 @ Found function: users_logMeIn
+
+[d] 18-04-23 04:04:09 @ Log in this person
+
+[d] 18-04-23 04:04:09 @ username based login
+
+[d] 18-04-23 04:04:09 @ Loading user
+
+[d] 18-04-23 04:04:09 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:09 @ Able to login
+
+[d] 18-04-23 04:04:09 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('7', '28ffa50f7e9b92b54dfcd6c9147d076d', '192.168.1.117', '1524520149')
+
+[d] 18-04-23 04:04:09 @ Finished! Memory used: Mb0.408208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:11 @ Module was booted too
+
+[i] 18-04-23 04:04:11 @ Cala was booted...
+
+[d] 18-04-23 04:04:11 @ Loading module: db
+
+[d] 18-04-23 04:04:11 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:11 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:11 @ Module was booted too
+
+[d] 18-04-23 04:04:11 @ Conneted to Db
+
+[d] 18-04-23 04:04:11 @ Loading module: users
+
+[d] 18-04-23 04:04:11 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:11 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:11 @ Module was booted too
+
+[d] 18-04-23 04:04:11 @ Loading user
+
+[d] 18-04-23 04:04:11 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:11 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:11 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:11 @ Module was booted too
+
+[d] 18-04-23 04:04:11 @ Loading user
+
+[d] 18-04-23 04:04:11 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:11 @ Function found
+
+[d] 18-04-23 04:04:11 @ Looking for path: users_log_me_in
+
+[d] 18-04-23 04:04:11 @ Found path: users_log_me_in
+
+[d] 18-04-23 04:04:11 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:11 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:11 @ Module was booted too
+
+[d] 18-04-23 04:04:11 @ Loading user
+
+[d] 18-04-23 04:04:11 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:11 @ Found function: users_logMeIn
+
+[d] 18-04-23 04:04:11 @ Log in this person
+
+[d] 18-04-23 04:04:11 @ username based login
+
+[d] 18-04-23 04:04:11 @ Loading user
+
+[d] 18-04-23 04:04:11 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:11 @ Able to login
+
+[d] 18-04-23 04:04:11 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('7', '40d0ee526e2776a7f82874308da9680f', '192.168.1.117', '1524520151')
+
+[d] 18-04-23 04:04:11 @ Finished! Memory used: Mb0.408208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:12 @ Module was booted too
+
+[i] 18-04-23 04:04:12 @ Cala was booted...
+
+[d] 18-04-23 04:04:12 @ Loading module: db
+
+[d] 18-04-23 04:04:12 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:12 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:12 @ Module was booted too
+
+[d] 18-04-23 04:04:12 @ Conneted to Db
+
+[d] 18-04-23 04:04:12 @ Loading module: users
+
+[d] 18-04-23 04:04:12 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:12 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:12 @ Module was booted too
+
+[d] 18-04-23 04:04:12 @ Loading user
+
+[d] 18-04-23 04:04:12 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:12 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:12 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:12 @ Module was booted too
+
+[d] 18-04-23 04:04:12 @ Loading user
+
+[d] 18-04-23 04:04:12 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:12 @ Function found
+
+[d] 18-04-23 04:04:12 @ Looking for path: users_log_me_in
+
+[d] 18-04-23 04:04:12 @ Found path: users_log_me_in
+
+[d] 18-04-23 04:04:12 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:12 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:12 @ Module was booted too
+
+[d] 18-04-23 04:04:12 @ Loading user
+
+[d] 18-04-23 04:04:12 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:12 @ Found function: users_logMeIn
+
+[d] 18-04-23 04:04:12 @ Log in this person
+
+[d] 18-04-23 04:04:12 @ username based login
+
+[d] 18-04-23 04:04:12 @ Loading user
+
+[d] 18-04-23 04:04:12 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:12 @ Able to login
+
+[d] 18-04-23 04:04:12 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('7', '654da792b82d045cd50bb36dcfdd98b7', '192.168.1.117', '1524520152')
+
+[d] 18-04-23 04:04:12 @ Finished! Memory used: Mb0.408208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:14 @ Module was booted too
+
+[i] 18-04-23 04:04:14 @ Cala was booted...
+
+[d] 18-04-23 04:04:14 @ Loading module: db
+
+[d] 18-04-23 04:04:14 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:14 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:14 @ Module was booted too
+
+[d] 18-04-23 04:04:14 @ Conneted to Db
+
+[d] 18-04-23 04:04:14 @ Loading module: users
+
+[d] 18-04-23 04:04:14 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:14 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:14 @ Module was booted too
+
+[d] 18-04-23 04:04:14 @ Loading user
+
+[d] 18-04-23 04:04:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:14 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:14 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:14 @ Module was booted too
+
+[d] 18-04-23 04:04:14 @ Loading user
+
+[d] 18-04-23 04:04:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:14 @ Function found
+
+[d] 18-04-23 04:04:14 @ Looking for path: users_log_me_in
+
+[d] 18-04-23 04:04:14 @ Found path: users_log_me_in
+
+[d] 18-04-23 04:04:14 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:14 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:14 @ Module was booted too
+
+[d] 18-04-23 04:04:14 @ Loading user
+
+[d] 18-04-23 04:04:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:14 @ Found function: users_logMeIn
+
+[d] 18-04-23 04:04:14 @ Log in this person
+
+[d] 18-04-23 04:04:14 @ username based login
+
+[d] 18-04-23 04:04:14 @ Loading user
+
+[d] 18-04-23 04:04:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:14 @ Able to login
+
+[d] 18-04-23 04:04:14 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('7', '78234a649fb3040db5d42138c0601a42', '192.168.1.117', '1524520154')
+
+[d] 18-04-23 04:04:14 @ Finished! Memory used: Mb0.408208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:07 @ Module was booted too
+
+[i] 18-04-23 04:04:07 @ Cala was booted...
+
+[d] 18-04-23 04:04:07 @ Loading module: db
+
+[d] 18-04-23 04:04:07 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:07 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:07 @ Module was booted too
+
+[d] 18-04-23 04:04:07 @ Conneted to Db
+
+[d] 18-04-23 04:04:07 @ Loading module: users
+
+[d] 18-04-23 04:04:07 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:07 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:07 @ Module was booted too
+
+[d] 18-04-23 04:04:07 @ Loading user
+
+[d] 18-04-23 04:04:07 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:07 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:07 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:07 @ Module was booted too
+
+[d] 18-04-23 04:04:07 @ Loading user
+
+[d] 18-04-23 04:04:07 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:07 @ Function found
+
+[d] 18-04-23 04:04:07 @ Looking for path: users_log_me_in
+
+[d] 18-04-23 04:04:07 @ Found path: users_log_me_in
+
+[d] 18-04-23 04:04:07 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:07 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:07 @ Module was booted too
+
+[d] 18-04-23 04:04:07 @ Loading user
+
+[d] 18-04-23 04:04:07 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:07 @ Found function: users_logMeIn
+
+[d] 18-04-23 04:04:07 @ Log in this person
+
+[d] 18-04-23 04:04:07 @ username based login
+
+[d] 18-04-23 04:04:07 @ Loading user
+
+[d] 18-04-23 04:04:07 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:07 @ Able to login
+
+[d] 18-04-23 04:04:07 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('7', '8563f84a739d072e9a821d49668e446e', '192.168.1.117', '1524520207')
+
+[d] 18-04-23 04:04:07 @ Finished! Memory used: Mb0.408208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:26 @ Module was booted too
+
+[i] 18-04-23 04:04:26 @ Cala was booted...
+
+[d] 18-04-23 04:04:26 @ Loading module: db
+
+[d] 18-04-23 04:04:26 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:26 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:26 @ Module was booted too
+
+[d] 18-04-23 04:04:26 @ Conneted to Db
+
+[d] 18-04-23 04:04:26 @ Loading module: users
+
+[d] 18-04-23 04:04:26 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:26 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:26 @ Module was booted too
+
+[d] 18-04-23 04:04:26 @ Loading user
+
+[d] 18-04-23 04:04:26 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:26 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:26 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:26 @ Module was booted too
+
+[d] 18-04-23 04:04:26 @ Loading user
+
+[d] 18-04-23 04:04:26 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:26 @ Function found
+
+[d] 18-04-23 04:04:26 @ Looking for path: users_log_me_in
+
+[d] 18-04-23 04:04:26 @ Found path: users_log_me_in
+
+[d] 18-04-23 04:04:26 @ Loading in path: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:26 @ Including file: ../api/modules/users/login.php
+
+[d] 18-04-23 04:04:26 @ Module was booted too
+
+[d] 18-04-23 04:04:26 @ Loading user
+
+[d] 18-04-23 04:04:26 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:26 @ Found function: users_logMeIn
+
+[d] 18-04-23 04:04:26 @ Log in this person
+
+[d] 18-04-23 04:04:26 @ username based login
+
+[d] 18-04-23 04:04:26 @ Loading user
+
+[d] 18-04-23 04:04:26 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:26 @ Able to login
+
+[d] 18-04-23 04:04:26 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('7', 'f921b57099469d6f3e8d457d924cf720', '192.168.1.117', '1524520226')
+
+[d] 18-04-23 04:04:26 @ Finished! Memory used: Mb0.408208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:30 @ Module was booted too
+
+[i] 18-04-23 04:04:30 @ Cala was booted...
+
+[d] 18-04-23 04:04:30 @ Loading module: db
+
+[d] 18-04-23 04:04:30 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:30 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:30 @ Module was booted too
+
+[d] 18-04-23 04:04:30 @ Conneted to Db
+
+[d] 18-04-23 04:04:30 @ Loading module: users
+
+[d] 18-04-23 04:04:30 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:30 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:30 @ Module was booted too
+
+[d] 18-04-23 04:04:30 @ Loading user
+
+[d] 18-04-23 04:04:30 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:30 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:30 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:30 @ Module was booted too
+
+[d] 18-04-23 04:04:30 @ Loading user
+
+[d] 18-04-23 04:04:30 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:30 @ Function found
+
+[d] 18-04-23 04:04:30 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:30 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:30 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:30 @ Confirm the session for this user
+
+[d] 18-04-23 04:04:30 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'f921b57099469d6f3e8d457d924cf720'
+        AND ip = '192.168.1.117'
+        AND idUser = '7'
+
+[d] 18-04-23 04:04:30 @ Found function: users_getMyDetails
+
+[d] 18-04-23 04:04:30 @ Getting my details
+
+[d] 18-04-23 04:04:30 @ Loading user: test
+
+[d] 18-04-23 04:04:30 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-04-23 04:04:30 @ Finished! Memory used: Mb0.407464<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:37 @ Module was booted too
+
+[i] 18-04-23 04:04:37 @ Cala was booted...
+
+[d] 18-04-23 04:04:37 @ Loading module: db
+
+[d] 18-04-23 04:04:37 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:37 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:37 @ Module was booted too
+
+[d] 18-04-23 04:04:37 @ Conneted to Db
+
+[d] 18-04-23 04:04:37 @ Loading module: users
+
+[d] 18-04-23 04:04:37 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:37 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:37 @ Module was booted too
+
+[d] 18-04-23 04:04:37 @ Loading user
+
+[d] 18-04-23 04:04:37 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:37 @ Unable to locate user
+
+[d] 18-04-23 04:04:37 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:37 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:37 @ Module was booted too
+
+[d] 18-04-23 04:04:37 @ Loading user
+
+[d] 18-04-23 04:04:37 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:37 @ Unable to locate user
+
+[d] 18-04-23 04:04:37 @ Function found
+
+[d] 18-04-23 04:04:37 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:37 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:37 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:37 @ User id = 0, this can't be logged in
+
+[d] 18-04-23 04:04:37 @ Finished! Memory used: Mb0.402184<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:03 @ Module was booted too
+
+[i] 18-04-23 04:04:03 @ Cala was booted...
+
+[d] 18-04-23 04:04:03 @ Loading module: db
+
+[d] 18-04-23 04:04:03 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:03 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:03 @ Module was booted too
+
+[d] 18-04-23 04:04:03 @ Conneted to Db
+
+[d] 18-04-23 04:04:03 @ Loading module: users
+
+[d] 18-04-23 04:04:03 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:03 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:03 @ Module was booted too
+
+[d] 18-04-23 04:04:03 @ Loading user
+
+[d] 18-04-23 04:04:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:03 @ Unable to locate user
+
+[d] 18-04-23 04:04:03 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:03 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:03 @ Module was booted too
+
+[d] 18-04-23 04:04:03 @ Loading user
+
+[d] 18-04-23 04:04:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:03 @ Unable to locate user
+
+[d] 18-04-23 04:04:03 @ Function found
+
+[d] 18-04-23 04:04:03 @ Looking for path: users_register
+
+[d] 18-04-23 04:04:03 @ Found path: users_register
+
+[d] 18-04-23 04:04:03 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-23 04:04:03 @ File does not exist
+
+[d] 18-04-23 04:04:03 @ Found function: users_registerNew
+
+[d] 18-04-23 04:04:03 @ Register a user
+
+[d] 18-04-23 04:04:03 @ Loading user
+
+[d] 18-04-23 04:04:03 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:03 @ Loading user
+
+[d] 18-04-23 04:04:03 @ SELECT *
+	FROM users
+	 WHERE email = 'te'
+
+[d] 18-04-23 04:04:03 @ Unable to locate user
+
+[d] 18-04-23 04:04:03 @ This user already exists
+
+[d] 18-04-23 04:04:03 @ Finished! Memory used: Mb0.408056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:08 @ Module was booted too
+
+[i] 18-04-23 04:04:08 @ Cala was booted...
+
+[d] 18-04-23 04:04:08 @ Loading module: db
+
+[d] 18-04-23 04:04:08 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:08 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:08 @ Module was booted too
+
+[d] 18-04-23 04:04:08 @ Conneted to Db
+
+[d] 18-04-23 04:04:08 @ Loading module: users
+
+[d] 18-04-23 04:04:08 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:08 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:08 @ Module was booted too
+
+[d] 18-04-23 04:04:08 @ Loading user
+
+[d] 18-04-23 04:04:08 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:08 @ Unable to locate user
+
+[d] 18-04-23 04:04:08 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:08 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:08 @ Module was booted too
+
+[d] 18-04-23 04:04:08 @ Loading user
+
+[d] 18-04-23 04:04:08 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:08 @ Unable to locate user
+
+[d] 18-04-23 04:04:08 @ Function found
+
+[d] 18-04-23 04:04:08 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:08 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:08 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:08 @ User id = 0, this can't be logged in
+
+[d] 18-04-23 04:04:08 @ Finished! Memory used: Mb0.402192<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:23 @ Module was booted too
+
+[i] 18-04-23 04:04:23 @ Cala was booted...
+
+[d] 18-04-23 04:04:23 @ Loading module: db
+
+[d] 18-04-23 04:04:23 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:23 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:23 @ Module was booted too
+
+[d] 18-04-23 04:04:23 @ Conneted to Db
+
+[d] 18-04-23 04:04:23 @ Loading module: users
+
+[d] 18-04-23 04:04:23 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:23 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:23 @ Module was booted too
+
+[d] 18-04-23 04:04:23 @ Loading user
+
+[d] 18-04-23 04:04:23 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:23 @ Unable to locate user
+
+[d] 18-04-23 04:04:23 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:23 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:23 @ Module was booted too
+
+[d] 18-04-23 04:04:23 @ Loading user
+
+[d] 18-04-23 04:04:23 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:23 @ Unable to locate user
+
+[d] 18-04-23 04:04:23 @ Function found
+
+[d] 18-04-23 04:04:23 @ Looking for path: users_register
+
+[d] 18-04-23 04:04:23 @ Found path: users_register
+
+[d] 18-04-23 04:04:23 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-23 04:04:23 @ File does not exist
+
+[d] 18-04-23 04:04:23 @ Found function: users_registerNew
+
+[d] 18-04-23 04:04:23 @ Register a user
+
+[d] 18-04-23 04:04:23 @ Loading user
+
+[d] 18-04-23 04:04:23 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:23 @ Loading user
+
+[d] 18-04-23 04:04:23 @ SELECT *
+	FROM users
+	 WHERE email = 'aa'
+
+[d] 18-04-23 04:04:23 @ Unable to locate user
+
+[d] 18-04-23 04:04:23 @ This user already exists
+
+[d] 18-04-23 04:04:23 @ Finished! Memory used: Mb0.408056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:32 @ Module was booted too
+
+[i] 18-04-23 04:04:32 @ Cala was booted...
+
+[d] 18-04-23 04:04:32 @ Loading module: db
+
+[d] 18-04-23 04:04:32 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:32 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:32 @ Module was booted too
+
+[d] 18-04-23 04:04:32 @ Conneted to Db
+
+[d] 18-04-23 04:04:32 @ Loading module: users
+
+[d] 18-04-23 04:04:32 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:32 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:32 @ Module was booted too
+
+[d] 18-04-23 04:04:32 @ Loading user
+
+[d] 18-04-23 04:04:32 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:32 @ Unable to locate user
+
+[d] 18-04-23 04:04:32 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:32 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:32 @ Module was booted too
+
+[d] 18-04-23 04:04:32 @ Loading user
+
+[d] 18-04-23 04:04:32 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:32 @ Unable to locate user
+
+[d] 18-04-23 04:04:32 @ Function found
+
+[d] 18-04-23 04:04:32 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:32 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:32 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:32 @ User id = 0, this can't be logged in
+
+[d] 18-04-23 04:04:32 @ Finished! Memory used: Mb0.402192<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:55 @ Module was booted too
+
+[i] 18-04-23 04:04:55 @ Cala was booted...
+
+[d] 18-04-23 04:04:55 @ Loading module: db
+
+[d] 18-04-23 04:04:55 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:55 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:55 @ Module was booted too
+
+[d] 18-04-23 04:04:55 @ Conneted to Db
+
+[d] 18-04-23 04:04:55 @ Loading module: users
+
+[d] 18-04-23 04:04:55 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:55 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:55 @ Module was booted too
+
+[d] 18-04-23 04:04:55 @ Loading user
+
+[d] 18-04-23 04:04:55 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:55 @ Unable to locate user
+
+[d] 18-04-23 04:04:55 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:55 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:55 @ Module was booted too
+
+[d] 18-04-23 04:04:55 @ Loading user
+
+[d] 18-04-23 04:04:55 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:55 @ Unable to locate user
+
+[d] 18-04-23 04:04:55 @ Function found
+
+[d] 18-04-23 04:04:55 @ Looking for path: users_register
+
+[d] 18-04-23 04:04:55 @ Found path: users_register
+
+[d] 18-04-23 04:04:55 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-23 04:04:55 @ File does not exist
+
+[d] 18-04-23 04:04:55 @ Found function: users_registerNew
+
+[d] 18-04-23 04:04:55 @ Register a user
+
+[d] 18-04-23 04:04:55 @ Loading user
+
+[d] 18-04-23 04:04:55 @ SELECT *
+	FROM users
+	 WHERE userName = 'jonix'
+
+[d] 18-04-23 04:04:55 @ Unable to locate user
+
+[d] 18-04-23 04:04:55 @ Loading user
+
+[d] 18-04-23 04:04:55 @ SELECT *
+	FROM users
+	 WHERE email = 'jonix@jonix.com'
+
+[d] 18-04-23 04:04:55 @ Unable to locate user
+
+[d] 18-04-23 04:04:55 @ New user does not exist
+
+[d] 18-04-23 04:04:55 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('Jonathan','jonix','jonix@jonix.com','--','CR','1','1524520615','1524520615','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-23 04:04:55 @ Loading user: jonix
+
+[d] 18-04-23 04:04:55 @ SELECT * FROM users WHERE userName = 'jonix'
+
+[d] 18-04-23 04:04:55 @ Log in this person
+
+[d] 18-04-23 04:04:55 @ username based login
+
+[d] 18-04-23 04:04:55 @ Loading user
+
+[d] 18-04-23 04:04:55 @ SELECT *
+	FROM users
+	 WHERE userName = 'jonix'
+
+[d] 18-04-23 04:04:55 @ Able to login
+
+[d] 18-04-23 04:04:55 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('8', '502634d1d55d8048f1eb7a04902460a9', '192.168.1.117', '1524520615')
+
+[d] 18-04-23 04:04:55 @ Finished! Memory used: Mb0.412512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[i] 18-04-23 04:04:44 @ Cala was booted...
+
+[d] 18-04-23 04:04:44 @ Loading module: db
+
+[d] 18-04-23 04:04:44 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:44 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[d] 18-04-23 04:04:44 @ Conneted to Db
+
+[d] 18-04-23 04:04:44 @ Loading module: users
+
+[d] 18-04-23 04:04:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[d] 18-04-23 04:04:44 @ Loading user
+
+[d] 18-04-23 04:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:44 @ Unable to locate user
+
+[d] 18-04-23 04:04:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:44 @ Module was booted too
+
+[d] 18-04-23 04:04:44 @ Loading user
+
+[d] 18-04-23 04:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:44 @ Unable to locate user
+
+[d] 18-04-23 04:04:44 @ Function found
+
+[d] 18-04-23 04:04:44 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:44 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:44 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:44 @ User id = 0, this can't be logged in
+
+[d] 18-04-23 04:04:44 @ Finished! Memory used: Mb0.402184<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:02 @ Module was booted too
+
+[i] 18-04-23 04:04:02 @ Cala was booted...
+
+[d] 18-04-23 04:04:02 @ Loading module: db
+
+[d] 18-04-23 04:04:02 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:02 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:02 @ Module was booted too
+
+[d] 18-04-23 04:04:02 @ Conneted to Db
+
+[d] 18-04-23 04:04:02 @ Loading module: users
+
+[d] 18-04-23 04:04:02 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:02 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:02 @ Module was booted too
+
+[d] 18-04-23 04:04:02 @ Loading user
+
+[d] 18-04-23 04:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:02 @ Unable to locate user
+
+[d] 18-04-23 04:04:02 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:02 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:02 @ Module was booted too
+
+[d] 18-04-23 04:04:02 @ Loading user
+
+[d] 18-04-23 04:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'null'
+
+[d] 18-04-23 04:04:02 @ Unable to locate user
+
+[d] 18-04-23 04:04:02 @ Function found
+
+[d] 18-04-23 04:04:02 @ Looking for path: users_register
+
+[d] 18-04-23 04:04:02 @ Found path: users_register
+
+[d] 18-04-23 04:04:02 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-23 04:04:02 @ File does not exist
+
+[d] 18-04-23 04:04:02 @ Found function: users_registerNew
+
+[d] 18-04-23 04:04:02 @ Register a user
+
+[d] 18-04-23 04:04:02 @ Loading user
+
+[d] 18-04-23 04:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'jonix'
+
+[d] 18-04-23 04:04:02 @ Loading user
+
+[d] 18-04-23 04:04:02 @ SELECT *
+	FROM users
+	 WHERE email = 'jonix'
+
+[d] 18-04-23 04:04:02 @ Unable to locate user
+
+[d] 18-04-23 04:04:02 @ This user already exists
+
+[d] 18-04-23 04:04:02 @ Finished! Memory used: Mb0.408072<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:29 @ Module was booted too
+
+[i] 18-04-23 04:04:29 @ Cala was booted...
+
+[d] 18-04-23 04:04:29 @ Loading module: db
+
+[d] 18-04-23 04:04:29 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:29 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:29 @ Module was booted too
+
+[d] 18-04-23 04:04:29 @ Conneted to Db
+
+[d] 18-04-23 04:04:29 @ Loading module: users
+
+[d] 18-04-23 04:04:29 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:29 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:29 @ Module was booted too
+
+[d] 18-04-23 04:04:29 @ Loading user
+
+[d] 18-04-23 04:04:29 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-23 04:04:29 @ Unable to locate user
+
+[d] 18-04-23 04:04:29 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:29 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:29 @ Module was booted too
+
+[d] 18-04-23 04:04:29 @ Loading user
+
+[d] 18-04-23 04:04:29 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-23 04:04:29 @ Unable to locate user
+
+[d] 18-04-23 04:04:29 @ Function found
+
+[d] 18-04-23 04:04:29 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:29 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:29 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:29 @ User id = 0, this can't be logged in
+
+[d] 18-04-23 04:04:29 @ Finished! Memory used: Mb0.402256<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:58 @ Module was booted too
+
+[i] 18-04-23 04:04:58 @ Cala was booted...
+
+[d] 18-04-23 04:04:58 @ Loading module: db
+
+[d] 18-04-23 04:04:58 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:58 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:58 @ Module was booted too
+
+[d] 18-04-23 04:04:58 @ Conneted to Db
+
+[d] 18-04-23 04:04:58 @ Loading module: users
+
+[d] 18-04-23 04:04:58 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:58 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:58 @ Module was booted too
+
+[d] 18-04-23 04:04:58 @ Loading user
+
+[d] 18-04-23 04:04:58 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-23 04:04:58 @ Unable to locate user
+
+[d] 18-04-23 04:04:58 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:58 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:58 @ Module was booted too
+
+[d] 18-04-23 04:04:58 @ Loading user
+
+[d] 18-04-23 04:04:58 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-23 04:04:58 @ Unable to locate user
+
+[d] 18-04-23 04:04:58 @ Function found
+
+[d] 18-04-23 04:04:58 @ Looking for path: users_get_my_details
+
+[d] 18-04-23 04:04:58 @ Found path: users_get_my_details
+
+[d] 18-04-23 04:04:58 @ Confirm that the user is logged in
+
+[d] 18-04-23 04:04:58 @ User id = 0, this can't be logged in
+
+[d] 18-04-23 04:04:58 @ Finished! Memory used: Mb0.402256<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-23 04:04:14 @ Module was booted too
+
+[i] 18-04-23 04:04:14 @ Cala was booted...
+
+[d] 18-04-23 04:04:14 @ Loading module: db
+
+[d] 18-04-23 04:04:14 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:14 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-23 04:04:14 @ Module was booted too
+
+[d] 18-04-23 04:04:14 @ Conneted to Db
+
+[d] 18-04-23 04:04:14 @ Loading module: users
+
+[d] 18-04-23 04:04:14 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:14 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:14 @ Module was booted too
+
+[d] 18-04-23 04:04:14 @ Loading user
+
+[d] 18-04-23 04:04:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-23 04:04:14 @ Unable to locate user
+
+[d] 18-04-23 04:04:14 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:14 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-23 04:04:14 @ Module was booted too
+
+[d] 18-04-23 04:04:14 @ Loading user
+
+[d] 18-04-23 04:04:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-23 04:04:14 @ Unable to locate user
+
+[d] 18-04-23 04:04:14 @ Function found
+
+[d] 18-04-23 04:04:14 @ Looking for path: users_register
+
+[d] 18-04-23 04:04:14 @ Found path: users_register
+
+[d] 18-04-23 04:04:14 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-23 04:04:14 @ File does not exist
+
+[d] 18-04-23 04:04:14 @ Found function: users_registerNew
+
+[d] 18-04-23 04:04:14 @ Register a user
+
+[d] 18-04-23 04:04:14 @ Loading user
+
+[d] 18-04-23 04:04:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:14 @ Unable to locate user
+
+[d] 18-04-23 04:04:14 @ Loading user
+
+[d] 18-04-23 04:04:14 @ SELECT *
+	FROM users
+	 WHERE email = 'test'
+
+[d] 18-04-23 04:04:14 @ Unable to locate user
+
+[d] 18-04-23 04:04:14 @ New user does not exist
+
+[d] 18-04-23 04:04:14 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('test','test','test','--','CR','1','1524520754','1524520754','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-23 04:04:14 @ Loading user: test
+
+[d] 18-04-23 04:04:14 @ SELECT * FROM users WHERE userName = 'test'
+
+[d] 18-04-23 04:04:14 @ Log in this person
+
+[d] 18-04-23 04:04:14 @ username based login
+
+[d] 18-04-23 04:04:14 @ Loading user
+
+[d] 18-04-23 04:04:14 @ SELECT *
+	FROM users
+	 WHERE userName = 'test'
+
+[d] 18-04-23 04:04:14 @ Able to login
+
+[d] 18-04-23 04:04:14 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', 'ed1071ceb76374621948d076e7656968', '192.168.1.117', '1524520754')
+
+[d] 18-04-23 04:04:14 @ Finished! Memory used: Mb0.412328<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

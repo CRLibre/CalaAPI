@@ -1,0 +1,152 @@
+[d] 18-01-25 07:01:51 @ Module was booted too
+
+[i] 18-01-25 07:01:51 @ Cala was booted...
+
+[d] 18-01-25 07:01:51 @ Loading module: db
+
+[d] 18-01-25 07:01:51 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-25 07:01:51 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-25 07:01:51 @ Module was booted too
+
+[e] 18-01-25 07:01:51 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-25 07:01:51 @ Loading module: users
+
+[d] 18-01-25 07:01:51 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-25 07:01:51 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-25 07:01:51 @ Module was booted too
+
+[d] 18-01-25 07:01:51 @ Loading user
+
+[d] 18-01-25 07:01:51 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-25 07:01:51 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-25 07:01:51 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-25 07:01:51 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-25 07:01:51 @ Finished! Memory used: Mb0.37784<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-25 07:01:41 @ Module was booted too
+
+[i] 18-01-25 07:01:41 @ Cala was booted...
+
+[d] 18-01-25 07:01:41 @ Loading module: db
+
+[d] 18-01-25 07:01:41 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-25 07:01:41 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-25 07:01:41 @ Module was booted too
+
+[e] 18-01-25 07:01:41 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-25 07:01:41 @ Loading module: users
+
+[d] 18-01-25 07:01:41 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-25 07:01:41 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-25 07:01:41 @ Module was booted too
+
+[d] 18-01-25 07:01:41 @ Loading user
+
+[d] 18-01-25 07:01:41 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-25 07:01:41 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-25 07:01:41 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-25 07:01:41 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-25 07:01:41 @ Finished! Memory used: Mb0.520576<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-25 07:01:17 @ Module was booted too
+
+[i] 18-01-25 07:01:17 @ Cala was booted...
+
+[d] 18-01-25 07:01:17 @ Loading module: db
+
+[d] 18-01-25 07:01:17 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-25 07:01:17 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-25 07:01:17 @ Module was booted too
+
+[e] 18-01-25 07:01:17 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-25 07:01:17 @ Loading module: users
+
+[d] 18-01-25 07:01:17 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-25 07:01:17 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-25 07:01:17 @ Module was booted too
+
+[d] 18-01-25 07:01:17 @ Loading user
+
+[d] 18-01-25 07:01:17 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-25 07:01:17 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-25 07:01:17 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-25 07:01:17 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-25 07:01:17 @ Finished! Memory used: Mb0.37784<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-25 07:01:36 @ Module was booted too
+
+[i] 18-01-25 07:01:36 @ Cala was booted...
+
+[d] 18-01-25 07:01:36 @ Loading module: db
+
+[d] 18-01-25 07:01:36 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-25 07:01:36 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-25 07:01:36 @ Module was booted too
+
+[e] 18-01-25 07:01:36 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-25 07:01:36 @ Loading module: users
+
+[d] 18-01-25 07:01:36 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-25 07:01:36 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-25 07:01:36 @ Module was booted too
+
+[d] 18-01-25 07:01:36 @ Loading user
+
+[d] 18-01-25 07:01:36 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-25 07:01:36 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-25 07:01:36 @ Loading in path: ../api/contrib/ejemplo/module.php
+
+[d] 18-01-25 07:01:36 @ Including file: ../api/contrib/ejemplo/module.php
+
+[d] 18-01-25 07:01:36 @ Module was booted too
+
+[d] 18-01-25 07:01:36 @ Function found
+
+[d] 18-01-25 07:01:36 @ Looking for path: test
+
+[d] 18-01-25 07:01:36 @ Path not found?
+
+[d] 18-01-25 07:01:36 @ Finished! Memory used: Mb0.514408<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

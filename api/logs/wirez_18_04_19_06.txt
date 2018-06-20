@@ -1,0 +1,1744 @@
+[d] 18-04-19 06:04:02 @ Module was booted too
+
+[i] 18-04-19 06:04:02 @ Cala was booted...
+
+[d] 18-04-19 06:04:02 @ Loading module: db
+
+[d] 18-04-19 06:04:02 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:02 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:02 @ Module was booted too
+
+[d] 18-04-19 06:04:02 @ Conneted to Db
+
+[d] 18-04-19 06:04:02 @ Loading module: users
+
+[d] 18-04-19 06:04:02 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:02 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:02 @ Module was booted too
+
+[d] 18-04-19 06:04:02 @ Loading user
+
+[d] 18-04-19 06:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:02 @ Unable to locate user
+
+[d] 18-04-19 06:04:02 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:02 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:02 @ Module was booted too
+
+[d] 18-04-19 06:04:02 @ Loading user
+
+[d] 18-04-19 06:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:02 @ Unable to locate user
+
+[d] 18-04-19 06:04:02 @ Function found
+
+[d] 18-04-19 06:04:02 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:02 @ Found path: users_register
+
+[d] 18-04-19 06:04:02 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:02 @ File does not exist
+
+[d] 18-04-19 06:04:02 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:02 @ Register a user
+
+[d] 18-04-19 06:04:02 @ Loading user
+
+[d] 18-04-19 06:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:02 @ Loading user
+
+[d] 18-04-19 06:04:02 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:02 @ New user does not exist
+
+[d] 18-04-19 06:04:02 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524178862','1524178862','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:02 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:02 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:02 @ Log in this person
+
+[d] 18-04-19 06:04:02 @ username based login
+
+[d] 18-04-19 06:04:02 @ Loading user
+
+[d] 18-04-19 06:04:02 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:02 @ Not able to login  | 202cb962ac59075b964b07152d234b70
+
+[d] 18-04-19 06:04:02 @ Finished! Memory used: Mb0.57172<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:16 @ Module was booted too
+
+[i] 18-04-19 06:04:16 @ Cala was booted...
+
+[d] 18-04-19 06:04:16 @ Loading module: db
+
+[d] 18-04-19 06:04:16 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:16 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:16 @ Module was booted too
+
+[d] 18-04-19 06:04:16 @ Conneted to Db
+
+[d] 18-04-19 06:04:16 @ Loading module: users
+
+[d] 18-04-19 06:04:16 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:16 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:16 @ Module was booted too
+
+[d] 18-04-19 06:04:16 @ Loading user
+
+[d] 18-04-19 06:04:16 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:16 @ Unable to locate user
+
+[d] 18-04-19 06:04:16 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:16 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:16 @ Module was booted too
+
+[d] 18-04-19 06:04:16 @ Loading user
+
+[d] 18-04-19 06:04:16 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:16 @ Unable to locate user
+
+[d] 18-04-19 06:04:16 @ Function found
+
+[d] 18-04-19 06:04:16 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:16 @ Found path: users_register
+
+[d] 18-04-19 06:04:16 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:16 @ File does not exist
+
+[d] 18-04-19 06:04:16 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:16 @ Register a user
+
+[d] 18-04-19 06:04:16 @ Loading user
+
+[d] 18-04-19 06:04:16 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:16 @ Loading user
+
+[d] 18-04-19 06:04:16 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:16 @ New user does not exist
+
+[d] 18-04-19 06:04:16 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524178876','1524178876','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:16 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:16 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:16 @ Log in this person
+
+[d] 18-04-19 06:04:16 @ username based login
+
+[d] 18-04-19 06:04:16 @ Loading user
+
+[d] 18-04-19 06:04:16 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:16 @ Not able to login  | 202cb962ac59075b964b07152d234b70
+
+[d] 18-04-19 06:04:16 @ Finished! Memory used: Mb0.61724<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[i] 18-04-19 06:04:17 @ Cala was booted...
+
+[d] 18-04-19 06:04:17 @ Loading module: db
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:17 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[d] 18-04-19 06:04:17 @ Conneted to Db
+
+[d] 18-04-19 06:04:17 @ Loading module: users
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:17 @ Unable to locate user
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:17 @ Unable to locate user
+
+[d] 18-04-19 06:04:17 @ Function found
+
+[d] 18-04-19 06:04:17 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:17 @ Found path: users_register
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:17 @ File does not exist
+
+[d] 18-04-19 06:04:17 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:17 @ Register a user
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:17 @ New user does not exist
+
+[d] 18-04-19 06:04:17 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524178877','1524178877','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:17 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:17 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:17 @ Log in this person
+
+[d] 18-04-19 06:04:17 @ username based login
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:17 @ Not able to login  | 202cb962ac59075b964b07152d234b70
+
+[d] 18-04-19 06:04:17 @ Finished! Memory used: Mb0.500352<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[i] 18-04-19 06:04:17 @ Cala was booted...
+
+[d] 18-04-19 06:04:17 @ Loading module: db
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:17 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[d] 18-04-19 06:04:17 @ Conneted to Db
+
+[d] 18-04-19 06:04:17 @ Loading module: users
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:17 @ Unable to locate user
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:17 @ Unable to locate user
+
+[d] 18-04-19 06:04:17 @ Function found
+
+[d] 18-04-19 06:04:17 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:17 @ Found path: users_register
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:17 @ File does not exist
+
+[d] 18-04-19 06:04:17 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:17 @ Register a user
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:17 @ New user does not exist
+
+[d] 18-04-19 06:04:17 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524178877','1524178877','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:17 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:17 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:17 @ Log in this person
+
+[d] 18-04-19 06:04:17 @ username based login
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:17 @ Not able to login  | 202cb962ac59075b964b07152d234b70
+
+[d] 18-04-19 06:04:17 @ Finished! Memory used: Mb0.507592<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:35 @ Module was booted too
+
+[i] 18-04-19 06:04:35 @ Cala was booted...
+
+[d] 18-04-19 06:04:35 @ Loading module: db
+
+[d] 18-04-19 06:04:35 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:35 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:35 @ Module was booted too
+
+[d] 18-04-19 06:04:35 @ Conneted to Db
+
+[d] 18-04-19 06:04:35 @ Loading module: users
+
+[d] 18-04-19 06:04:35 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:35 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:35 @ Module was booted too
+
+[d] 18-04-19 06:04:35 @ Loading user
+
+[d] 18-04-19 06:04:35 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:35 @ Unable to locate user
+
+[d] 18-04-19 06:04:35 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:35 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:35 @ Module was booted too
+
+[d] 18-04-19 06:04:35 @ Loading user
+
+[d] 18-04-19 06:04:35 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:35 @ Unable to locate user
+
+[d] 18-04-19 06:04:35 @ Function found
+
+[d] 18-04-19 06:04:35 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:35 @ Found path: users_register
+
+[d] 18-04-19 06:04:35 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:35 @ File does not exist
+
+[d] 18-04-19 06:04:35 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:35 @ Register a user
+
+[d] 18-04-19 06:04:35 @ Loading user
+
+[d] 18-04-19 06:04:35 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:35 @ Loading user
+
+[d] 18-04-19 06:04:35 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:35 @ New user does not exist
+
+[d] 18-04-19 06:04:35 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524178895','1524178895','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:35 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:35 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:35 @ Log in this person
+
+[d] 18-04-19 06:04:35 @ username based login
+
+[d] 18-04-19 06:04:35 @ Loading user
+
+[d] 18-04-19 06:04:35 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:35 @ Not able to login  | 202cb962ac59075b964b07152d234b70
+
+[d] 18-04-19 06:04:35 @ Finished! Memory used: Mb0.514416<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[i] 18-04-19 06:04:46 @ Cala was booted...
+
+[d] 18-04-19 06:04:46 @ Loading module: db
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:46 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[d] 18-04-19 06:04:46 @ Conneted to Db
+
+[d] 18-04-19 06:04:46 @ Loading module: users
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:46 @ Unable to locate user
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:46 @ Unable to locate user
+
+[d] 18-04-19 06:04:46 @ Function found
+
+[d] 18-04-19 06:04:46 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:46 @ Found path: users_register
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:46 @ File does not exist
+
+[d] 18-04-19 06:04:46 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:46 @ Register a user
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:46 @ New user does not exist
+
+[d] 18-04-19 06:04:46 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524178906','1524178906','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:46 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:46 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:46 @ Log in this person
+
+[d] 18-04-19 06:04:46 @ username based login
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:46 @ Not able to login  | 202cb962ac59075b964b07152d234b70
+
+[d] 18-04-19 06:04:46 @ Finished! Memory used: Mb0.617128<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:54 @ Module was booted too
+
+[i] 18-04-19 06:04:54 @ Cala was booted...
+
+[d] 18-04-19 06:04:54 @ Loading module: db
+
+[d] 18-04-19 06:04:54 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:54 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:54 @ Module was booted too
+
+[d] 18-04-19 06:04:54 @ Conneted to Db
+
+[d] 18-04-19 06:04:54 @ Loading module: users
+
+[d] 18-04-19 06:04:54 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:54 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:54 @ Module was booted too
+
+[d] 18-04-19 06:04:54 @ Loading user
+
+[d] 18-04-19 06:04:54 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:54 @ Unable to locate user
+
+[d] 18-04-19 06:04:54 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:54 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:54 @ Module was booted too
+
+[d] 18-04-19 06:04:54 @ Loading user
+
+[d] 18-04-19 06:04:54 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:54 @ Unable to locate user
+
+[d] 18-04-19 06:04:54 @ Function found
+
+[d] 18-04-19 06:04:54 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:54 @ Found path: users_register
+
+[d] 18-04-19 06:04:54 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:54 @ File does not exist
+
+[d] 18-04-19 06:04:54 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:54 @ Register a user
+
+[d] 18-04-19 06:04:54 @ Loading user
+
+[d] 18-04-19 06:04:54 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:54 @ Loading user
+
+[d] 18-04-19 06:04:54 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:54 @ New user does not exist
+
+[d] 18-04-19 06:04:54 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524178914','1524178914','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:54 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:54 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:54 @ Log in this person
+
+[d] 18-04-19 06:04:54 @ username based login
+
+[d] 18-04-19 06:04:54 @ Loading user
+
+[d] 18-04-19 06:04:54 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:54 @ Not able to login  | 202cb962ac59075b964b07152d234b70
+
+[d] 18-04-19 06:04:54 @ Finished! Memory used: Mb0.607976<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:27 @ Module was booted too
+
+[i] 18-04-19 06:04:27 @ Cala was booted...
+
+[d] 18-04-19 06:04:27 @ Loading module: db
+
+[d] 18-04-19 06:04:27 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:27 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:27 @ Module was booted too
+
+[d] 18-04-19 06:04:27 @ Conneted to Db
+
+[d] 18-04-19 06:04:27 @ Loading module: users
+
+[d] 18-04-19 06:04:27 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:27 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:27 @ Module was booted too
+
+[d] 18-04-19 06:04:27 @ Loading user
+
+[d] 18-04-19 06:04:27 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:27 @ Unable to locate user
+
+[d] 18-04-19 06:04:27 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:27 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:27 @ Module was booted too
+
+[d] 18-04-19 06:04:27 @ Loading user
+
+[d] 18-04-19 06:04:27 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:27 @ Unable to locate user
+
+[d] 18-04-19 06:04:27 @ Function found
+
+[d] 18-04-19 06:04:27 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:27 @ Found path: users_register
+
+[d] 18-04-19 06:04:27 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:27 @ File does not exist
+
+[d] 18-04-19 06:04:27 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:27 @ Register a user
+
+[d] 18-04-19 06:04:27 @ Loading user
+
+[d] 18-04-19 06:04:27 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:27 @ Unable to locate user
+
+[d] 18-04-19 06:04:27 @ Loading user
+
+[d] 18-04-19 06:04:27 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:27 @ Unable to locate user
+
+[d] 18-04-19 06:04:27 @ New user does not exist
+
+[d] 18-04-19 06:04:27 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524178947','1524178947','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:27 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:27 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:27 @ Log in this person
+
+[d] 18-04-19 06:04:27 @ username based login
+
+[d] 18-04-19 06:04:27 @ Loading user
+
+[d] 18-04-19 06:04:27 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:27 @ Not able to login  | 202cb962ac59075b964b07152d234b70
+
+[d] 18-04-19 06:04:27 @ Finished! Memory used: Mb0.61724<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[i] 18-04-19 06:04:46 @ Cala was booted...
+
+[d] 18-04-19 06:04:46 @ Loading module: db
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:46 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[d] 18-04-19 06:04:46 @ Conneted to Db
+
+[d] 18-04-19 06:04:46 @ Loading module: users
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:46 @ Unable to locate user
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:46 @ Unable to locate user
+
+[d] 18-04-19 06:04:46 @ Function found
+
+[d] 18-04-19 06:04:46 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:46 @ Found path: users_register
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:46 @ File does not exist
+
+[d] 18-04-19 06:04:46 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:46 @ Register a user
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:46 @ New user does not exist
+
+[d] 18-04-19 06:04:46 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524178966','1524178966','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:46 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:46 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:46 @ Log in this person
+
+[d] 18-04-19 06:04:46 @ username based login
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:46 @ Able to login
+
+[d] 18-04-19 06:04:46 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('', '6ef8438cc1ff023be51e3354328c09ad', '127.0.0.1', '1524178966')
+
+[e] 18-04-19 06:04:46 @ Incorrect integer value: '' for column 'idUser' at row 1
+
+[d] 18-04-19 06:04:46 @ Finished! Memory used: Mb0.61716<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:40 @ Module was booted too
+
+[i] 18-04-19 06:04:40 @ Cala was booted...
+
+[d] 18-04-19 06:04:40 @ Loading module: db
+
+[d] 18-04-19 06:04:40 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:40 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:40 @ Module was booted too
+
+[d] 18-04-19 06:04:40 @ Conneted to Db
+
+[d] 18-04-19 06:04:40 @ Loading module: users
+
+[d] 18-04-19 06:04:40 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:40 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:40 @ Module was booted too
+
+[d] 18-04-19 06:04:40 @ Loading user
+
+[d] 18-04-19 06:04:40 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:40 @ Unable to locate user
+
+[d] 18-04-19 06:04:40 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:40 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:40 @ Module was booted too
+
+[d] 18-04-19 06:04:40 @ Loading user
+
+[d] 18-04-19 06:04:40 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:40 @ Unable to locate user
+
+[d] 18-04-19 06:04:40 @ Function found
+
+[d] 18-04-19 06:04:40 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:40 @ Found path: users_register
+
+[d] 18-04-19 06:04:40 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:40 @ File does not exist
+
+[d] 18-04-19 06:04:40 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:40 @ Register a user
+
+[d] 18-04-19 06:04:40 @ Loading user
+
+[d] 18-04-19 06:04:40 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:40 @ Loading user
+
+[d] 18-04-19 06:04:40 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:40 @ New user does not exist
+
+[d] 18-04-19 06:04:40 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524179020','1524179020','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:40 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:40 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:40 @ Log in this person
+
+[d] 18-04-19 06:04:40 @ username based login
+
+[d] 18-04-19 06:04:40 @ Loading user
+
+[d] 18-04-19 06:04:40 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:40 @ Able to login
+
+[d] 18-04-19 06:04:40 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', 'e8199429b6fab44bde5af23dbf19b2d4', '127.0.0.1', '1524179020')
+
+[d] 18-04-19 06:04:40 @ Finished! Memory used: Mb0.617128<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:05 @ Module was booted too
+
+[i] 18-04-19 06:04:05 @ Cala was booted...
+
+[d] 18-04-19 06:04:05 @ Loading module: db
+
+[d] 18-04-19 06:04:05 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:05 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:05 @ Module was booted too
+
+[d] 18-04-19 06:04:05 @ Conneted to Db
+
+[d] 18-04-19 06:04:05 @ Loading module: users
+
+[d] 18-04-19 06:04:05 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:05 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:05 @ Module was booted too
+
+[d] 18-04-19 06:04:05 @ Loading user
+
+[d] 18-04-19 06:04:05 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:05 @ Unable to locate user
+
+[d] 18-04-19 06:04:05 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:05 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:05 @ Module was booted too
+
+[d] 18-04-19 06:04:05 @ Loading user
+
+[d] 18-04-19 06:04:05 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:05 @ Unable to locate user
+
+[d] 18-04-19 06:04:05 @ Function found
+
+[d] 18-04-19 06:04:05 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:05 @ Found path: users_register
+
+[d] 18-04-19 06:04:05 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:05 @ File does not exist
+
+[d] 18-04-19 06:04:05 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:05 @ Register a user
+
+[d] 18-04-19 06:04:05 @ Loading user
+
+[d] 18-04-19 06:04:05 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:05 @ Unable to locate user
+
+[d] 18-04-19 06:04:05 @ Loading user
+
+[d] 18-04-19 06:04:05 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:05 @ Unable to locate user
+
+[d] 18-04-19 06:04:05 @ New user does not exist
+
+[d] 18-04-19 06:04:05 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524179045','1524179045','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:05 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:05 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:05 @ Log in this person
+
+[d] 18-04-19 06:04:05 @ username based login
+
+[d] 18-04-19 06:04:05 @ Loading user
+
+[d] 18-04-19 06:04:05 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:05 @ Able to login
+
+[d] 18-04-19 06:04:05 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', 'f87eb94d9dbcb51f5c05adc77b80d7ee', '127.0.0.1', '1524179045')
+
+[d] 18-04-19 06:04:05 @ Finished! Memory used: Mb0.412624<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[i] 18-04-19 06:04:17 @ Cala was booted...
+
+[d] 18-04-19 06:04:17 @ Loading module: db
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:17 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[d] 18-04-19 06:04:17 @ Conneted to Db
+
+[d] 18-04-19 06:04:17 @ Loading module: users
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:17 @ Unable to locate user
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:17 @ Module was booted too
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:17 @ Unable to locate user
+
+[d] 18-04-19 06:04:17 @ Function found
+
+[d] 18-04-19 06:04:17 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:17 @ Found path: users_register
+
+[d] 18-04-19 06:04:17 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:17 @ File does not exist
+
+[d] 18-04-19 06:04:17 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:17 @ Register a user
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:17 @ New user does not exist
+
+[d] 18-04-19 06:04:17 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524179057','1524179057','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:17 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:17 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:17 @ Log in this person
+
+[d] 18-04-19 06:04:17 @ username based login
+
+[d] 18-04-19 06:04:17 @ Loading user
+
+[d] 18-04-19 06:04:17 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:17 @ Able to login
+
+[d] 18-04-19 06:04:17 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', '709568869069a1cc21d0c0dd9f4a36fa', '127.0.0.1', '1524179057')
+
+[d] 18-04-19 06:04:17 @ Finished! Memory used: Mb0.517528<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:57 @ Module was booted too
+
+[i] 18-04-19 06:04:57 @ Cala was booted...
+
+[d] 18-04-19 06:04:57 @ Loading module: db
+
+[d] 18-04-19 06:04:57 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:57 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:57 @ Module was booted too
+
+[d] 18-04-19 06:04:57 @ Conneted to Db
+
+[d] 18-04-19 06:04:57 @ Loading module: users
+
+[d] 18-04-19 06:04:57 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:57 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:57 @ Module was booted too
+
+[d] 18-04-19 06:04:57 @ Loading user
+
+[d] 18-04-19 06:04:57 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:57 @ Unable to locate user
+
+[d] 18-04-19 06:04:57 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:57 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:57 @ Module was booted too
+
+[d] 18-04-19 06:04:57 @ Loading user
+
+[d] 18-04-19 06:04:57 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:57 @ Unable to locate user
+
+[d] 18-04-19 06:04:57 @ Function found
+
+[d] 18-04-19 06:04:57 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:57 @ Found path: users_register
+
+[d] 18-04-19 06:04:57 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:57 @ File does not exist
+
+[d] 18-04-19 06:04:57 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:57 @ Register a user
+
+[d] 18-04-19 06:04:57 @ Loading user
+
+[d] 18-04-19 06:04:57 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:57 @ Loading user
+
+[d] 18-04-19 06:04:57 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:57 @ New user does not exist
+
+[d] 18-04-19 06:04:57 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524179097','1524179097','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:57 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:57 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:57 @ Log in this person
+
+[d] 18-04-19 06:04:57 @ username based login
+
+[d] 18-04-19 06:04:57 @ Loading user
+
+[d] 18-04-19 06:04:57 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:57 @ Able to login
+
+[d] 18-04-19 06:04:57 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', 'f3dbf6ad1177219e40171ff785a921f0', '127.0.0.1', '1524179097')
+
+[d] 18-04-19 06:04:57 @ Finished! Memory used: Mb0.5418<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:12 @ Module was booted too
+
+[i] 18-04-19 06:04:12 @ Cala was booted...
+
+[d] 18-04-19 06:04:12 @ Loading module: db
+
+[d] 18-04-19 06:04:12 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:12 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:12 @ Module was booted too
+
+[d] 18-04-19 06:04:12 @ Conneted to Db
+
+[d] 18-04-19 06:04:12 @ Loading module: users
+
+[d] 18-04-19 06:04:12 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:12 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:12 @ Module was booted too
+
+[d] 18-04-19 06:04:12 @ Loading user
+
+[d] 18-04-19 06:04:12 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:12 @ Unable to locate user
+
+[d] 18-04-19 06:04:12 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:12 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:12 @ Module was booted too
+
+[d] 18-04-19 06:04:12 @ Loading user
+
+[d] 18-04-19 06:04:12 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:12 @ Unable to locate user
+
+[d] 18-04-19 06:04:12 @ Function found
+
+[d] 18-04-19 06:04:12 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:12 @ Found path: users_register
+
+[d] 18-04-19 06:04:12 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:12 @ File does not exist
+
+[d] 18-04-19 06:04:12 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:12 @ Register a user
+
+[d] 18-04-19 06:04:12 @ Loading user
+
+[d] 18-04-19 06:04:12 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:12 @ Loading user
+
+[d] 18-04-19 06:04:12 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:12 @ This user already exists
+
+[d] 18-04-19 06:04:12 @ Finished! Memory used: Mb0.5418<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[i] 18-04-19 06:04:46 @ Cala was booted...
+
+[d] 18-04-19 06:04:46 @ Loading module: db
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:46 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[d] 18-04-19 06:04:46 @ Conneted to Db
+
+[d] 18-04-19 06:04:46 @ Loading module: users
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:46 @ Unable to locate user
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:46 @ Module was booted too
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:46 @ Unable to locate user
+
+[d] 18-04-19 06:04:46 @ Function found
+
+[d] 18-04-19 06:04:46 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:46 @ Found path: users_register
+
+[d] 18-04-19 06:04:46 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:46 @ File does not exist
+
+[d] 18-04-19 06:04:46 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:46 @ Register a user
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:46 @ Unable to locate user
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:46 @ Unable to locate user
+
+[d] 18-04-19 06:04:46 @ New user does not exist
+
+[d] 18-04-19 06:04:46 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524179206','1524179206','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:46 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:46 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:46 @ Log in this person
+
+[d] 18-04-19 06:04:46 @ username based login
+
+[d] 18-04-19 06:04:46 @ Loading user
+
+[d] 18-04-19 06:04:46 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:46 @ Able to login
+
+[d] 18-04-19 06:04:46 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', '01b88a31ae943c497d28731e17b5d611', '127.0.0.1', '1524179206')
+
+[d] 18-04-19 06:04:46 @ Finished! Memory used: Mb0.543016<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:52 @ Module was booted too
+
+[i] 18-04-19 06:04:52 @ Cala was booted...
+
+[d] 18-04-19 06:04:52 @ Loading module: db
+
+[d] 18-04-19 06:04:52 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:52 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:52 @ Module was booted too
+
+[d] 18-04-19 06:04:52 @ Conneted to Db
+
+[d] 18-04-19 06:04:52 @ Loading module: users
+
+[d] 18-04-19 06:04:52 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:52 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:52 @ Module was booted too
+
+[d] 18-04-19 06:04:52 @ Loading user
+
+[d] 18-04-19 06:04:52 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:52 @ Unable to locate user
+
+[d] 18-04-19 06:04:52 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:52 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:52 @ Module was booted too
+
+[d] 18-04-19 06:04:52 @ Loading user
+
+[d] 18-04-19 06:04:52 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:52 @ Unable to locate user
+
+[d] 18-04-19 06:04:52 @ Function found
+
+[d] 18-04-19 06:04:52 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:52 @ Found path: users_register
+
+[d] 18-04-19 06:04:52 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:52 @ File does not exist
+
+[d] 18-04-19 06:04:52 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:52 @ Register a user
+
+[d] 18-04-19 06:04:52 @ Loading user
+
+[d] 18-04-19 06:04:52 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:52 @ Loading user
+
+[d] 18-04-19 06:04:52 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:52 @ New user does not exist
+
+[d] 18-04-19 06:04:52 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524179212','1524179212','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:52 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:52 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:52 @ Log in this person
+
+[d] 18-04-19 06:04:52 @ username based login
+
+[d] 18-04-19 06:04:52 @ Loading user
+
+[d] 18-04-19 06:04:52 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:52 @ Able to login
+
+[d] 18-04-19 06:04:52 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', '7c30126b63a7d6767d30e4b4c14a8cd7', '127.0.0.1', '1524179212')
+
+[d] 18-04-19 06:04:52 @ Finished! Memory used: Mb0.6186<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:28 @ Module was booted too
+
+[i] 18-04-19 06:04:28 @ Cala was booted...
+
+[d] 18-04-19 06:04:28 @ Loading module: db
+
+[d] 18-04-19 06:04:28 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:28 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:28 @ Module was booted too
+
+[d] 18-04-19 06:04:28 @ Conneted to Db
+
+[d] 18-04-19 06:04:28 @ Loading module: users
+
+[d] 18-04-19 06:04:28 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:28 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:28 @ Module was booted too
+
+[d] 18-04-19 06:04:28 @ Loading user
+
+[d] 18-04-19 06:04:28 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:28 @ Unable to locate user
+
+[d] 18-04-19 06:04:28 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:28 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:28 @ Module was booted too
+
+[d] 18-04-19 06:04:28 @ Loading user
+
+[d] 18-04-19 06:04:28 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:28 @ Unable to locate user
+
+[d] 18-04-19 06:04:28 @ Function found
+
+[d] 18-04-19 06:04:28 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:28 @ Found path: users_register
+
+[d] 18-04-19 06:04:28 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:28 @ File does not exist
+
+[d] 18-04-19 06:04:28 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:28 @ Register a user
+
+[d] 18-04-19 06:04:28 @ Loading user
+
+[d] 18-04-19 06:04:28 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:28 @ Loading user
+
+[d] 18-04-19 06:04:28 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:28 @ This user already exists
+
+[d] 18-04-19 06:04:28 @ Finished! Memory used: Mb0.618152<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:44 @ Module was booted too
+
+[i] 18-04-19 06:04:44 @ Cala was booted...
+
+[d] 18-04-19 06:04:44 @ Loading module: db
+
+[d] 18-04-19 06:04:44 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:44 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:44 @ Module was booted too
+
+[d] 18-04-19 06:04:44 @ Conneted to Db
+
+[d] 18-04-19 06:04:44 @ Loading module: users
+
+[d] 18-04-19 06:04:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:44 @ Module was booted too
+
+[d] 18-04-19 06:04:44 @ Loading user
+
+[d] 18-04-19 06:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:44 @ Unable to locate user
+
+[d] 18-04-19 06:04:44 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:44 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:44 @ Module was booted too
+
+[d] 18-04-19 06:04:44 @ Loading user
+
+[d] 18-04-19 06:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:44 @ Unable to locate user
+
+[d] 18-04-19 06:04:44 @ Function found
+
+[d] 18-04-19 06:04:44 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:44 @ Found path: users_register
+
+[d] 18-04-19 06:04:44 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:44 @ File does not exist
+
+[d] 18-04-19 06:04:44 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:44 @ Register a user
+
+[d] 18-04-19 06:04:44 @ Loading user
+
+[d] 18-04-19 06:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:44 @ Unable to locate user
+
+[d] 18-04-19 06:04:44 @ Loading user
+
+[d] 18-04-19 06:04:44 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:44 @ Unable to locate user
+
+[d] 18-04-19 06:04:44 @ New user does not exist
+
+[d] 18-04-19 06:04:44 @ INSERT INTO users (fullName, userName, email, about, country, status, timestamp, lastAccess, pwd, avatar, settings)
+		VALUES('julian','jsubiros','julisubiros@hotmail.com','--','CR','1','1524179324','1524179324','202cb962ac59075b964b07152d234b70','0', '')
+
+[d] 18-04-19 06:04:44 @ Loading user: jsubiros
+
+[d] 18-04-19 06:04:44 @ SELECT * FROM users WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:44 @ Log in this person
+
+[d] 18-04-19 06:04:44 @ username based login
+
+[d] 18-04-19 06:04:44 @ Loading user
+
+[d] 18-04-19 06:04:44 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:44 @ Able to login
+
+[d] 18-04-19 06:04:44 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', '8ad8cbd4b61a6f36e36959e65b702f62', '127.0.0.1', '1524179324')
+
+[d] 18-04-19 06:04:44 @ Finished! Memory used: Mb0.412624<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-19 06:04:52 @ Module was booted too
+
+[i] 18-04-19 06:04:52 @ Cala was booted...
+
+[d] 18-04-19 06:04:52 @ Loading module: db
+
+[d] 18-04-19 06:04:52 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:52 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-19 06:04:52 @ Module was booted too
+
+[d] 18-04-19 06:04:52 @ Conneted to Db
+
+[d] 18-04-19 06:04:52 @ Loading module: users
+
+[d] 18-04-19 06:04:52 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:52 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:52 @ Module was booted too
+
+[d] 18-04-19 06:04:52 @ Loading user
+
+[d] 18-04-19 06:04:52 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:52 @ Unable to locate user
+
+[d] 18-04-19 06:04:52 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:52 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-19 06:04:52 @ Module was booted too
+
+[d] 18-04-19 06:04:52 @ Loading user
+
+[d] 18-04-19 06:04:52 @ SELECT *
+	FROM users
+	 WHERE userName = 'undefined'
+
+[d] 18-04-19 06:04:52 @ Unable to locate user
+
+[d] 18-04-19 06:04:52 @ Function found
+
+[d] 18-04-19 06:04:52 @ Looking for path: users_register
+
+[d] 18-04-19 06:04:52 @ Found path: users_register
+
+[d] 18-04-19 06:04:52 @ Loading in path: ../api/modules/users/register.php
+
+[d] 18-04-19 06:04:52 @ File does not exist
+
+[d] 18-04-19 06:04:52 @ Found function: users_registerNew
+
+[d] 18-04-19 06:04:52 @ Register a user
+
+[d] 18-04-19 06:04:52 @ Loading user
+
+[d] 18-04-19 06:04:52 @ SELECT *
+	FROM users
+	 WHERE userName = 'jsubiros'
+
+[d] 18-04-19 06:04:52 @ Loading user
+
+[d] 18-04-19 06:04:52 @ SELECT *
+	FROM users
+	 WHERE email = 'julisubiros@hotmail.com'
+
+[d] 18-04-19 06:04:52 @ This user already exists
+
+[d] 18-04-19 06:04:52 @ Finished! Memory used: Mb0.410232<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

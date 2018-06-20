@@ -1,0 +1,132 @@
+[d] 18-01-26 07:01:53 @ Module was booted too
+
+[i] 18-01-26 07:01:53 @ Cala was booted...
+
+[d] 18-01-26 07:01:53 @ Loading module: db
+
+[d] 18-01-26 07:01:53 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-26 07:01:53 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-26 07:01:53 @ Module was booted too
+
+[e] 18-01-26 07:01:53 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-26 07:01:53 @ Loading module: users
+
+[d] 18-01-26 07:01:53 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-26 07:01:53 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-26 07:01:53 @ Module was booted too
+
+[d] 18-01-26 07:01:53 @ Loading user
+
+[d] 18-01-26 07:01:53 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-26 07:01:53 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-26 07:01:53 @ Loading in path: ../api/contrib/ejemplo/module.php
+
+[d] 18-01-26 07:01:53 @ Including file: ../api/contrib/ejemplo/module.php
+
+[d] 18-01-26 07:01:53 @ Module was booted too
+
+[d] 18-01-26 07:01:53 @ Function found
+
+[d] 18-01-26 07:01:53 @ Looking for path: test
+
+[d] 18-01-26 07:01:53 @ Path not found?
+
+[d] 18-01-26 07:01:53 @ Finished! Memory used: Mb0.377648<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-26 07:01:13 @ Module was booted too
+
+[i] 18-01-26 07:01:13 @ Cala was booted...
+
+[d] 18-01-26 07:01:13 @ Loading module: db
+
+[d] 18-01-26 07:01:13 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-26 07:01:13 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-26 07:01:13 @ Module was booted too
+
+[e] 18-01-26 07:01:13 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-26 07:01:13 @ Loading module: users
+
+[d] 18-01-26 07:01:13 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-26 07:01:13 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-26 07:01:13 @ Module was booted too
+
+[d] 18-01-26 07:01:13 @ Loading user
+
+[d] 18-01-26 07:01:13 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-26 07:01:13 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-26 07:01:13 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-26 07:01:13 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-26 07:01:13 @ Finished! Memory used: Mb0.377664<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-26 07:01:29 @ Module was booted too
+
+[i] 18-01-26 07:01:29 @ Cala was booted...
+
+[d] 18-01-26 07:01:29 @ Loading module: db
+
+[d] 18-01-26 07:01:29 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-26 07:01:29 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-26 07:01:29 @ Module was booted too
+
+[e] 18-01-26 07:01:29 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-26 07:01:29 @ Loading module: users
+
+[d] 18-01-26 07:01:29 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-26 07:01:29 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-26 07:01:29 @ Module was booted too
+
+[d] 18-01-26 07:01:29 @ Loading user
+
+[d] 18-01-26 07:01:29 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-26 07:01:29 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-26 07:01:29 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-26 07:01:29 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-26 07:01:29 @ Module was booted too
+
+[d] 18-01-26 07:01:29 @ Function found
+
+[d] 18-01-26 07:01:29 @ Looking for path: test
+
+[d] 18-01-26 07:01:29 @ Found path: test
+
+[d] 18-01-26 07:01:29 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-26 07:01:29 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-26 07:01:29 @ Module was booted too
+
+[d] 18-01-26 07:01:29 @ Found function: test
+
+[d] 18-01-26 07:01:29 @ Finished! Memory used: Mb0.520512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

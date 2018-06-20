@@ -1,0 +1,1180 @@
+[d] 18-05-03 04:05:31 @ Module was booted too
+
+[i] 18-05-03 04:05:31 @ Cala was booted...
+
+[d] 18-05-03 04:05:31 @ Loading module: db
+
+[d] 18-05-03 04:05:31 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:31 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:31 @ Module was booted too
+
+[d] 18-05-03 04:05:31 @ Conneted to Db
+
+[d] 18-05-03 04:05:31 @ Loading module: users
+
+[d] 18-05-03 04:05:31 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:31 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:31 @ Module was booted too
+
+[d] 18-05-03 04:05:31 @ Loading user
+
+[d] 18-05-03 04:05:31 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:31 @ Unable to locate user
+
+[d] 18-05-03 04:05:31 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/cala/module.php
+
+[d] 18-05-03 04:05:31 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/cala/module.php
+
+[d] 18-05-03 04:05:31 @ Module was booted too
+
+[i] 18-05-03 04:05:31 @ Cala was booted...
+
+[d] 18-05-03 04:05:31 @ Finished! Memory used: Mb0.442632<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:36 @ Module was booted too
+
+[i] 18-05-03 04:05:36 @ Cala was booted...
+
+[d] 18-05-03 04:05:36 @ Loading module: db
+
+[d] 18-05-03 04:05:36 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:36 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:36 @ Module was booted too
+
+[d] 18-05-03 04:05:36 @ Conneted to Db
+
+[d] 18-05-03 04:05:36 @ Loading module: users
+
+[d] 18-05-03 04:05:36 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:36 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:36 @ Module was booted too
+
+[d] 18-05-03 04:05:36 @ Loading user
+
+[d] 18-05-03 04:05:36 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:36 @ Unable to locate user
+
+[d] 18-05-03 04:05:36 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:36 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:36 @ Module was booted too
+
+[d] 18-05-03 04:05:36 @ Function found
+
+[d] 18-05-03 04:05:36 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:36 @ Found path: gen_code
+
+[d] 18-05-03 04:05:36 @ Confirm that the user is logged in
+
+[d] 18-05-03 04:05:36 @ User id = 0, this can't be logged in
+
+[d] 18-05-03 04:05:36 @ Finished! Memory used: Mb0.448416<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:56 @ Module was booted too
+
+[i] 18-05-03 04:05:56 @ Cala was booted...
+
+[d] 18-05-03 04:05:56 @ Loading module: db
+
+[d] 18-05-03 04:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:56 @ Module was booted too
+
+[d] 18-05-03 04:05:56 @ Conneted to Db
+
+[d] 18-05-03 04:05:56 @ Loading module: users
+
+[d] 18-05-03 04:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:56 @ Module was booted too
+
+[d] 18-05-03 04:05:56 @ Loading user
+
+[d] 18-05-03 04:05:56 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:56 @ Unable to locate user
+
+[d] 18-05-03 04:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:56 @ Module was booted too
+
+[d] 18-05-03 04:05:56 @ Function found
+
+[d] 18-05-03 04:05:56 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:56 @ Found path: gen_code
+
+[d] 18-05-03 04:05:56 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:56 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:56 @ Module was booted too
+
+[d] 18-05-03 04:05:56 @ Found function: genCode
+
+[d] 18-05-03 04:05:56 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:27 @ Module was booted too
+
+[i] 18-05-03 04:05:27 @ Cala was booted...
+
+[d] 18-05-03 04:05:27 @ Loading module: db
+
+[d] 18-05-03 04:05:27 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:27 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:27 @ Module was booted too
+
+[d] 18-05-03 04:05:27 @ Conneted to Db
+
+[d] 18-05-03 04:05:27 @ Loading module: users
+
+[d] 18-05-03 04:05:27 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:27 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:27 @ Module was booted too
+
+[d] 18-05-03 04:05:27 @ Loading user
+
+[d] 18-05-03 04:05:27 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:27 @ Unable to locate user
+
+[d] 18-05-03 04:05:27 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:27 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:27 @ Module was booted too
+
+[d] 18-05-03 04:05:27 @ Function found
+
+[d] 18-05-03 04:05:27 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:27 @ Found path: gen_code
+
+[d] 18-05-03 04:05:27 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:27 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:27 @ Module was booted too
+
+[d] 18-05-03 04:05:27 @ Found function: genCode
+
+[d] 18-05-03 04:05:27 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:21 @ Module was booted too
+
+[i] 18-05-03 04:05:21 @ Cala was booted...
+
+[d] 18-05-03 04:05:21 @ Loading module: db
+
+[d] 18-05-03 04:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:21 @ Module was booted too
+
+[d] 18-05-03 04:05:21 @ Conneted to Db
+
+[d] 18-05-03 04:05:21 @ Loading module: users
+
+[d] 18-05-03 04:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:21 @ Module was booted too
+
+[d] 18-05-03 04:05:21 @ Loading user
+
+[d] 18-05-03 04:05:21 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:21 @ Unable to locate user
+
+[d] 18-05-03 04:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:21 @ Module was booted too
+
+[d] 18-05-03 04:05:21 @ Function found
+
+[d] 18-05-03 04:05:21 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:21 @ Found path: gen_code
+
+[d] 18-05-03 04:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:21 @ Module was booted too
+
+[d] 18-05-03 04:05:21 @ Found function: genCode
+
+[d] 18-05-03 04:05:21 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:59 @ Module was booted too
+
+[i] 18-05-03 04:05:59 @ Cala was booted...
+
+[d] 18-05-03 04:05:59 @ Loading module: db
+
+[d] 18-05-03 04:05:59 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:59 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:59 @ Module was booted too
+
+[d] 18-05-03 04:05:59 @ Conneted to Db
+
+[d] 18-05-03 04:05:59 @ Loading module: users
+
+[d] 18-05-03 04:05:59 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:59 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:59 @ Module was booted too
+
+[d] 18-05-03 04:05:59 @ Loading user
+
+[d] 18-05-03 04:05:59 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:59 @ Unable to locate user
+
+[d] 18-05-03 04:05:59 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:59 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:59 @ Module was booted too
+
+[d] 18-05-03 04:05:59 @ Function found
+
+[d] 18-05-03 04:05:59 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:59 @ Found path: gen_code
+
+[d] 18-05-03 04:05:59 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:59 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:59 @ Module was booted too
+
+[d] 18-05-03 04:05:59 @ Found function: genCode
+
+[d] 18-05-03 04:05:59 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:24 @ Module was booted too
+
+[i] 18-05-03 04:05:24 @ Cala was booted...
+
+[d] 18-05-03 04:05:24 @ Loading module: db
+
+[d] 18-05-03 04:05:24 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:24 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:24 @ Module was booted too
+
+[d] 18-05-03 04:05:24 @ Conneted to Db
+
+[d] 18-05-03 04:05:24 @ Loading module: users
+
+[d] 18-05-03 04:05:24 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:24 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:24 @ Module was booted too
+
+[d] 18-05-03 04:05:24 @ Loading user
+
+[d] 18-05-03 04:05:24 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:24 @ Unable to locate user
+
+[d] 18-05-03 04:05:24 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:24 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:24 @ Module was booted too
+
+[d] 18-05-03 04:05:24 @ Function found
+
+[d] 18-05-03 04:05:24 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:24 @ Found path: gen_code
+
+[d] 18-05-03 04:05:24 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:24 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:24 @ Module was booted too
+
+[d] 18-05-03 04:05:24 @ Found function: genCode
+
+[d] 18-05-03 04:05:24 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:28 @ Module was booted too
+
+[i] 18-05-03 04:05:28 @ Cala was booted...
+
+[d] 18-05-03 04:05:28 @ Loading module: db
+
+[d] 18-05-03 04:05:28 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:28 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:28 @ Module was booted too
+
+[d] 18-05-03 04:05:28 @ Conneted to Db
+
+[d] 18-05-03 04:05:28 @ Loading module: users
+
+[d] 18-05-03 04:05:28 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:28 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:28 @ Module was booted too
+
+[d] 18-05-03 04:05:28 @ Loading user
+
+[d] 18-05-03 04:05:28 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:28 @ Unable to locate user
+
+[d] 18-05-03 04:05:28 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:28 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:28 @ Module was booted too
+
+[d] 18-05-03 04:05:28 @ Function found
+
+[d] 18-05-03 04:05:28 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:28 @ Found path: gen_code
+
+[d] 18-05-03 04:05:28 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:28 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:28 @ Module was booted too
+
+[d] 18-05-03 04:05:28 @ Found function: genCode
+
+[d] 18-05-03 04:05:28 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:49 @ Module was booted too
+
+[i] 18-05-03 04:05:49 @ Cala was booted...
+
+[d] 18-05-03 04:05:49 @ Loading module: db
+
+[d] 18-05-03 04:05:49 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:49 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:49 @ Module was booted too
+
+[d] 18-05-03 04:05:49 @ Conneted to Db
+
+[d] 18-05-03 04:05:49 @ Loading module: users
+
+[d] 18-05-03 04:05:49 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:49 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:49 @ Module was booted too
+
+[d] 18-05-03 04:05:49 @ Loading user
+
+[d] 18-05-03 04:05:49 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:49 @ Unable to locate user
+
+[d] 18-05-03 04:05:49 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:49 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:49 @ Module was booted too
+
+[d] 18-05-03 04:05:49 @ Function found
+
+[d] 18-05-03 04:05:49 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:49 @ Found path: gen_code
+
+[d] 18-05-03 04:05:49 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:49 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:49 @ Module was booted too
+
+[d] 18-05-03 04:05:49 @ Found function: genCode
+
+[d] 18-05-03 04:05:49 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:03 @ Module was booted too
+
+[i] 18-05-03 04:05:03 @ Cala was booted...
+
+[d] 18-05-03 04:05:03 @ Loading module: db
+
+[d] 18-05-03 04:05:03 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:03 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:03 @ Module was booted too
+
+[d] 18-05-03 04:05:03 @ Conneted to Db
+
+[d] 18-05-03 04:05:03 @ Loading module: users
+
+[d] 18-05-03 04:05:03 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:03 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:03 @ Module was booted too
+
+[d] 18-05-03 04:05:03 @ Loading user
+
+[d] 18-05-03 04:05:03 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:03 @ Unable to locate user
+
+[d] 18-05-03 04:05:03 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:03 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:03 @ Module was booted too
+
+[d] 18-05-03 04:05:03 @ Function found
+
+[d] 18-05-03 04:05:03 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:03 @ Found path: gen_code
+
+[d] 18-05-03 04:05:03 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:03 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:03 @ Module was booted too
+
+[d] 18-05-03 04:05:03 @ Found function: genCode
+
+[d] 18-05-03 04:05:03 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:38 @ Module was booted too
+
+[i] 18-05-03 04:05:38 @ Cala was booted...
+
+[d] 18-05-03 04:05:38 @ Loading module: db
+
+[d] 18-05-03 04:05:38 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:38 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:38 @ Module was booted too
+
+[d] 18-05-03 04:05:38 @ Conneted to Db
+
+[d] 18-05-03 04:05:38 @ Loading module: users
+
+[d] 18-05-03 04:05:38 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:38 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:38 @ Module was booted too
+
+[d] 18-05-03 04:05:38 @ Loading user
+
+[d] 18-05-03 04:05:38 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:38 @ Unable to locate user
+
+[d] 18-05-03 04:05:38 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:38 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:38 @ Module was booted too
+
+[d] 18-05-03 04:05:38 @ Function found
+
+[d] 18-05-03 04:05:38 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:38 @ Found path: gen_code
+
+[d] 18-05-03 04:05:38 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:38 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:38 @ Module was booted too
+
+[d] 18-05-03 04:05:38 @ Found function: genCode
+
+[d] 18-05-03 04:05:38 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:41 @ Module was booted too
+
+[i] 18-05-03 04:05:41 @ Cala was booted...
+
+[d] 18-05-03 04:05:41 @ Loading module: db
+
+[d] 18-05-03 04:05:41 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:41 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:41 @ Module was booted too
+
+[d] 18-05-03 04:05:42 @ Conneted to Db
+
+[d] 18-05-03 04:05:42 @ Loading module: users
+
+[d] 18-05-03 04:05:42 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:42 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:42 @ Module was booted too
+
+[d] 18-05-03 04:05:42 @ Loading user
+
+[d] 18-05-03 04:05:42 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:42 @ Unable to locate user
+
+[d] 18-05-03 04:05:42 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:42 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:42 @ Module was booted too
+
+[d] 18-05-03 04:05:42 @ Function found
+
+[d] 18-05-03 04:05:42 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:42 @ Found path: gen_code
+
+[d] 18-05-03 04:05:42 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:42 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:42 @ Module was booted too
+
+[d] 18-05-03 04:05:42 @ Found function: genCode
+
+[d] 18-05-03 04:05:42 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:42 @ Module was booted too
+
+[i] 18-05-03 04:05:42 @ Cala was booted...
+
+[d] 18-05-03 04:05:42 @ Loading module: db
+
+[d] 18-05-03 04:05:42 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:42 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:42 @ Module was booted too
+
+[d] 18-05-03 04:05:42 @ Conneted to Db
+
+[d] 18-05-03 04:05:42 @ Loading module: users
+
+[d] 18-05-03 04:05:42 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:42 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:42 @ Module was booted too
+
+[d] 18-05-03 04:05:42 @ Loading user
+
+[d] 18-05-03 04:05:42 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:42 @ Unable to locate user
+
+[d] 18-05-03 04:05:42 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:42 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:42 @ Module was booted too
+
+[d] 18-05-03 04:05:42 @ Function found
+
+[d] 18-05-03 04:05:42 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:42 @ Found path: gen_code
+
+[d] 18-05-03 04:05:42 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:42 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:42 @ Module was booted too
+
+[d] 18-05-03 04:05:42 @ Found function: genCode
+
+[d] 18-05-03 04:05:42 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:44 @ Module was booted too
+
+[i] 18-05-03 04:05:44 @ Cala was booted...
+
+[d] 18-05-03 04:05:44 @ Loading module: db
+
+[d] 18-05-03 04:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:44 @ Module was booted too
+
+[d] 18-05-03 04:05:44 @ Conneted to Db
+
+[d] 18-05-03 04:05:44 @ Loading module: users
+
+[d] 18-05-03 04:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:44 @ Module was booted too
+
+[d] 18-05-03 04:05:44 @ Loading user
+
+[d] 18-05-03 04:05:44 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:44 @ Unable to locate user
+
+[d] 18-05-03 04:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:44 @ Module was booted too
+
+[d] 18-05-03 04:05:44 @ Function found
+
+[d] 18-05-03 04:05:44 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:44 @ Found path: gen_code
+
+[d] 18-05-03 04:05:44 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:44 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:44 @ Module was booted too
+
+[d] 18-05-03 04:05:44 @ Found function: genCode
+
+[d] 18-05-03 04:05:44 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:45 @ Module was booted too
+
+[i] 18-05-03 04:05:45 @ Cala was booted...
+
+[d] 18-05-03 04:05:45 @ Loading module: db
+
+[d] 18-05-03 04:05:45 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:45 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:45 @ Module was booted too
+
+[d] 18-05-03 04:05:45 @ Conneted to Db
+
+[d] 18-05-03 04:05:45 @ Loading module: users
+
+[d] 18-05-03 04:05:45 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:45 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:45 @ Module was booted too
+
+[d] 18-05-03 04:05:45 @ Loading user
+
+[d] 18-05-03 04:05:45 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:45 @ Unable to locate user
+
+[d] 18-05-03 04:05:45 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:45 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:45 @ Module was booted too
+
+[d] 18-05-03 04:05:45 @ Function found
+
+[d] 18-05-03 04:05:45 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:45 @ Found path: gen_code
+
+[d] 18-05-03 04:05:45 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:45 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:45 @ Module was booted too
+
+[d] 18-05-03 04:05:45 @ Found function: genCode
+
+[d] 18-05-03 04:05:45 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:46 @ Module was booted too
+
+[i] 18-05-03 04:05:46 @ Cala was booted...
+
+[d] 18-05-03 04:05:46 @ Loading module: db
+
+[d] 18-05-03 04:05:46 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:46 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:46 @ Module was booted too
+
+[d] 18-05-03 04:05:46 @ Conneted to Db
+
+[d] 18-05-03 04:05:46 @ Loading module: users
+
+[d] 18-05-03 04:05:46 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:46 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:46 @ Module was booted too
+
+[d] 18-05-03 04:05:46 @ Loading user
+
+[d] 18-05-03 04:05:46 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:46 @ Unable to locate user
+
+[d] 18-05-03 04:05:46 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:46 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:46 @ Module was booted too
+
+[d] 18-05-03 04:05:46 @ Function found
+
+[d] 18-05-03 04:05:46 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:46 @ Found path: gen_code
+
+[d] 18-05-03 04:05:46 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:46 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:46 @ Module was booted too
+
+[d] 18-05-03 04:05:46 @ Found function: genCode
+
+[d] 18-05-03 04:05:46 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:04 @ Module was booted too
+
+[i] 18-05-03 04:05:04 @ Cala was booted...
+
+[d] 18-05-03 04:05:04 @ Loading module: db
+
+[d] 18-05-03 04:05:04 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:04 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:04 @ Module was booted too
+
+[d] 18-05-03 04:05:04 @ Conneted to Db
+
+[d] 18-05-03 04:05:04 @ Loading module: users
+
+[d] 18-05-03 04:05:04 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:04 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:04 @ Module was booted too
+
+[d] 18-05-03 04:05:04 @ Loading user
+
+[d] 18-05-03 04:05:04 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:04 @ Unable to locate user
+
+[d] 18-05-03 04:05:04 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:04 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:04 @ Module was booted too
+
+[d] 18-05-03 04:05:04 @ Function found
+
+[d] 18-05-03 04:05:04 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:04 @ Found path: gen_code
+
+[d] 18-05-03 04:05:04 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:04 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:04 @ Module was booted too
+
+[d] 18-05-03 04:05:04 @ Found function: genCode
+
+[d] 18-05-03 04:05:04 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:54 @ Module was booted too
+
+[i] 18-05-03 04:05:54 @ Cala was booted...
+
+[d] 18-05-03 04:05:54 @ Loading module: db
+
+[d] 18-05-03 04:05:54 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:54 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:54 @ Module was booted too
+
+[d] 18-05-03 04:05:54 @ Conneted to Db
+
+[d] 18-05-03 04:05:54 @ Loading module: users
+
+[d] 18-05-03 04:05:54 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:54 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:54 @ Module was booted too
+
+[d] 18-05-03 04:05:54 @ Loading user
+
+[d] 18-05-03 04:05:54 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:54 @ Unable to locate user
+
+[d] 18-05-03 04:05:54 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:54 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:54 @ Module was booted too
+
+[d] 18-05-03 04:05:54 @ Function found
+
+[d] 18-05-03 04:05:54 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:54 @ Found path: gen_code
+
+[d] 18-05-03 04:05:54 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:54 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:54 @ Module was booted too
+
+[d] 18-05-03 04:05:54 @ Found function: genCode
+
+[d] 18-05-03 04:05:54 @ Finished! Memory used: Mb0.479808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:11 @ Module was booted too
+
+[i] 18-05-03 04:05:11 @ Cala was booted...
+
+[d] 18-05-03 04:05:11 @ Loading module: db
+
+[d] 18-05-03 04:05:11 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:11 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:11 @ Module was booted too
+
+[d] 18-05-03 04:05:11 @ Conneted to Db
+
+[d] 18-05-03 04:05:11 @ Loading module: users
+
+[d] 18-05-03 04:05:11 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:11 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:11 @ Module was booted too
+
+[d] 18-05-03 04:05:11 @ Loading user
+
+[d] 18-05-03 04:05:11 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:11 @ Unable to locate user
+
+[d] 18-05-03 04:05:11 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:11 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:11 @ Module was booted too
+
+[d] 18-05-03 04:05:11 @ Function found
+
+[d] 18-05-03 04:05:11 @ Looking for path: test
+
+[d] 18-05-03 04:05:11 @ Found path: test
+
+[d] 18-05-03 04:05:11 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:11 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:11 @ Module was booted too
+
+[d] 18-05-03 04:05:11 @ Found function: test
+
+[d] 18-05-03 04:05:11 @ Finished! Memory used: Mb0.482472<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:29 @ Module was booted too
+
+[i] 18-05-03 04:05:29 @ Cala was booted...
+
+[d] 18-05-03 04:05:29 @ Loading module: db
+
+[d] 18-05-03 04:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:29 @ Module was booted too
+
+[d] 18-05-03 04:05:29 @ Conneted to Db
+
+[d] 18-05-03 04:05:29 @ Loading module: users
+
+[d] 18-05-03 04:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:29 @ Module was booted too
+
+[d] 18-05-03 04:05:29 @ Loading user
+
+[d] 18-05-03 04:05:29 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:29 @ Unable to locate user
+
+[d] 18-05-03 04:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:29 @ Module was booted too
+
+[d] 18-05-03 04:05:29 @ Function found
+
+[d] 18-05-03 04:05:29 @ Looking for path: test
+
+[d] 18-05-03 04:05:29 @ Found path: test
+
+[d] 18-05-03 04:05:29 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:29 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:29 @ Module was booted too
+
+[d] 18-05-03 04:05:29 @ Found function: test
+
+[d] 18-05-03 04:05:29 @ Finished! Memory used: Mb0.482472<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:35 @ Module was booted too
+
+[i] 18-05-03 04:05:35 @ Cala was booted...
+
+[d] 18-05-03 04:05:35 @ Loading module: db
+
+[d] 18-05-03 04:05:35 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:35 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:35 @ Module was booted too
+
+[d] 18-05-03 04:05:35 @ Conneted to Db
+
+[d] 18-05-03 04:05:35 @ Loading module: users
+
+[d] 18-05-03 04:05:35 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:35 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:35 @ Module was booted too
+
+[d] 18-05-03 04:05:35 @ Loading user
+
+[d] 18-05-03 04:05:35 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:35 @ Unable to locate user
+
+[d] 18-05-03 04:05:35 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:35 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:35 @ Module was booted too
+
+[d] 18-05-03 04:05:35 @ Function found
+
+[d] 18-05-03 04:05:35 @ Looking for path: test
+
+[d] 18-05-03 04:05:35 @ Found path: test
+
+[d] 18-05-03 04:05:35 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:35 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:35 @ Module was booted too
+
+[d] 18-05-03 04:05:35 @ Found function: test
+
+[d] 18-05-03 04:05:35 @ Finished! Memory used: Mb0.482704<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:55 @ Module was booted too
+
+[i] 18-05-03 04:05:55 @ Cala was booted...
+
+[d] 18-05-03 04:05:55 @ Loading module: db
+
+[d] 18-05-03 04:05:55 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:55 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:55 @ Module was booted too
+
+[d] 18-05-03 04:05:55 @ Conneted to Db
+
+[d] 18-05-03 04:05:55 @ Loading module: users
+
+[d] 18-05-03 04:05:55 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:55 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:55 @ Module was booted too
+
+[d] 18-05-03 04:05:55 @ Loading user
+
+[d] 18-05-03 04:05:55 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:55 @ Unable to locate user
+
+[d] 18-05-03 04:05:55 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:55 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:55 @ Module was booted too
+
+[d] 18-05-03 04:05:55 @ Function found
+
+[d] 18-05-03 04:05:55 @ Looking for path: test
+
+[d] 18-05-03 04:05:55 @ Found path: test
+
+[d] 18-05-03 04:05:55 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:55 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:55 @ Module was booted too
+
+[d] 18-05-03 04:05:55 @ Found function: test
+
+[d] 18-05-03 04:05:55 @ Finished! Memory used: Mb0.481264<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-05-03 04:05:21 @ Module was booted too
+
+[i] 18-05-03 04:05:21 @ Cala was booted...
+
+[d] 18-05-03 04:05:21 @ Loading module: db
+
+[d] 18-05-03 04:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/db/module.php
+
+[d] 18-05-03 04:05:21 @ Module was booted too
+
+[d] 18-05-03 04:05:21 @ Conneted to Db
+
+[d] 18-05-03 04:05:21 @ Loading module: users
+
+[d] 18-05-03 04:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/modules/users/module.php
+
+[d] 18-05-03 04:05:21 @ Module was booted too
+
+[d] 18-05-03 04:05:21 @ Loading user
+
+[d] 18-05-03 04:05:21 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[d] 18-05-03 04:05:21 @ Unable to locate user
+
+[d] 18-05-03 04:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/module.php
+
+[d] 18-05-03 04:05:21 @ Module was booted too
+
+[d] 18-05-03 04:05:21 @ Function found
+
+[d] 18-05-03 04:05:21 @ Looking for path: gen_code
+
+[d] 18-05-03 04:05:21 @ Found path: gen_code
+
+[d] 18-05-03 04:05:21 @ Loading in path: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:21 @ Including file: /home/ticoteccr/subs/sapiens/api/contrib/sapiens/sapiens/sapiens.php
+
+[d] 18-05-03 04:05:21 @ Module was booted too
+
+[d] 18-05-03 04:05:21 @ Found function: genCode
+
+[d] 18-05-03 04:05:21 @ Finished! Memory used: Mb0.482632<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

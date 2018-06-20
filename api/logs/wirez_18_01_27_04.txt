@@ -1,0 +1,2296 @@
+[d] 18-01-27 04:01:42 @ Module was booted too
+
+[i] 18-01-27 04:01:42 @ Cala was booted...
+
+[d] 18-01-27 04:01:42 @ Loading module: db
+
+[d] 18-01-27 04:01:42 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:42 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:42 @ Module was booted too
+
+[e] 18-01-27 04:01:42 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:42 @ Loading module: users
+
+[d] 18-01-27 04:01:42 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:42 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:42 @ Module was booted too
+
+[d] 18-01-27 04:01:42 @ Loading user
+
+[d] 18-01-27 04:01:42 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:42 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:42 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:42 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:42 @ Module was booted too
+
+[d] 18-01-27 04:01:42 @ Function found
+
+[d] 18-01-27 04:01:42 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:42 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:42 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:42 @ Using default
+
+[d] 18-01-27 04:01:42 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:42 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:42 @ Module was booted too
+
+[d] 18-01-27 04:01:42 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:42 @ Finished! Memory used: Mb0.602312<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:16 @ Module was booted too
+
+[i] 18-01-27 04:01:16 @ Cala was booted...
+
+[d] 18-01-27 04:01:16 @ Loading module: db
+
+[d] 18-01-27 04:01:16 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:16 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:16 @ Module was booted too
+
+[e] 18-01-27 04:01:16 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:16 @ Loading module: users
+
+[d] 18-01-27 04:01:16 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:16 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:16 @ Module was booted too
+
+[d] 18-01-27 04:01:16 @ Loading user
+
+[d] 18-01-27 04:01:16 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:16 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:16 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:16 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:16 @ Module was booted too
+
+[d] 18-01-27 04:01:16 @ Function found
+
+[d] 18-01-27 04:01:16 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:16 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:16 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:16 @ Using default
+
+[d] 18-01-27 04:01:16 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:16 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:16 @ Module was booted too
+
+[d] 18-01-27 04:01:16 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:16 @ Finished! Memory used: Mb0.597224<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:39 @ Module was booted too
+
+[i] 18-01-27 04:01:39 @ Cala was booted...
+
+[d] 18-01-27 04:01:39 @ Loading module: db
+
+[d] 18-01-27 04:01:39 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:39 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:39 @ Module was booted too
+
+[e] 18-01-27 04:01:39 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:39 @ Loading module: users
+
+[d] 18-01-27 04:01:39 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:39 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:39 @ Module was booted too
+
+[d] 18-01-27 04:01:39 @ Loading user
+
+[d] 18-01-27 04:01:39 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:39 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:39 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:39 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:39 @ Module was booted too
+
+[d] 18-01-27 04:01:39 @ Function found
+
+[d] 18-01-27 04:01:39 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:39 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:39 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:39 @ Using default
+
+[d] 18-01-27 04:01:39 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:39 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:39 @ Module was booted too
+
+[d] 18-01-27 04:01:39 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:39 @ Finished! Memory used: Mb0.597208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:04 @ Module was booted too
+
+[i] 18-01-27 04:01:04 @ Cala was booted...
+
+[d] 18-01-27 04:01:04 @ Loading module: db
+
+[d] 18-01-27 04:01:04 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:04 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:04 @ Module was booted too
+
+[e] 18-01-27 04:01:04 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:04 @ Loading module: users
+
+[d] 18-01-27 04:01:04 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:04 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:04 @ Module was booted too
+
+[d] 18-01-27 04:01:04 @ Loading user
+
+[d] 18-01-27 04:01:04 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:04 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:04 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:04 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:04 @ Module was booted too
+
+[d] 18-01-27 04:01:04 @ Function found
+
+[d] 18-01-27 04:01:04 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:04 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:04 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:04 @ Using default
+
+[d] 18-01-27 04:01:04 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:04 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:04 @ Module was booted too
+
+[d] 18-01-27 04:01:04 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:04 @ Finished! Memory used: Mb0.597224<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:34 @ Module was booted too
+
+[i] 18-01-27 04:01:34 @ Cala was booted...
+
+[d] 18-01-27 04:01:34 @ Loading module: db
+
+[d] 18-01-27 04:01:34 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:34 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:34 @ Module was booted too
+
+[e] 18-01-27 04:01:34 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:34 @ Loading module: users
+
+[d] 18-01-27 04:01:34 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:34 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:34 @ Module was booted too
+
+[d] 18-01-27 04:01:34 @ Loading user
+
+[d] 18-01-27 04:01:34 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:34 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:34 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:34 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:34 @ Module was booted too
+
+[d] 18-01-27 04:01:34 @ Function found
+
+[d] 18-01-27 04:01:34 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:34 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:34 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:34 @ Using default
+
+[d] 18-01-27 04:01:34 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:34 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:34 @ Module was booted too
+
+[d] 18-01-27 04:01:34 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:34 @ Finished! Memory used: Mb0.597224<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[i] 18-01-27 04:01:50 @ Cala was booted...
+
+[d] 18-01-27 04:01:50 @ Loading module: db
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[e] 18-01-27 04:01:50 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:50 @ Loading module: users
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[d] 18-01-27 04:01:50 @ Loading user
+
+[d] 18-01-27 04:01:50 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:50 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[d] 18-01-27 04:01:50 @ Function found
+
+[d] 18-01-27 04:01:50 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:50 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:50 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:50 @ Using default
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[d] 18-01-27 04:01:50 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:50 @ Finished! Memory used: Mb0.597232<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:01 @ Module was booted too
+
+[i] 18-01-27 04:01:01 @ Cala was booted...
+
+[d] 18-01-27 04:01:01 @ Loading module: db
+
+[d] 18-01-27 04:01:01 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:01 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:01 @ Module was booted too
+
+[e] 18-01-27 04:01:01 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:01 @ Loading module: users
+
+[d] 18-01-27 04:01:01 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:01 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:01 @ Module was booted too
+
+[d] 18-01-27 04:01:01 @ Loading user
+
+[d] 18-01-27 04:01:01 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:01 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:01 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:01 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:01 @ Module was booted too
+
+[d] 18-01-27 04:01:01 @ Function found
+
+[d] 18-01-27 04:01:01 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:01 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:01 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:01 @ Using default
+
+[d] 18-01-27 04:01:01 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:01 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:01 @ Module was booted too
+
+[d] 18-01-27 04:01:01 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:01 @ Finished! Memory used: Mb0.597208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:27 @ Module was booted too
+
+[i] 18-01-27 04:01:27 @ Cala was booted...
+
+[d] 18-01-27 04:01:27 @ Loading module: db
+
+[d] 18-01-27 04:01:27 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:27 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:27 @ Module was booted too
+
+[e] 18-01-27 04:01:27 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:27 @ Loading module: users
+
+[d] 18-01-27 04:01:27 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:27 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:27 @ Module was booted too
+
+[d] 18-01-27 04:01:27 @ Loading user
+
+[d] 18-01-27 04:01:27 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:27 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:27 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:27 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:27 @ Module was booted too
+
+[d] 18-01-27 04:01:27 @ Function found
+
+[d] 18-01-27 04:01:27 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:27 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:27 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:27 @ Using default
+
+[d] 18-01-27 04:01:27 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:27 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:27 @ Module was booted too
+
+[d] 18-01-27 04:01:27 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:27 @ Finished! Memory used: Mb0.40144<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:16 @ Module was booted too
+
+[i] 18-01-27 04:01:16 @ Cala was booted...
+
+[d] 18-01-27 04:01:16 @ Loading module: db
+
+[d] 18-01-27 04:01:16 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:16 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:16 @ Module was booted too
+
+[e] 18-01-27 04:01:16 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:16 @ Loading module: users
+
+[d] 18-01-27 04:01:16 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:16 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:16 @ Module was booted too
+
+[d] 18-01-27 04:01:16 @ Loading user
+
+[d] 18-01-27 04:01:16 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:16 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:16 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:16 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:16 @ Module was booted too
+
+[d] 18-01-27 04:01:16 @ Function found
+
+[d] 18-01-27 04:01:16 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:16 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:16 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:16 @ Using default
+
+[d] 18-01-27 04:01:16 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:16 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:16 @ Module was booted too
+
+[d] 18-01-27 04:01:16 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:16 @ Finished! Memory used: Mb0.597384<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:05 @ Module was booted too
+
+[i] 18-01-27 04:01:05 @ Cala was booted...
+
+[d] 18-01-27 04:01:05 @ Loading module: db
+
+[d] 18-01-27 04:01:05 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:05 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:05 @ Module was booted too
+
+[e] 18-01-27 04:01:05 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:05 @ Loading module: users
+
+[d] 18-01-27 04:01:05 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:05 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:05 @ Module was booted too
+
+[d] 18-01-27 04:01:05 @ Loading user
+
+[d] 18-01-27 04:01:05 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:05 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:05 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:05 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:05 @ Module was booted too
+
+[d] 18-01-27 04:01:05 @ Function found
+
+[d] 18-01-27 04:01:05 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:05 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:05 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:05 @ Using default
+
+[d] 18-01-27 04:01:05 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:05 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:05 @ Module was booted too
+
+[d] 18-01-27 04:01:05 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:05 @ Finished! Memory used: Mb0.597128<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:41 @ Module was booted too
+
+[i] 18-01-27 04:01:41 @ Cala was booted...
+
+[d] 18-01-27 04:01:41 @ Loading module: db
+
+[d] 18-01-27 04:01:41 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:41 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:41 @ Module was booted too
+
+[e] 18-01-27 04:01:41 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:41 @ Loading module: users
+
+[d] 18-01-27 04:01:41 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:41 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:41 @ Module was booted too
+
+[d] 18-01-27 04:01:41 @ Loading user
+
+[d] 18-01-27 04:01:41 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:41 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:41 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:41 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:41 @ Module was booted too
+
+[d] 18-01-27 04:01:41 @ Function found
+
+[d] 18-01-27 04:01:41 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:41 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:41 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:41 @ Using default
+
+[d] 18-01-27 04:01:41 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:41 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:41 @ Module was booted too
+
+[d] 18-01-27 04:01:41 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:41 @ Finished! Memory used: Mb0.597192<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:56 @ Module was booted too
+
+[i] 18-01-27 04:01:56 @ Cala was booted...
+
+[d] 18-01-27 04:01:56 @ Loading module: db
+
+[d] 18-01-27 04:01:56 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:56 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:56 @ Module was booted too
+
+[e] 18-01-27 04:01:56 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:56 @ Loading module: users
+
+[d] 18-01-27 04:01:56 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:56 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:56 @ Module was booted too
+
+[d] 18-01-27 04:01:56 @ Loading user
+
+[d] 18-01-27 04:01:56 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:56 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:56 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:56 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:56 @ Module was booted too
+
+[d] 18-01-27 04:01:56 @ Function found
+
+[d] 18-01-27 04:01:56 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:56 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:56 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:56 @ Using default
+
+[d] 18-01-27 04:01:56 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:56 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:56 @ Module was booted too
+
+[d] 18-01-27 04:01:56 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:56 @ Finished! Memory used: Mb0.597192<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:40 @ Module was booted too
+
+[i] 18-01-27 04:01:40 @ Cala was booted...
+
+[d] 18-01-27 04:01:40 @ Loading module: db
+
+[d] 18-01-27 04:01:40 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:40 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:40 @ Module was booted too
+
+[e] 18-01-27 04:01:40 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:40 @ Loading module: users
+
+[d] 18-01-27 04:01:40 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:40 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:40 @ Module was booted too
+
+[d] 18-01-27 04:01:40 @ Loading user
+
+[d] 18-01-27 04:01:40 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:40 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:40 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:40 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:40 @ Module was booted too
+
+[d] 18-01-27 04:01:40 @ Function found
+
+[d] 18-01-27 04:01:40 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:40 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:40 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:40 @ Using default
+
+[d] 18-01-27 04:01:40 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:40 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:40 @ Module was booted too
+
+[d] 18-01-27 04:01:40 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:40 @ Finished! Memory used: Mb0.597592<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:08 @ Module was booted too
+
+[i] 18-01-27 04:01:08 @ Cala was booted...
+
+[d] 18-01-27 04:01:08 @ Loading module: db
+
+[d] 18-01-27 04:01:08 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:08 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:08 @ Module was booted too
+
+[e] 18-01-27 04:01:08 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:08 @ Loading module: users
+
+[d] 18-01-27 04:01:08 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:08 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:08 @ Module was booted too
+
+[d] 18-01-27 04:01:08 @ Loading user
+
+[d] 18-01-27 04:01:08 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:08 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:08 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:08 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:08 @ Module was booted too
+
+[d] 18-01-27 04:01:08 @ Function found
+
+[d] 18-01-27 04:01:08 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:08 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:08 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:08 @ Using default
+
+[d] 18-01-27 04:01:08 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:08 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:08 @ Module was booted too
+
+[d] 18-01-27 04:01:08 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:08 @ Finished! Memory used: Mb0.597592<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:47 @ Module was booted too
+
+[i] 18-01-27 04:01:47 @ Cala was booted...
+
+[d] 18-01-27 04:01:47 @ Loading module: db
+
+[d] 18-01-27 04:01:47 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:47 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:47 @ Module was booted too
+
+[e] 18-01-27 04:01:47 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:47 @ Loading module: users
+
+[d] 18-01-27 04:01:47 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:47 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:47 @ Module was booted too
+
+[d] 18-01-27 04:01:47 @ Loading user
+
+[d] 18-01-27 04:01:47 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:47 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:47 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:47 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:47 @ Module was booted too
+
+[d] 18-01-27 04:01:47 @ Function found
+
+[d] 18-01-27 04:01:47 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:47 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:47 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:47 @ Using default
+
+[d] 18-01-27 04:01:47 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:47 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:47 @ Module was booted too
+
+[d] 18-01-27 04:01:47 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:47 @ Finished! Memory used: Mb0.597592<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[i] 18-01-27 04:01:36 @ Cala was booted...
+
+[d] 18-01-27 04:01:36 @ Loading module: db
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[e] 18-01-27 04:01:36 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:36 @ Loading module: users
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[d] 18-01-27 04:01:36 @ Loading user
+
+[d] 18-01-27 04:01:36 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:36 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[d] 18-01-27 04:01:36 @ Function found
+
+[d] 18-01-27 04:01:36 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:36 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:36 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:36 @ Using default
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[d] 18-01-27 04:01:36 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:36 @ Finished! Memory used: Mb0.597896<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[i] 18-01-27 04:01:50 @ Cala was booted...
+
+[d] 18-01-27 04:01:50 @ Loading module: db
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[e] 18-01-27 04:01:50 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:50 @ Loading module: users
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[d] 18-01-27 04:01:50 @ Loading user
+
+[d] 18-01-27 04:01:50 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:50 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[d] 18-01-27 04:01:50 @ Function found
+
+[d] 18-01-27 04:01:50 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:50 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:50 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:50 @ Using default
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[d] 18-01-27 04:01:50 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:50 @ Finished! Memory used: Mb0.597912<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:08 @ Module was booted too
+
+[i] 18-01-27 04:01:08 @ Cala was booted...
+
+[d] 18-01-27 04:01:08 @ Loading module: db
+
+[d] 18-01-27 04:01:08 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:08 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:08 @ Module was booted too
+
+[e] 18-01-27 04:01:08 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:08 @ Loading module: users
+
+[d] 18-01-27 04:01:08 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:08 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:08 @ Module was booted too
+
+[d] 18-01-27 04:01:08 @ Loading user
+
+[d] 18-01-27 04:01:08 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:08 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:08 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:08 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:08 @ Module was booted too
+
+[d] 18-01-27 04:01:08 @ Function found
+
+[d] 18-01-27 04:01:08 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:08 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:08 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:08 @ Using default
+
+[d] 18-01-27 04:01:08 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:08 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:08 @ Module was booted too
+
+[d] 18-01-27 04:01:08 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:08 @ Finished! Memory used: Mb0.597648<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:27 @ Module was booted too
+
+[i] 18-01-27 04:01:27 @ Cala was booted...
+
+[d] 18-01-27 04:01:27 @ Loading module: db
+
+[d] 18-01-27 04:01:27 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:27 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:27 @ Module was booted too
+
+[e] 18-01-27 04:01:27 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:27 @ Loading module: users
+
+[d] 18-01-27 04:01:27 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:27 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:27 @ Module was booted too
+
+[d] 18-01-27 04:01:27 @ Loading user
+
+[d] 18-01-27 04:01:27 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:27 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:27 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:27 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:27 @ Module was booted too
+
+[d] 18-01-27 04:01:27 @ Function found
+
+[d] 18-01-27 04:01:27 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:27 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:27 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:27 @ Using default
+
+[d] 18-01-27 04:01:27 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:27 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:27 @ Module was booted too
+
+[d] 18-01-27 04:01:27 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:27 @ Finished! Memory used: Mb0.597648<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:32 @ Module was booted too
+
+[i] 18-01-27 04:01:32 @ Cala was booted...
+
+[d] 18-01-27 04:01:32 @ Loading module: db
+
+[d] 18-01-27 04:01:32 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:32 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:32 @ Module was booted too
+
+[e] 18-01-27 04:01:32 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:32 @ Loading module: users
+
+[d] 18-01-27 04:01:32 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:32 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:32 @ Module was booted too
+
+[d] 18-01-27 04:01:32 @ Loading user
+
+[d] 18-01-27 04:01:32 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:32 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:32 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:32 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:32 @ Module was booted too
+
+[d] 18-01-27 04:01:32 @ Function found
+
+[d] 18-01-27 04:01:32 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:32 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:32 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:32 @ Using default
+
+[d] 18-01-27 04:01:32 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:32 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:32 @ Module was booted too
+
+[d] 18-01-27 04:01:32 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:32 @ Finished! Memory used: Mb0.597712<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:07 @ Module was booted too
+
+[i] 18-01-27 04:01:07 @ Cala was booted...
+
+[d] 18-01-27 04:01:07 @ Loading module: db
+
+[d] 18-01-27 04:01:07 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:07 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:07 @ Module was booted too
+
+[e] 18-01-27 04:01:07 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:07 @ Loading module: users
+
+[d] 18-01-27 04:01:07 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:07 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:07 @ Module was booted too
+
+[d] 18-01-27 04:01:07 @ Loading user
+
+[d] 18-01-27 04:01:07 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:07 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:07 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:07 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:07 @ Module was booted too
+
+[d] 18-01-27 04:01:07 @ Function found
+
+[d] 18-01-27 04:01:07 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:07 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:07 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:07 @ Using default
+
+[d] 18-01-27 04:01:07 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:07 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:07 @ Module was booted too
+
+[d] 18-01-27 04:01:07 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:07 @ Finished! Memory used: Mb0.421608<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:32 @ Module was booted too
+
+[i] 18-01-27 04:01:32 @ Cala was booted...
+
+[d] 18-01-27 04:01:32 @ Loading module: db
+
+[d] 18-01-27 04:01:32 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:32 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:32 @ Module was booted too
+
+[e] 18-01-27 04:01:32 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:32 @ Loading module: users
+
+[d] 18-01-27 04:01:32 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:32 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:32 @ Module was booted too
+
+[d] 18-01-27 04:01:32 @ Loading user
+
+[d] 18-01-27 04:01:32 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:32 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:32 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:32 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:32 @ Module was booted too
+
+[d] 18-01-27 04:01:32 @ Function found
+
+[d] 18-01-27 04:01:32 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:32 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:32 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:32 @ Using default
+
+[d] 18-01-27 04:01:32 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:32 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:32 @ Module was booted too
+
+[d] 18-01-27 04:01:32 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:32 @ Finished! Memory used: Mb0.421512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:54 @ Module was booted too
+
+[i] 18-01-27 04:01:54 @ Cala was booted...
+
+[d] 18-01-27 04:01:54 @ Loading module: db
+
+[d] 18-01-27 04:01:54 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:54 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:54 @ Module was booted too
+
+[e] 18-01-27 04:01:54 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:54 @ Loading module: users
+
+[d] 18-01-27 04:01:54 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:54 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:54 @ Module was booted too
+
+[d] 18-01-27 04:01:54 @ Loading user
+
+[d] 18-01-27 04:01:54 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:54 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:54 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:54 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:54 @ Module was booted too
+
+[d] 18-01-27 04:01:54 @ Function found
+
+[d] 18-01-27 04:01:54 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:54 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:54 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:54 @ Using default
+
+[d] 18-01-27 04:01:54 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:54 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:54 @ Module was booted too
+
+[d] 18-01-27 04:01:54 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:54 @ Finished! Memory used: Mb0.597616<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[i] 18-01-27 04:01:36 @ Cala was booted...
+
+[d] 18-01-27 04:01:36 @ Loading module: db
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[e] 18-01-27 04:01:36 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:36 @ Loading module: users
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[d] 18-01-27 04:01:36 @ Loading user
+
+[d] 18-01-27 04:01:36 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:36 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[d] 18-01-27 04:01:36 @ Function found
+
+[d] 18-01-27 04:01:36 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:36 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:36 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:36 @ Using default
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[d] 18-01-27 04:01:36 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:36 @ Finished! Memory used: Mb0.421512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:54 @ Module was booted too
+
+[i] 18-01-27 04:01:54 @ Cala was booted...
+
+[d] 18-01-27 04:01:54 @ Loading module: db
+
+[d] 18-01-27 04:01:54 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:54 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:54 @ Module was booted too
+
+[e] 18-01-27 04:01:54 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:54 @ Loading module: users
+
+[d] 18-01-27 04:01:54 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:54 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:54 @ Module was booted too
+
+[d] 18-01-27 04:01:54 @ Loading user
+
+[d] 18-01-27 04:01:54 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:54 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:54 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:54 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:54 @ Module was booted too
+
+[d] 18-01-27 04:01:54 @ Function found
+
+[d] 18-01-27 04:01:54 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:54 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:54 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:54 @ Using default
+
+[d] 18-01-27 04:01:54 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:54 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:54 @ Module was booted too
+
+[d] 18-01-27 04:01:54 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:54 @ Finished! Memory used: Mb0.597552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:37 @ Module was booted too
+
+[i] 18-01-27 04:01:37 @ Cala was booted...
+
+[d] 18-01-27 04:01:37 @ Loading module: db
+
+[d] 18-01-27 04:01:37 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:37 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:37 @ Module was booted too
+
+[e] 18-01-27 04:01:37 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:37 @ Loading module: users
+
+[d] 18-01-27 04:01:37 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:37 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:37 @ Module was booted too
+
+[d] 18-01-27 04:01:37 @ Loading user
+
+[d] 18-01-27 04:01:37 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:37 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:37 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:37 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:37 @ Module was booted too
+
+[d] 18-01-27 04:01:37 @ Function found
+
+[d] 18-01-27 04:01:37 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:37 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:37 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:37 @ Using default
+
+[d] 18-01-27 04:01:37 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:37 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:37 @ Module was booted too
+
+[d] 18-01-27 04:01:37 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:37 @ Finished! Memory used: Mb0.597632<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:21 @ Module was booted too
+
+[i] 18-01-27 04:01:21 @ Cala was booted...
+
+[d] 18-01-27 04:01:21 @ Loading module: db
+
+[d] 18-01-27 04:01:21 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:21 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:21 @ Module was booted too
+
+[e] 18-01-27 04:01:21 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:21 @ Loading module: users
+
+[d] 18-01-27 04:01:21 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:21 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:21 @ Module was booted too
+
+[d] 18-01-27 04:01:21 @ Loading user
+
+[d] 18-01-27 04:01:21 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:21 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:21 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:21 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:21 @ Module was booted too
+
+[d] 18-01-27 04:01:21 @ Function found
+
+[d] 18-01-27 04:01:21 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:21 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:21 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:21 @ Using default
+
+[d] 18-01-27 04:01:21 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:21 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:21 @ Module was booted too
+
+[d] 18-01-27 04:01:21 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:21 @ Finished! Memory used: Mb0.421512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:15 @ Module was booted too
+
+[i] 18-01-27 04:01:15 @ Cala was booted...
+
+[d] 18-01-27 04:01:15 @ Loading module: db
+
+[d] 18-01-27 04:01:15 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:15 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:15 @ Module was booted too
+
+[e] 18-01-27 04:01:15 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:15 @ Loading module: users
+
+[d] 18-01-27 04:01:15 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:15 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:15 @ Module was booted too
+
+[d] 18-01-27 04:01:15 @ Loading user
+
+[d] 18-01-27 04:01:15 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:15 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:15 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:15 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:15 @ Module was booted too
+
+[d] 18-01-27 04:01:15 @ Function found
+
+[d] 18-01-27 04:01:15 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:15 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:15 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:15 @ Using default
+
+[d] 18-01-27 04:01:15 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:15 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:15 @ Module was booted too
+
+[d] 18-01-27 04:01:15 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:15 @ Finished! Memory used: Mb0.597488<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:15 @ Module was booted too
+
+[i] 18-01-27 04:01:15 @ Cala was booted...
+
+[d] 18-01-27 04:01:15 @ Loading module: db
+
+[d] 18-01-27 04:01:15 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:15 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:15 @ Module was booted too
+
+[e] 18-01-27 04:01:15 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:15 @ Loading module: users
+
+[d] 18-01-27 04:01:15 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:15 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:15 @ Module was booted too
+
+[d] 18-01-27 04:01:15 @ Loading user
+
+[d] 18-01-27 04:01:15 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:15 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:15 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:15 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:15 @ Module was booted too
+
+[d] 18-01-27 04:01:15 @ Function found
+
+[d] 18-01-27 04:01:15 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:15 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:15 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:15 @ Using default
+
+[d] 18-01-27 04:01:15 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:15 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:15 @ Module was booted too
+
+[d] 18-01-27 04:01:15 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:15 @ Finished! Memory used: Mb0.597488<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:49 @ Module was booted too
+
+[i] 18-01-27 04:01:49 @ Cala was booted...
+
+[d] 18-01-27 04:01:49 @ Loading module: db
+
+[d] 18-01-27 04:01:49 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:49 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:49 @ Module was booted too
+
+[e] 18-01-27 04:01:49 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:49 @ Loading module: users
+
+[d] 18-01-27 04:01:49 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:49 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:49 @ Module was booted too
+
+[d] 18-01-27 04:01:49 @ Loading user
+
+[d] 18-01-27 04:01:49 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:49 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:49 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:49 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:49 @ Module was booted too
+
+[d] 18-01-27 04:01:49 @ Function found
+
+[d] 18-01-27 04:01:49 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:49 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:49 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:49 @ Using default
+
+[d] 18-01-27 04:01:49 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:49 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:49 @ Module was booted too
+
+[d] 18-01-27 04:01:49 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:49 @ Finished! Memory used: Mb0.597488<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:06 @ Module was booted too
+
+[i] 18-01-27 04:01:06 @ Cala was booted...
+
+[d] 18-01-27 04:01:06 @ Loading module: db
+
+[d] 18-01-27 04:01:06 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:06 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:06 @ Module was booted too
+
+[e] 18-01-27 04:01:06 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:06 @ Loading module: users
+
+[d] 18-01-27 04:01:06 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:06 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:06 @ Module was booted too
+
+[d] 18-01-27 04:01:06 @ Loading user
+
+[d] 18-01-27 04:01:06 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:06 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:06 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:06 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:06 @ Module was booted too
+
+[d] 18-01-27 04:01:06 @ Function found
+
+[d] 18-01-27 04:01:06 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:06 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:06 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:06 @ Using default
+
+[d] 18-01-27 04:01:06 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:06 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:06 @ Module was booted too
+
+[d] 18-01-27 04:01:06 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:06 @ Finished! Memory used: Mb0.597488<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:22 @ Module was booted too
+
+[i] 18-01-27 04:01:22 @ Cala was booted...
+
+[d] 18-01-27 04:01:22 @ Loading module: db
+
+[d] 18-01-27 04:01:22 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:22 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:22 @ Module was booted too
+
+[e] 18-01-27 04:01:22 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:22 @ Loading module: users
+
+[d] 18-01-27 04:01:22 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:22 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:22 @ Module was booted too
+
+[d] 18-01-27 04:01:22 @ Loading user
+
+[d] 18-01-27 04:01:22 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:22 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:22 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:22 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:22 @ Module was booted too
+
+[d] 18-01-27 04:01:22 @ Function found
+
+[d] 18-01-27 04:01:22 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:22 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:22 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:22 @ Using default
+
+[d] 18-01-27 04:01:22 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:22 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:22 @ Module was booted too
+
+[d] 18-01-27 04:01:22 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:22 @ Finished! Memory used: Mb0.401208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[i] 18-01-27 04:01:36 @ Cala was booted...
+
+[d] 18-01-27 04:01:36 @ Loading module: db
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[e] 18-01-27 04:01:36 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:36 @ Loading module: users
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[d] 18-01-27 04:01:36 @ Loading user
+
+[d] 18-01-27 04:01:36 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:36 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[d] 18-01-27 04:01:36 @ Function found
+
+[d] 18-01-27 04:01:36 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:36 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:36 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:36 @ Using default
+
+[d] 18-01-27 04:01:36 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:36 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:36 @ Module was booted too
+
+[d] 18-01-27 04:01:36 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:36 @ Finished! Memory used: Mb0.401208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:38 @ Module was booted too
+
+[i] 18-01-27 04:01:38 @ Cala was booted...
+
+[d] 18-01-27 04:01:38 @ Loading module: db
+
+[d] 18-01-27 04:01:38 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:38 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:38 @ Module was booted too
+
+[e] 18-01-27 04:01:38 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:38 @ Loading module: users
+
+[d] 18-01-27 04:01:38 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:38 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:38 @ Module was booted too
+
+[d] 18-01-27 04:01:38 @ Loading user
+
+[d] 18-01-27 04:01:38 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:38 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:38 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:38 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:38 @ Module was booted too
+
+[d] 18-01-27 04:01:38 @ Function found
+
+[d] 18-01-27 04:01:38 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:38 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:38 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:38 @ Using default
+
+[d] 18-01-27 04:01:38 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:38 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:38 @ Module was booted too
+
+[d] 18-01-27 04:01:38 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:38 @ Finished! Memory used: Mb0.401208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:55 @ Module was booted too
+
+[i] 18-01-27 04:01:55 @ Cala was booted...
+
+[d] 18-01-27 04:01:55 @ Loading module: db
+
+[d] 18-01-27 04:01:55 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:55 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:55 @ Module was booted too
+
+[e] 18-01-27 04:01:55 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:55 @ Loading module: users
+
+[d] 18-01-27 04:01:55 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:55 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:55 @ Module was booted too
+
+[d] 18-01-27 04:01:55 @ Loading user
+
+[d] 18-01-27 04:01:55 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:55 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:55 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:55 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:55 @ Module was booted too
+
+[d] 18-01-27 04:01:55 @ Function found
+
+[d] 18-01-27 04:01:55 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:55 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:55 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:55 @ Using default
+
+[d] 18-01-27 04:01:55 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:55 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:55 @ Module was booted too
+
+[d] 18-01-27 04:01:55 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:55 @ Finished! Memory used: Mb0.5976<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:18 @ Module was booted too
+
+[i] 18-01-27 04:01:18 @ Cala was booted...
+
+[d] 18-01-27 04:01:18 @ Loading module: db
+
+[d] 18-01-27 04:01:18 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:18 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:18 @ Module was booted too
+
+[e] 18-01-27 04:01:18 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:18 @ Loading module: users
+
+[d] 18-01-27 04:01:18 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:18 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:18 @ Module was booted too
+
+[d] 18-01-27 04:01:18 @ Loading user
+
+[d] 18-01-27 04:01:18 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:18 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:18 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:18 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:18 @ Module was booted too
+
+[d] 18-01-27 04:01:18 @ Function found
+
+[d] 18-01-27 04:01:18 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:18 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:18 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:18 @ Using default
+
+[d] 18-01-27 04:01:18 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:18 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:18 @ Module was booted too
+
+[d] 18-01-27 04:01:18 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:18 @ Finished! Memory used: Mb0.401208<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:53 @ Module was booted too
+
+[i] 18-01-27 04:01:53 @ Cala was booted...
+
+[d] 18-01-27 04:01:53 @ Loading module: db
+
+[d] 18-01-27 04:01:53 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:53 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:53 @ Module was booted too
+
+[e] 18-01-27 04:01:53 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:53 @ Loading module: users
+
+[d] 18-01-27 04:01:53 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:53 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:53 @ Module was booted too
+
+[d] 18-01-27 04:01:53 @ Loading user
+
+[d] 18-01-27 04:01:53 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:53 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:53 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:53 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:53 @ Module was booted too
+
+[d] 18-01-27 04:01:53 @ Function found
+
+[d] 18-01-27 04:01:53 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:53 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:53 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:53 @ Using default
+
+[d] 18-01-27 04:01:53 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:53 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:53 @ Module was booted too
+
+[d] 18-01-27 04:01:53 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:53 @ Finished! Memory used: Mb0.401304<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:46 @ Module was booted too
+
+[i] 18-01-27 04:01:46 @ Cala was booted...
+
+[d] 18-01-27 04:01:46 @ Loading module: db
+
+[d] 18-01-27 04:01:46 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:46 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:46 @ Module was booted too
+
+[e] 18-01-27 04:01:46 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:46 @ Loading module: users
+
+[d] 18-01-27 04:01:46 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:46 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:46 @ Module was booted too
+
+[d] 18-01-27 04:01:46 @ Loading user
+
+[d] 18-01-27 04:01:46 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:46 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:46 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:46 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:46 @ Module was booted too
+
+[d] 18-01-27 04:01:46 @ Function found
+
+[d] 18-01-27 04:01:46 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:46 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:46 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:46 @ Using default
+
+[d] 18-01-27 04:01:46 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:46 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:46 @ Module was booted too
+
+[d] 18-01-27 04:01:46 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:46 @ Finished! Memory used: Mb0.59764<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[i] 18-01-27 04:01:50 @ Cala was booted...
+
+[d] 18-01-27 04:01:50 @ Loading module: db
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[e] 18-01-27 04:01:50 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:50 @ Loading module: users
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[d] 18-01-27 04:01:50 @ Loading user
+
+[d] 18-01-27 04:01:50 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:50 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[d] 18-01-27 04:01:50 @ Function found
+
+[d] 18-01-27 04:01:50 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:50 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:50 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:50 @ Using default
+
+[d] 18-01-27 04:01:50 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:50 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:50 @ Module was booted too
+
+[d] 18-01-27 04:01:50 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:50 @ Finished! Memory used: Mb0.401304<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:53 @ Module was booted too
+
+[i] 18-01-27 04:01:53 @ Cala was booted...
+
+[d] 18-01-27 04:01:53 @ Loading module: db
+
+[d] 18-01-27 04:01:53 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:53 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:53 @ Module was booted too
+
+[e] 18-01-27 04:01:53 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:53 @ Loading module: users
+
+[d] 18-01-27 04:01:53 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:53 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:53 @ Module was booted too
+
+[d] 18-01-27 04:01:53 @ Loading user
+
+[d] 18-01-27 04:01:53 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:53 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:53 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:53 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:53 @ Module was booted too
+
+[d] 18-01-27 04:01:53 @ Function found
+
+[d] 18-01-27 04:01:53 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:53 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:53 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:53 @ Using default
+
+[d] 18-01-27 04:01:53 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:53 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:53 @ Module was booted too
+
+[d] 18-01-27 04:01:53 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:54 @ Finished! Memory used: Mb0.401304<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-01-27 04:01:10 @ Module was booted too
+
+[i] 18-01-27 04:01:10 @ Cala was booted...
+
+[d] 18-01-27 04:01:10 @ Loading module: db
+
+[d] 18-01-27 04:01:10 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:10 @ Including file: ../api/modules/db/module.php
+
+[d] 18-01-27 04:01:10 @ Module was booted too
+
+[e] 18-01-27 04:01:10 @ Connection failed: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:10 @ Loading module: users
+
+[d] 18-01-27 04:01:10 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:10 @ Including file: ../api/modules/users/module.php
+
+[d] 18-01-27 04:01:10 @ Module was booted too
+
+[d] 18-01-27 04:01:10 @ Loading user
+
+[d] 18-01-27 04:01:10 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-01-27 04:01:10 @ DB Connection error: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[d] 18-01-27 04:01:10 @ Loading in path: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:10 @ Including file: ../api/contrib/hacienda/module.php
+
+[d] 18-01-27 04:01:10 @ Module was booted too
+
+[d] 18-01-27 04:01:10 @ Function found
+
+[d] 18-01-27 04:01:10 @ Looking for path: gen_xml
+
+[d] 18-01-27 04:01:10 @ Found path: gen_xml
+
+[d] 18-01-27 04:01:10 @ Missing param: plazo_credito
+
+[d] 18-01-27 04:01:10 @ Using default
+
+[d] 18-01-27 04:01:10 @ Loading in path: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:10 @ Including file: ../api/contrib/hacienda/hacienda.php
+
+[d] 18-01-27 04:01:10 @ Module was booted too
+
+[d] 18-01-27 04:01:10 @ Found function: XMLGenerator
+
+[d] 18-01-27 04:01:10 @ Finished! Memory used: Mb0.59764<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

@@ -1,0 +1,624 @@
+[d] 18-04-11 07:04:42 @ Module was booted too
+
+[i] 18-04-11 07:04:42 @ Cala was booted...
+
+[d] 18-04-11 07:04:42 @ Loading module: db
+
+[d] 18-04-11 07:04:42 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:42 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:42 @ Module was booted too
+
+[e] 18-04-11 07:04:42 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:42 @ Loading module: users
+
+[d] 18-04-11 07:04:42 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:42 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:42 @ Module was booted too
+
+[d] 18-04-11 07:04:42 @ Loading user
+
+[d] 18-04-11 07:04:42 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:42 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:42 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:42 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:42 @ Module was booted too
+
+[d] 18-04-11 07:04:42 @ Function found
+
+[d] 18-04-11 07:04:42 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:42 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:42 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:42 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:42 @ Module was booted too
+
+[d] 18-04-11 07:04:42 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:42 @ Finished! Memory used: Mb0.57148<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:48 @ Module was booted too
+
+[i] 18-04-11 07:04:48 @ Cala was booted...
+
+[d] 18-04-11 07:04:48 @ Loading module: db
+
+[d] 18-04-11 07:04:48 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:48 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:48 @ Module was booted too
+
+[e] 18-04-11 07:04:48 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:48 @ Loading module: users
+
+[d] 18-04-11 07:04:48 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:48 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:48 @ Module was booted too
+
+[d] 18-04-11 07:04:48 @ Loading user
+
+[d] 18-04-11 07:04:48 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:48 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:48 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:48 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:48 @ Module was booted too
+
+[d] 18-04-11 07:04:48 @ Function found
+
+[d] 18-04-11 07:04:48 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:48 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:48 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:48 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:48 @ Module was booted too
+
+[d] 18-04-11 07:04:48 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:48 @ Finished! Memory used: Mb0.40056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:18 @ Module was booted too
+
+[i] 18-04-11 07:04:18 @ Cala was booted...
+
+[d] 18-04-11 07:04:18 @ Loading module: db
+
+[d] 18-04-11 07:04:18 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:18 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:18 @ Module was booted too
+
+[e] 18-04-11 07:04:18 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:18 @ Loading module: users
+
+[d] 18-04-11 07:04:18 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:18 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:18 @ Module was booted too
+
+[d] 18-04-11 07:04:18 @ Loading user
+
+[d] 18-04-11 07:04:18 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:18 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:18 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:18 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:18 @ Module was booted too
+
+[d] 18-04-11 07:04:18 @ Function found
+
+[d] 18-04-11 07:04:18 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:18 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:18 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:18 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:18 @ Module was booted too
+
+[d] 18-04-11 07:04:18 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:18 @ Finished! Memory used: Mb0.5714<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:31 @ Module was booted too
+
+[i] 18-04-11 07:04:31 @ Cala was booted...
+
+[d] 18-04-11 07:04:31 @ Loading module: db
+
+[d] 18-04-11 07:04:31 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:31 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:31 @ Module was booted too
+
+[e] 18-04-11 07:04:31 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:31 @ Loading module: users
+
+[d] 18-04-11 07:04:31 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:31 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:31 @ Module was booted too
+
+[d] 18-04-11 07:04:31 @ Loading user
+
+[d] 18-04-11 07:04:31 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:31 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:31 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:31 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:31 @ Module was booted too
+
+[d] 18-04-11 07:04:31 @ Function found
+
+[d] 18-04-11 07:04:31 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:31 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:31 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:31 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:31 @ Module was booted too
+
+[d] 18-04-11 07:04:31 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:31 @ Finished! Memory used: Mb0.40056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:23 @ Module was booted too
+
+[i] 18-04-11 07:04:23 @ Cala was booted...
+
+[d] 18-04-11 07:04:23 @ Loading module: db
+
+[d] 18-04-11 07:04:23 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:23 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:23 @ Module was booted too
+
+[e] 18-04-11 07:04:23 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:23 @ Loading module: users
+
+[d] 18-04-11 07:04:23 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:23 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:23 @ Module was booted too
+
+[d] 18-04-11 07:04:23 @ Loading user
+
+[d] 18-04-11 07:04:23 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:23 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:23 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:23 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:23 @ Module was booted too
+
+[d] 18-04-11 07:04:23 @ Function found
+
+[d] 18-04-11 07:04:23 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:23 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:23 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:23 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:23 @ Module was booted too
+
+[d] 18-04-11 07:04:23 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:23 @ Finished! Memory used: Mb0.571432<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:04 @ Module was booted too
+
+[i] 18-04-11 07:04:04 @ Cala was booted...
+
+[d] 18-04-11 07:04:04 @ Loading module: db
+
+[d] 18-04-11 07:04:04 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:04 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:04 @ Module was booted too
+
+[e] 18-04-11 07:04:04 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:04 @ Loading module: users
+
+[d] 18-04-11 07:04:04 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:04 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:04 @ Module was booted too
+
+[d] 18-04-11 07:04:04 @ Loading user
+
+[d] 18-04-11 07:04:04 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:04 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:04 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:04 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:04 @ Module was booted too
+
+[d] 18-04-11 07:04:04 @ Function found
+
+[d] 18-04-11 07:04:04 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:04 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:04 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:04 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:04 @ Module was booted too
+
+[d] 18-04-11 07:04:04 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:04 @ Finished! Memory used: Mb0.571576<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:13 @ Module was booted too
+
+[i] 18-04-11 07:04:13 @ Cala was booted...
+
+[d] 18-04-11 07:04:13 @ Loading module: db
+
+[d] 18-04-11 07:04:13 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:13 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:13 @ Module was booted too
+
+[e] 18-04-11 07:04:13 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:13 @ Loading module: users
+
+[d] 18-04-11 07:04:13 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:13 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:13 @ Module was booted too
+
+[d] 18-04-11 07:04:13 @ Loading user
+
+[d] 18-04-11 07:04:13 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:13 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:13 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:13 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:13 @ Module was booted too
+
+[d] 18-04-11 07:04:13 @ Function found
+
+[d] 18-04-11 07:04:13 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:13 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:13 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:13 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:13 @ Module was booted too
+
+[d] 18-04-11 07:04:13 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:13 @ Finished! Memory used: Mb0.40056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:57 @ Module was booted too
+
+[i] 18-04-11 07:04:57 @ Cala was booted...
+
+[d] 18-04-11 07:04:57 @ Loading module: db
+
+[d] 18-04-11 07:04:57 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:57 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:57 @ Module was booted too
+
+[e] 18-04-11 07:04:57 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:57 @ Loading module: users
+
+[d] 18-04-11 07:04:57 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:57 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:57 @ Module was booted too
+
+[d] 18-04-11 07:04:57 @ Loading user
+
+[d] 18-04-11 07:04:57 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:57 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:57 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:57 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:57 @ Module was booted too
+
+[d] 18-04-11 07:04:57 @ Function found
+
+[d] 18-04-11 07:04:57 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:57 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:57 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:57 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:57 @ Module was booted too
+
+[d] 18-04-11 07:04:57 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:57 @ Finished! Memory used: Mb0.40056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:11 @ Module was booted too
+
+[i] 18-04-11 07:04:11 @ Cala was booted...
+
+[d] 18-04-11 07:04:11 @ Loading module: db
+
+[d] 18-04-11 07:04:11 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:11 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:11 @ Module was booted too
+
+[e] 18-04-11 07:04:11 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:11 @ Loading module: users
+
+[d] 18-04-11 07:04:11 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:11 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:11 @ Module was booted too
+
+[d] 18-04-11 07:04:11 @ Loading user
+
+[d] 18-04-11 07:04:11 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:11 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:11 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:11 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:11 @ Module was booted too
+
+[d] 18-04-11 07:04:11 @ Function found
+
+[d] 18-04-11 07:04:11 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:11 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:11 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:11 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:11 @ Module was booted too
+
+[d] 18-04-11 07:04:11 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:11 @ Finished! Memory used: Mb0.40056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:33 @ Module was booted too
+
+[i] 18-04-11 07:04:33 @ Cala was booted...
+
+[d] 18-04-11 07:04:33 @ Loading module: db
+
+[d] 18-04-11 07:04:33 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:33 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:33 @ Module was booted too
+
+[e] 18-04-11 07:04:33 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:33 @ Loading module: users
+
+[d] 18-04-11 07:04:33 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:33 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:33 @ Module was booted too
+
+[d] 18-04-11 07:04:33 @ Loading user
+
+[d] 18-04-11 07:04:33 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:33 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:33 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:33 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:33 @ Module was booted too
+
+[d] 18-04-11 07:04:33 @ Function found
+
+[d] 18-04-11 07:04:33 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:33 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:33 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:33 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:33 @ Module was booted too
+
+[d] 18-04-11 07:04:33 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:33 @ Finished! Memory used: Mb0.571464<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:39 @ Module was booted too
+
+[i] 18-04-11 07:04:39 @ Cala was booted...
+
+[d] 18-04-11 07:04:39 @ Loading module: db
+
+[d] 18-04-11 07:04:39 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:39 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:39 @ Module was booted too
+
+[e] 18-04-11 07:04:39 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:39 @ Loading module: users
+
+[d] 18-04-11 07:04:39 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:39 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:39 @ Module was booted too
+
+[d] 18-04-11 07:04:39 @ Loading user
+
+[d] 18-04-11 07:04:39 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:39 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:39 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:39 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:39 @ Module was booted too
+
+[d] 18-04-11 07:04:39 @ Function found
+
+[d] 18-04-11 07:04:39 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:39 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:39 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:39 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:39 @ Module was booted too
+
+[d] 18-04-11 07:04:39 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:39 @ Finished! Memory used: Mb0.40056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 18-04-11 07:04:57 @ Module was booted too
+
+[i] 18-04-11 07:04:57 @ Cala was booted...
+
+[d] 18-04-11 07:04:57 @ Loading module: db
+
+[d] 18-04-11 07:04:57 @ Loading in path: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:57 @ Including file: ../api/modules/db/module.php
+
+[d] 18-04-11 07:04:57 @ Module was booted too
+
+[e] 18-04-11 07:04:57 @ Connection failed: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:57 @ Loading module: users
+
+[d] 18-04-11 07:04:57 @ Loading in path: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:57 @ Including file: ../api/modules/users/module.php
+
+[d] 18-04-11 07:04:57 @ Module was booted too
+
+[d] 18-04-11 07:04:57 @ Loading user
+
+[d] 18-04-11 07:04:57 @ SELECT *
+	FROM users
+	 WHERE userName = ''
+
+[e] 18-04-11 07:04:57 @ DB Connection error: Access denied for user 'crlibre_api_user'@'localhost' (using password: YES)
+
+[d] 18-04-11 07:04:57 @ Loading in path: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:57 @ Including file: ../api/contrib/genXML/module.php
+
+[d] 18-04-11 07:04:57 @ Module was booted too
+
+[d] 18-04-11 07:04:57 @ Function found
+
+[d] 18-04-11 07:04:57 @ Looking for path: gen_xml_fe
+
+[d] 18-04-11 07:04:57 @ Found path: gen_xml_fe
+
+[d] 18-04-11 07:04:57 @ Loading in path: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:57 @ Including file: ../api/contrib/genXML/genXML.php
+
+[d] 18-04-11 07:04:57 @ Module was booted too
+
+[d] 18-04-11 07:04:57 @ Found function: genXMLFe
+
+[d] 18-04-11 07:04:57 @ Finished! Memory used: Mb0.40056<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
