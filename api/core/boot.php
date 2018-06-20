@@ -50,7 +50,6 @@ function boot_itUp($mode = 'web'){
 	}
 
 	# Select and load the correct called module
-	# @todo if the module is core and it was already loaded, don't do it again :)
 	modules_loader(params_get('w', 'cala'));
 
 	# Init this call

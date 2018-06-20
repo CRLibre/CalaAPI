@@ -39,7 +39,7 @@ $config['core']['host'] = "mySite.com";
 
 # Time in seconds for the lifetime of a session, after this time, the user must
 # log back in
-$config['users']['sessionLifetime'] = 10;
+$config['users']['sessionLifetime'] = -1;
 
 /*******************************************************************************
  * You should not need to touch anything beyond this point

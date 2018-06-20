@@ -4,7 +4,6 @@
  *
  */
 function cala_bootMeUp(){
-
 	grace_info("Cala was booted...");
 }
 

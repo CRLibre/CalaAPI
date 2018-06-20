@@ -17,7 +17,6 @@ function tools_reply($response, $killMe = false){
 		}
 		_tools_reply($response);
 	}
-
 }
 
 function _tools_reply($response){

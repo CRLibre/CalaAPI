@@ -469,9 +469,13 @@ function users_confirmSessionKey(){
 		return false;
 	}else{
 		# Lets confirm the time frame
-		if((time() - $r->lastAccess) > conf_get('sessionLifetime', 'users', 3600)){
-			grace_debug("User last access is to old");
-			return false;
+        if(conf_get('sessionLifetime', 'users', 3600) != -1){
+            if((time() - $r->lastAccess) > conf_get('sessionLifetime', 'users', 3600)){
+                grace_debug("User last access is to old");
+                return false;
+            }
+        }else{
+            grace_debug("The user will be at home for unknown time :P");
         }
 		return $r->idUser;
 	}
@@ -545,9 +549,8 @@ function users_updateProfile(){
 	if($r == 0){
 		return ERROR_ERROR;
 	}
-
+    
 	return SUCCESS_ALL_GOOD;
-
 }
 
 /**
@@ -603,7 +606,6 @@ function _users_update($dets){
 	);
 
 	return db_query($q, 0);
-
 }
 
 /**
@@ -733,7 +735,6 @@ function users_access($perm, $theUser = false){
 
 	#@todo Actually check the perms :)
 	return true;
-
 }
 
 /**
@@ -781,7 +782,7 @@ function users_recoverPwd(){
 			return SUCCESS_ALL_GOOD;
 		}
 	}
-
+    
 	# If I reached this place there was an error
 	return ERROR_ERROR;
 }
@@ -791,10 +792,8 @@ function users_recoverPwd(){
  */
 
 function users_confirmSessionValidity(){
-
     grace_debug("I will confirm the validity of this session: " . params_get('iam', '') . " -- " . params_get('sessionKey', ''));
 
     # If I got here I am logged in :)
     return SUCCESS_ALL_GOOD;
-
 }

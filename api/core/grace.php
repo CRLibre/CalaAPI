@@ -22,8 +22,6 @@ define('GRACE_PRINT_ERROR',  true);
 //! Debug messages stored in Grace
 global $grace_logMsgs;
 
-
-
 /** @}*/
 /**
  * I am the one who actually talks
