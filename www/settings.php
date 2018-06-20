@@ -63,4 +63,3 @@ $config['core']['resourcesPath'] = $config['modules']['coreInstall'] . 'resource
 # Location to upload files, USE TRAILING SLASH!!
 # Each user will have its own directory within this path
 $config['files']['basePath'] = $config['modules']['coreInstall'] . 'files/';
-

@@ -400,7 +400,8 @@ function users_load($by = array()){
 	}
 	# Replace the first AND
 	$where = trim(str_replace("- AND", " WHERE", $where), ',');
-
+    $where .= " AND `status` > 0 ";
+    
 	$q = sprintf("SELECT *
 	FROM users
 	%s", $where);
