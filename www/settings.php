@@ -3,6 +3,8 @@
 # Declare it as global, but never use it as global
 global $config;
 
+$config['core']['version'] = "V0.1.1";
+
 #####################################################################################
 #
 # Database
@@ -58,7 +60,6 @@ $config['grace']['logs'] = false;
 /*******************************************************************************
  * You should not need to touch anything beyond this point
  */
- 
 
 # List of core modules
 $config['modules']['core']     = array('cala', 'db', 'users', 'files', 'geoloc', 'wirez');
