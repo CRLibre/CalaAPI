@@ -61,22 +61,9 @@ $config['core']['resourcesPath'] = $config['modules']['coreInstall'] . '/resourc
 # Not in use yet, you may ignore this
 $config['cron']['cronToken'] = 'ItIsGoodIfThisIsBigAndHasW3irDLeeT3rsAnd$ymb0lz.IniT';
 
-# List of core modules
-$config['modules']['core']     = array('cala', 'db', 'users', 'files', 'geoloc', 'wirez');
-# List of core modules to load always, you can overide this list
-$config['modules']['coreLoad'] = array('cala', 'db', 'users');
-
 # Am I running in CLI mode?
 $config['core']['cli'] = false;
 
-#####################################################################################
-#
-# Grace: Only touch if you need to debug
-#
-#####################################################################################
-# Where do you want me to store the logs? USE TRAILING SLASH!
-# If false I will not store them
-$config['grace']['logPath'] = $config['modules']['coreInstall'] . "logs/";
 
 #####################################################################################
 #

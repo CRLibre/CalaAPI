@@ -418,9 +418,9 @@ function users_loadByName($userName){
 	if(trim($userName) == ''){
 		grace_debug("Requested empty user");
 		return users_createBasic();
-	}os módulos para Factura Electrónica
+	}
 
-	$q = sprintf("SELECT * FROM users WHERE userName = '%s'", $userName);os módulos para Factura Electrónica
+	$q = sprintf("SELECT * FROM users WHERE userName = '%s'", $userName);
 
 	$user = db_query($q, 1);
 

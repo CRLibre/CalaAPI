@@ -57,19 +57,21 @@ function grace_storeLog(){
 	$fileName = conf_get('logPath', 'grace', '');
 
 	if($fileName != ''){
-
 		# Create a new file every hour
-		$fileName = $fileName . "wirez_" . date('y_m_d_h', time()) . ".txt";
+        if(conf_get('logs', 'grace', false)){  
+            $fileName = $fileName . "CalaAPI_" . date('y_m_d_h', time()) . ".txt";
 
-		# Merge arrays to make them readable
-		$grace_logMsgs = implode("\n", $grace_logMsgs) . "\n";
+            # Merge arrays to make them readable
+            $grace_logMsgs = implode("\n", $grace_logMsgs) . "\n";
 
-		//Open a connection
-		$fp = fopen($fileName, 'a');
-		if($fp){
-			fwrite($fp, $grace_logMsgs);
-			fclose($fp);
-		}
+            //Open a connection
+            $fp = fopen($fileName, 'a');
+            
+            if($fp){
+                fwrite($fp, $grace_logMsgs);
+                fclose($fp);
+            }
+        }
 	}
 
 }

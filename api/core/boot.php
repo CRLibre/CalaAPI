@@ -10,7 +10,6 @@ include_once("modules.php");
 include_once("conf.php");
 include_once("tools.php");
 
-
 /** @defgroup Constants
  *  @{
  */
@@ -68,7 +67,7 @@ function boot_initThisPath(){
 	$f = preg_replace("/[\n\r\f]+/m", "", params_get('w', 'core') . "_init");
 
 	if(function_exists($f)){
-		grace_debug("Function found");
+		grace_debug("Function found!");
 		$response = tools_proccesPath(call_user_func($f));
 	}else{
 		$response = ERROR_BAD_REQUEST;
@@ -81,12 +80,18 @@ function boot_initThisPath(){
  * @bug If the called module is a core module, it will get booted twice
  */
 function boot_loadAllCoreModules(){
-
+    
+    global $loadedMods;
+    
     grace_debug("Loading all core modules");
 
     foreach(conf_get('coreLoad', 'modules') as $module){
-        grace_debug("Loading module: " . $module);
+        grace_debug("Loading module: <<( " . $module . " )>>");
         modules_loader($module);
+    }
+    
+    foreach($loadedMods as $m){
+        grace_debug("Loaded mod: " . $m);
     }
 }
 

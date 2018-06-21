@@ -1,6 +1,8 @@
 <?php
 
 global $modules;
+global $loadedMods;
+
 
 /**
  * Gets the correct path for a module
@@ -21,16 +23,20 @@ function modules_getPath($which) {
  */
 function modules_loader($which, $file = 'module.php', $boot = true) {
 
+    global $loadedMods;
+    
 	$path = modules_getPath($which);
     $loadedFiles = get_included_files();
-
-	grace_debug("Loading in path: " . $path . "/" . $file);
+    $fullPath = $path . "/" . $file;
+    
+	grace_debug("Loading in path: $fullPath");
 
 	# Load the module and the config if one exists
-	if (file_exists($path . "/" . $file)) {
-	    if(!is_numeric(array_search($path . "/" . $file, $loadedFiles))){
-    		grace_debug("Including file: " . $path . "/" . $file);
-    		include_once($path . "/" . $file);
+	if (file_exists($fullPath)){
+	    if(!isset($loadedMods[$which])){
+    		grace_debug("Including file: $fullPath");
+    		include_once($fullPath);
+            $loadedMods[$which] = $fullPath;
     		if (file_exists("$path/settings.php")) {
     			include_once("$path/settings.php");
     		}
@@ -41,7 +47,8 @@ function modules_loader($which, $file = 'module.php', $boot = true) {
     		}
             return true;
 	    }else{
-	        grace_debug("File already loaded");
+	        grace_debug("Mod <<( $which )>> LOADED ==> $loadedMods[$which]");
+            return true;
 	    }
 	} else {
 		grace_debug("File does not exist");

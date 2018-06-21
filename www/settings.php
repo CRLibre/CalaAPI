@@ -9,14 +9,13 @@ global $config;
 #
 #####################################################################################
 # Database name
-$config['db']['name'] = "ticoteccr_sapiens";
+$config['db']['name'] = "";
 # Database password
-//$config['db']['pwd'] = "g[H6gmrn6pb1";
-$config['db']['pwd'] = "sapiensCR";
+$config['db']['pwd'] = "";
 # Database user name
-$config['db']['user'] = "ticoteccr_sapiens";
+$config['db']['user'] = "";
 # Database host
-$config['db']['host'] = "http://nneus.com";
+$config['db']['host'] = "";
 
 ##############################################################################
 #
@@ -29,7 +28,7 @@ $config['db']['host'] = "http://nneus.com";
 # same directory as the Api, but they can be placed anywhere else
 
 # The core installation: This is probably the only one you need to touch
-$config['modules']['coreInstall'] = "../api";
+$config['modules']['coreInstall'] = "../api/";
 
 # Name of your site, Not in use really
 $config['core']['siteName'] = 'MySite';
@@ -45,15 +44,24 @@ $config['users']['sessionLifetime'] = -1;
 # If you want to allow CORS requests
 $config['core']['cors'] = true;
 
+
+#####################################################################################
+#
+# Grace: Only touch if you need to debug
+#
+#####################################################################################
+# Where do you want me to store the logs? USE TRAILING SLASH!
+# If false I will not store them
+$config['grace']['logPath'] = $config['modules']['coreInstall'] . "logs/";
+# If you want to add logs
+$config['grace']['logs'] = false;
 /*******************************************************************************
  * You should not need to touch anything beyond this point
  */
  
 
-
-
 # List of core modules
-$config['modules']['core']     = array('cala', 'db', 'users', 'files', 'geoloc', 'wirez');
+$config['modules']['core']     = array('cala', 'db', 'users', 'files', 'geoloc');
 # List of core modules to load always, you can overide this list
 $config['modules']['coreLoad'] = array('cala', 'db', 'users');
 
