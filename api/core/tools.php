@@ -35,21 +35,29 @@ function _tools_reply($response){
 
 function tools_returnJson($response, $addHeaders = true){
 	if($addHeaders && conf_get('mode', 'core', 'web') != 'cli'){
-		header('Content-Type: text/html; charset=utf-8');
-		header('Content-Type: application/json');
-        /*CORS to the app access*/
+		tools_addHeaders();
+	}
+	return json_encode($response);
+}
+
+/**c
+ * Set the needed headers
+ */
+function tools_addHeaders(){
+    header('Content-Type: text/html; charset=utf-8');
+    header('Content-Type: application/json');
+    /*CORS to the app access*/
+    if(conf_get('cors', 'core', true)){
         header('Access-Control-Allow-Origin: *');
         header('Access-Control-Allow-Headers: Cache-Control, Pragma, Origin, Authorization, Content-Type, X-Requested-With');
         header('Access-Control-Allow-Methods: GET, PUT, POST');
-	}
-	return json_encode($response);
+    }
 }
 
 /**
  * Process the path according to what was requested
  */
 function tools_proccesPath($paths){
-
 	grace_debug("Looking for path: " . params_get('r'));
 
 	foreach($paths as $p){

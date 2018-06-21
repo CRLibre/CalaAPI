@@ -42,10 +42,14 @@ $config['core']['host'] = "mySite.com";
 # In case you need it, -1 allows user to stay logged in
 $config['users']['sessionLifetime'] = -1;
 
+# If you want to allow CORS requests
+$config['core']['cors'] = true;
+
 /*******************************************************************************
  * You should not need to touch anything beyond this point
  */
  
+
 
 
 # List of core modules
