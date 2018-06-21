@@ -37,6 +37,10 @@ function tools_returnJson($response, $addHeaders = true){
 	if($addHeaders && conf_get('mode', 'core', 'web') != 'cli'){
 		header('Content-Type: text/html; charset=utf-8');
 		header('Content-Type: application/json');
+        /*CORS to the app access*/
+        header('Access-Control-Allow-Origin: *');
+        header('Access-Control-Allow-Headers: Cache-Control, Pragma, Origin, Authorization, Content-Type, X-Requested-With');
+        header('Access-Control-Allow-Methods: GET, PUT, POST');
 	}
 	return json_encode($response);
 }
