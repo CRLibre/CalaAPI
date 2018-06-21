@@ -342,7 +342,6 @@ function users_logMeIn(){
 	}
 }
 
-
 /**
  * Create a basic empty user
  */
@@ -458,10 +457,11 @@ function users_confirmSessionKey(){
 		grace_debug("No results found");
 		return false;
 	}else{
-		# Lets confirm the time frame
-        if(conf_get('sessionLifetime', 'users', 3600) != -1){
-            if((time() - $r->lastAccess) > conf_get('sessionLifetime', 'users', 3600)){
-                grace_debug("User last access is to old");
+		# Lets confirm the time frame, if is -1, will be never logged out
+        $slt = conf_get('sessionLifetime', 'users', 3600);
+        if($slt != -1){
+            if((time() - $r->lastAccess) > $slt){
+                grace_debug("User last access is too old");
                 return false;
             }
         }else{

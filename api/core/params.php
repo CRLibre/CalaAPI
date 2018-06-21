@@ -73,7 +73,6 @@ function params_verifyRequest($keys){
 			}
 		}
 	}
-
 }
 
 /**
