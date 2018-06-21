@@ -44,7 +44,6 @@ function cala_init(){
 	);
 
 	return $paths;
-
 }
 
 /**

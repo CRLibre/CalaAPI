@@ -238,7 +238,6 @@ function users_init(){
  * Access and permissions
  *
  ****************************************************************************/
-
 /**
  * Dummy function, just call me if you want to grant access to anyone
  */
@@ -265,12 +264,10 @@ function users_loggedIn(){
         	grace_debug("User id = 0, this can't be logged in");
 			return false;
 		}
-
 	}
-
+    
 	# Valid session
 	return users_confirmSessionKey();
-
 }
 
 /**
@@ -307,14 +304,12 @@ function users_registerNew(){
 
 		# Load the user and log it in
 		$user = users_loadByName(params_get('userName'));
-
 		return users_logMeIn();
 	}
 	else{
 		grace_debug("This user already exists");
 		return ERROR_USERS_EXISTS;
 	}	
-
 }
 /**
  * Logs users in
@@ -337,7 +332,6 @@ function users_logMeIn(){
 		$user = users_load(array('userName' => $userName));
 	}
 
-	
 	if($user->pwd == users_hash(params_get('pwd', ''))){
 		// Create a token
 		grace_debug("Able to login");
@@ -346,7 +340,6 @@ function users_logMeIn(){
 		grace_debug(sprintf("Not able to login %s | %s", $user->pwd, users_hash(params_get('pwd', ''))));
 		return ERROR_USERS_WRONG_LOGIN_INFO;
 	}
-	
 }
 
 
@@ -354,9 +347,7 @@ function users_logMeIn(){
  * Create a basic empty user
  */
 function users_createBasic(){
-
-	$user = (object) array('idUser' => 0, 'pwd' => '');
-	return $user;
+	return (object) array('idUser' => 0, 'pwd' => '');
 }
 
 /**
@@ -413,7 +404,6 @@ function users_load($by = array()){
 		grace_debug("Unable to locate user");
 		return users_createBasic();
 	}
-
 	return $user;
 }
 
@@ -429,9 +419,9 @@ function users_loadByName($userName){
 	if(trim($userName) == ''){
 		grace_debug("Requested empty user");
 		return users_createBasic();
-	}
+	}os módulos para Factura Electrónica
 
-	$q = sprintf("SELECT * FROM users WHERE userName = '%s'", $userName);
+	$q = sprintf("SELECT * FROM users WHERE userName = '%s'", $userName);os módulos para Factura Electrónica
 
 	$user = db_query($q, 1);
 
@@ -440,7 +430,6 @@ function users_loadByName($userName){
 		grace_debug("Unable to locate user");
 		return users_createBasic();
 	}
-
 	return $user;
 }
 
@@ -559,10 +548,7 @@ function users_updateProfile(){
  * # @todo create a validation tool for this
  */
 function users_cleanName($name){
-
-	$name = trim($name);
-
-	return $name;
+	return trim($name);
 }
 
 /**
@@ -676,9 +662,7 @@ function _users_register($userDets){
 # Create a basic empty user
 
 function _userCreateBasic(){
-
-	$theUser = (object) array('idUser' => 0, 'pwd' => '');
-	return $theUser;
+	return (object) array('idUser' => 0, 'pwd' => '');
 }
 
 /**
@@ -711,8 +695,7 @@ function users_personalBgGet(){
 	files_presentFile($userBgFullName, "img", false);
 
 	# If you are only asking if the background exists
-	if($userBgFullName){
-	}
+	if($userBgFullName){}
 }
 
 /**
