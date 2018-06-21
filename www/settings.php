@@ -61,7 +61,7 @@ $config['grace']['logs'] = false;
  
 
 # List of core modules
-$config['modules']['core']     = array('cala', 'db', 'users', 'files', 'geoloc');
+$config['modules']['core']     = array('cala', 'db', 'users', 'files', 'geoloc', 'wirez');
 # List of core modules to load always, you can overide this list
 $config['modules']['coreLoad'] = array('cala', 'db', 'users');
 
