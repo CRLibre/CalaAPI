@@ -1,5 +1,8 @@
 <?php
 
+//Cala Version
+define('CALA_VERSION', "0.1");
+
 /**
  * @page
  */
@@ -26,6 +29,7 @@ define('SUCCESS_ALL_GOOD', 1);
 //! This will tell me if I am runnig in CLI mode
 define('CLI_MODE', false);
 
+
 /** @}*/
 
 /**
@@ -33,7 +37,7 @@ define('CLI_MODE', false);
  */
 function boot_itUp($mode = 'web'){
 
-	grace_debug("Booting up V: " . conf_get('core', 'version', '???'));
+	grace_debug("Booting up V: " . CALA_VERSION);
 
 	# Load all core modules
 	# @todo Call the current requested module first in case it wants to change the core modules to be loaded
@@ -97,3 +101,5 @@ function boot_loadAllCoreModules(){
 function boot_loadBootModules(){
     //Todo
 }
+
+

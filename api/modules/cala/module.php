@@ -69,7 +69,7 @@ function cala_testInstall(){
 
     $bl = "<br/>";
 
-    $output = "<h1>Cala Installation check proccess</h1>";
+    $output = "<h1>Cala V". CALA_VERSION . " Installation check proccess</h1>";
     $output .= "This is highly advanced installation check, please read carefully any errors found and correct them before using Cala. $bl $bl";
 
     # All tests
@@ -155,6 +155,7 @@ function cala_testInstall(){
     $output .= "-------------------------------------------------- $bl";
     $output .= "Please correct any errors found and go on with it!";
 
-    return $output;
+    echo $output;
+    //return $output;
 }
 

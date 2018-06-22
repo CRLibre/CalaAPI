@@ -3,8 +3,6 @@
 # Declare it as global, but never use it as global
 global $config;
 
-$config['core']['version'] = "V0.1.1";
-
 #####################################################################################
 #
 # Database
@@ -54,7 +52,7 @@ $config['core']['cors'] = true;
 #####################################################################################
 # Where do you want me to store the logs? USE TRAILING SLASH!
 # If false I will not store them
-$config['grace']['logPath'] = $config['modules']['coreInstall'] . "logs/";
+$config['grace']['logPath'] = $config['modules']['coreInstall'] . "/logs/";
 # If you want to add logs
 $config['grace']['logs'] = false;
 /*******************************************************************************

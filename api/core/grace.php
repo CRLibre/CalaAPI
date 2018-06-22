@@ -73,7 +73,6 @@ function grace_storeLog(){
             }
         }
 	}
-
 }
 
 /**
