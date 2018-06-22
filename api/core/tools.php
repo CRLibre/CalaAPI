@@ -17,6 +17,7 @@ function tools_reply($response, $killMe = false){
 		}
 		_tools_reply($response);
 	}
+
 }
 
 function _tools_reply($response){
@@ -25,7 +26,7 @@ function _tools_reply($response){
 
 	# This really should not be here, but so far, it should do
 	//! @todo move this two functions somewhere else
-	//users_updateLastAccess();
+	users_updateLastAccess();
 
 	# Close the log
 	grace_storeLog();
@@ -40,14 +41,13 @@ function tools_returnJson($response, $addHeaders = true){
 	return json_encode($response);
 }
 
-/**c
- * Set the needed headers
- */
 function tools_addHeaders(){
+    
     header('Content-Type: text/html; charset=utf-8');
     header('Content-Type: application/json');
-    /*CORS to the app access*/
+    
     if(conf_get('cors', 'core', true)){
+        /*CORS to the app access*/
         header('Access-Control-Allow-Origin: *');
         header('Access-Control-Allow-Headers: Cache-Control, Pragma, Origin, Authorization, Content-Type, X-Requested-With');
         header('Access-Control-Allow-Methods: GET, PUT, POST');
@@ -58,6 +58,7 @@ function tools_addHeaders(){
  * Process the path according to what was requested
  */
 function tools_proccesPath($paths){
+
 	grace_debug("Looking for path: " . params_get('r'));
 
 	foreach($paths as $p){
@@ -85,7 +86,7 @@ function tools_proccesPath($paths){
 		}
 	}
 	grace_debug("Path not found?");
-	return ERROR_BAD_REQUEST;
+	return "Function not found";
 }
 
 /**
@@ -120,4 +121,6 @@ function tools_loadLibrary($which){
 	}else{
 		return false;
 	}
+
 }
+
