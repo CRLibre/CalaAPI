@@ -1,0 +1,390 @@
+[d] 18-06-22 12:06:06 @ Booting up V:0.1
+[d] 18-06-22 12:06:06 @ Loading all core modules
+[d] 18-06-22 12:06:06 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:06 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:06 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:06 @ Module was booted too
+[i] 18-06-22 12:06:06 @ Cala was booted...
+[d] 18-06-22 12:06:06 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:06 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:06 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:06 @ Module was booted too
+[e] 18-06-22 12:06:06 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:06 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:06 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:06 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:06 @ Module was booted too
+[d] 18-06-22 12:06:06 @ Loading user
+[d] 18-06-22 12:06:06 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:06 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:06 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:06 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:06 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:06 @ Module was booted too
+[d] 18-06-22 12:06:06 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:06 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:06 @ Module was booted too
+[i] 18-06-22 12:06:06 @ Cala was booted...
+[d] 18-06-22 12:06:06 @ Finished! Memory used: Mb0.519904<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[d] 18-06-22 12:06:14 @ Booting up V:0.1
+[d] 18-06-22 12:06:14 @ Loading all core modules
+[d] 18-06-22 12:06:14 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:14 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:14 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:14 @ Module was booted too
+[i] 18-06-22 12:06:14 @ Cala was booted...
+[d] 18-06-22 12:06:14 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:14 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:14 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:14 @ Module was booted too
+[e] 18-06-22 12:06:14 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:14 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:14 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:14 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:14 @ Module was booted too
+[d] 18-06-22 12:06:14 @ Loading user
+[d] 18-06-22 12:06:14 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:14 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:14 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:14 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:14 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:14 @ Module was booted too
+[d] 18-06-22 12:06:14 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:14 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:14 @ Module was booted too
+[i] 18-06-22 12:06:14 @ Cala was booted...
+[d] 18-06-22 12:06:14 @ Finished! Memory used: Mb0.376384<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[d] 18-06-22 12:06:39 @ Booting up V:0.1
+[d] 18-06-22 12:06:39 @ Loading all core modules
+[d] 18-06-22 12:06:39 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:39 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:39 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:39 @ Module was booted too
+[i] 18-06-22 12:06:39 @ Cala was booted...
+[d] 18-06-22 12:06:39 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:39 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:39 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:39 @ Module was booted too
+[e] 18-06-22 12:06:39 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:39 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:39 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:39 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:39 @ Module was booted too
+[d] 18-06-22 12:06:39 @ Loading user
+[d] 18-06-22 12:06:39 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:39 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:39 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:39 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:39 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:39 @ Module was booted too
+[d] 18-06-22 12:06:39 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:39 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:39 @ Module was booted too
+[i] 18-06-22 12:06:39 @ Cala was booted...
+[d] 18-06-22 12:06:39 @ Finished! Memory used: Mb0.519904<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<</n/n/n
+[d] 18-06-22 12:06:58 @ Booting up V:0.1
+[d] 18-06-22 12:06:58 @ Loading all core modules
+[d] 18-06-22 12:06:58 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:58 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:58 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:58 @ Module was booted too
+[i] 18-06-22 12:06:58 @ Cala was booted...
+[d] 18-06-22 12:06:58 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:58 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:58 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:58 @ Module was booted too
+[e] 18-06-22 12:06:58 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:58 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:58 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:58 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:58 @ Module was booted too
+[d] 18-06-22 12:06:58 @ Loading user
+[d] 18-06-22 12:06:58 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:58 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:58 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:58 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:58 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:58 @ Module was booted too
+[d] 18-06-22 12:06:58 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:58 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:58 @ Module was booted too
+[i] 18-06-22 12:06:58 @ Cala was booted...
+[d] 18-06-22 12:06:58 @ Finished! Memory used: Mb0.415704<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<\n\n
+[d] 18-06-22 12:06:21 @ Booting up V:0.1
+[d] 18-06-22 12:06:21 @ Loading all core modules
+[d] 18-06-22 12:06:21 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:21 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:21 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:21 @ Module was booted too
+[i] 18-06-22 12:06:21 @ Cala was booted...
+[d] 18-06-22 12:06:21 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:21 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:21 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:21 @ Module was booted too
+[e] 18-06-22 12:06:21 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:21 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:21 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:21 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:21 @ Module was booted too
+[d] 18-06-22 12:06:21 @ Loading user
+[d] 18-06-22 12:06:21 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:21 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:21 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:21 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:21 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:21 @ Module was booted too
+[d] 18-06-22 12:06:21 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:21 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:21 @ Module was booted too
+[i] 18-06-22 12:06:21 @ Cala was booted...
+[d] 18-06-22 12:06:29 @ Booting up V:0.1
+[d] 18-06-22 12:06:29 @ Loading all core modules
+[d] 18-06-22 12:06:29 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:29 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:29 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:29 @ Module was booted too
+[i] 18-06-22 12:06:29 @ Cala was booted...
+[d] 18-06-22 12:06:29 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:29 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:29 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:29 @ Module was booted too
+[e] 18-06-22 12:06:29 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:29 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:29 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:29 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:29 @ Module was booted too
+[d] 18-06-22 12:06:29 @ Loading user
+[d] 18-06-22 12:06:29 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:29 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:29 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:29 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:29 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:29 @ Module was booted too
+[d] 18-06-22 12:06:29 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:29 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:29 @ Module was booted too
+[i] 18-06-22 12:06:29 @ Cala was booted...
+[d] 18-06-22 12:06:58 @ Booting up V:0.1
+[d] 18-06-22 12:06:58 @ Loading all core modules
+[d] 18-06-22 12:06:58 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:58 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:58 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:58 @ Module was booted too
+[i] 18-06-22 12:06:58 @ Cala was booted...
+[d] 18-06-22 12:06:58 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:58 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:58 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:58 @ Module was booted too
+[e] 18-06-22 12:06:58 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:58 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:58 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:58 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:58 @ Module was booted too
+[d] 18-06-22 12:06:58 @ Loading user
+[d] 18-06-22 12:06:58 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:58 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:58 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:58 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:58 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:58 @ Module was booted too
+[d] 18-06-22 12:06:58 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:58 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:58 @ Module was booted too
+[i] 18-06-22 12:06:58 @ Cala was booted...
+[d] 18-06-22 12:06:58 @ Finished! Memory used: Mb0.416232<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[d] 18-06-22 12:06:58 @ 
+[d] 18-06-22 12:06:58 @ 
+[d] 18-06-22 12:06:24 @ Booting up V:0.1
+[d] 18-06-22 12:06:24 @ Loading all core modules
+[d] 18-06-22 12:06:24 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:24 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:24 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:24 @ Module was booted too
+[i] 18-06-22 12:06:24 @ Cala was booted...
+[d] 18-06-22 12:06:24 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:24 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:24 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:24 @ Module was booted too
+[e] 18-06-22 12:06:24 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:24 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:24 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:24 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:24 @ Module was booted too
+[d] 18-06-22 12:06:24 @ Loading user
+[d] 18-06-22 12:06:24 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:24 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:24 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:24 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:24 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:24 @ Module was booted too
+[d] 18-06-22 12:06:24 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:24 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:24 @ Module was booted too
+[i] 18-06-22 12:06:24 @ Cala was booted...
+[d] 18-06-22 12:06:24 @ Finished! Memory used: Mb0.415784<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<br>
+[d] 18-06-22 12:06:30 @ Booting up V:0.1
+[d] 18-06-22 12:06:30 @ Loading all core modules
+[d] 18-06-22 12:06:30 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:30 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:30 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:30 @ Module was booted too
+[i] 18-06-22 12:06:30 @ Cala was booted...
+[d] 18-06-22 12:06:30 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:30 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:30 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:30 @ Module was booted too
+[e] 18-06-22 12:06:30 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:30 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:30 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:30 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:30 @ Module was booted too
+[d] 18-06-22 12:06:30 @ Loading user
+[d] 18-06-22 12:06:30 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:30 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:30 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:30 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:30 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:30 @ Module was booted too
+[d] 18-06-22 12:06:30 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:30 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:30 @ Module was booted too
+[i] 18-06-22 12:06:30 @ Cala was booted...
+[d] 18-06-22 12:06:30 @ Finished! Memory used: Mb0.519984<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<br>
+[d] 18-06-22 12:06:05 @ Booting up V:0.1
+[d] 18-06-22 12:06:05 @ Loading all core modules
+[d] 18-06-22 12:06:05 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:05 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:05 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:05 @ Module was booted too
+[i] 18-06-22 12:06:05 @ Cala was booted...
+[d] 18-06-22 12:06:05 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:05 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:05 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:05 @ Module was booted too
+[e] 18-06-22 12:06:05 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:05 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:05 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:05 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:05 @ Module was booted too
+[d] 18-06-22 12:06:05 @ Loading user
+[d] 18-06-22 12:06:05 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:05 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:05 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:05 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:05 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:05 @ Module was booted too
+[d] 18-06-22 12:06:05 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:05 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:05 @ Module was booted too
+[i] 18-06-22 12:06:05 @ Cala was booted...
+[d] 18-06-22 12:06:05 @ Finished! Memory used: Mb0.519904<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<\/n
+[d] 18-06-22 12:06:05 @ Booting up V:0.1
+[d] 18-06-22 12:06:05 @ Loading all core modules
+[d] 18-06-22 12:06:05 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:05 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:05 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:05 @ Module was booted too
+[i] 18-06-22 12:06:05 @ Cala was booted...
+[d] 18-06-22 12:06:05 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:05 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:05 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:05 @ Module was booted too
+[e] 18-06-22 12:06:05 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:05 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:05 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:05 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:05 @ Module was booted too
+[d] 18-06-22 12:06:05 @ Loading user
+[d] 18-06-22 12:06:05 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:05 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:05 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:05 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:05 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:05 @ Module was booted too
+[d] 18-06-22 12:06:05 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:05 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:05 @ Module was booted too
+[i] 18-06-22 12:06:05 @ Cala was booted...
+[d] 18-06-22 12:06:05 @ Finished! Memory used: Mb0.376384<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<\/n
+[d] 18-06-22 12:06:18 @ Booting up V:0.1
+[d] 18-06-22 12:06:18 @ Loading all core modules
+[d] 18-06-22 12:06:18 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:18 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:18 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:18 @ Module was booted too
+[i] 18-06-22 12:06:18 @ Cala was booted...
+[d] 18-06-22 12:06:18 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:18 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:18 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:18 @ Module was booted too
+[e] 18-06-22 12:06:18 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:18 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:18 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:18 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:18 @ Module was booted too
+[d] 18-06-22 12:06:18 @ Loading user
+[d] 18-06-22 12:06:18 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:18 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:18 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:18 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:18 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:18 @ Module was booted too
+[d] 18-06-22 12:06:18 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:18 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:18 @ Module was booted too
+[i] 18-06-22 12:06:18 @ Cala was booted...
+[d] 18-06-22 12:06:18 @ Finished! Memory used: Mb0.519904<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<</n
+[d] 18-06-22 12:06:21 @ Booting up V:0.1
+[d] 18-06-22 12:06:21 @ Loading all core modules
+[d] 18-06-22 12:06:21 @ Loading module: >>(cala)<<
+[d] 18-06-22 12:06:21 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:21 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:21 @ Module was booted too
+[i] 18-06-22 12:06:21 @ Cala was booted...
+[d] 18-06-22 12:06:21 @ Loading module: >>(db)<<
+[d] 18-06-22 12:06:21 @ Loading in path: ../api/modules/db/module.php
+[d] 18-06-22 12:06:21 @ Including file: ../api/modules/db/module.php
+[d] 18-06-22 12:06:21 @ Module was booted too
+[e] 18-06-22 12:06:21 @ Connection failed: No such file or directory
+[d] 18-06-22 12:06:21 @ Loading module: >>(users)<<
+[d] 18-06-22 12:06:21 @ Loading in path: ../api/modules/users/module.php
+[d] 18-06-22 12:06:21 @ Including file: ../api/modules/users/module.php
+[d] 18-06-22 12:06:21 @ Module was booted too
+[d] 18-06-22 12:06:21 @ Loading user
+[d] 18-06-22 12:06:21 @ SELECT *
+    FROM users
+     WHERE userName = ''
+[e] 18-06-22 12:06:21 @ DB Connection error: No such file or directory
+[d] 18-06-22 12:06:21 @ Loading module: >>(crypto)<<
+[d] 18-06-22 12:06:21 @ Loading in path: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:21 @ Including file: ../api/modules/crypto/module.php
+[d] 18-06-22 12:06:21 @ Module was booted too
+[d] 18-06-22 12:06:21 @ Loading in path: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:21 @ Including file: ../api/modules/cala/module.php
+[d] 18-06-22 12:06:21 @ Module was booted too
+[i] 18-06-22 12:06:21 @ Cala was booted...
+[d] 18-06-22 12:06:21 @ Finished! Memory used: Mb0.376384<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<</n

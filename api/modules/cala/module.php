@@ -4,6 +4,7 @@
  *
  */
 function cala_bootMeUp(){
+
 	grace_info("Cala was booted...");
 }
 
@@ -44,12 +45,15 @@ function cala_init(){
 	);
 
 	return $paths;
+
 }
 
 /**
  * Say hello to the world, this is called if nothing else is specified
  */
 function cala_helloWorld(){
+
+
 	return "Hello World from Cala :)";
 }
 

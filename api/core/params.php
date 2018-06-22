@@ -73,6 +73,7 @@ function params_verifyRequest($keys){
 			}
 		}
 	}
+
 }
 
 /**
@@ -103,7 +104,7 @@ function params_cliLoadOpts($allParams){
 	# For some reason they are stored in pos 0 of the array
 	$params = $params[0];
 
-    //print_r($params);
+    print_r($params);
 	foreach($params as $p){
 		$longOpt = $p['key'];
 		$opts .= $p['cli'];
