@@ -56,7 +56,7 @@ $config['core']['cors'] = true;
 # If false I will not store them
 $config['grace']['logPath'] = $config['modules']['coreInstall'] . "logs/";
 # If you want to add logs
-$config['grace']['logs'] = false;
+$config['grace']['logs'] = true;
 /*******************************************************************************
  * You should not need to touch anything beyond this point
  */
