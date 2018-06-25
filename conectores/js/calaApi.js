@@ -207,7 +207,7 @@ function calaApi_getLocalStorage(k){
 /* Req request data, func success, func error*/
 /*********************************************/
 function calaApi_postRequest(req, success, error, timeout = 800, times = 0){
-    calaApi_debug("Making a post request to " + api_url);
+    calaApi_debug("Making a post request to " + calaApi_url);
     /*generate the form*/
     var _data = new FormData();
     
@@ -221,7 +221,7 @@ function calaApi_postRequest(req, success, error, timeout = 800, times = 0){
     _data.append("sessionKey", calaApi_getLocalStorage('sessionKey'));
 
     var oReq = new XMLHttpRequest();
-    oReq.open("POST", api_url, true);
+    oReq.open("POST", calaApi_url, true);
     
     oReq.timeout = timeout;
     
@@ -274,4 +274,38 @@ function calaApi_doSomethingAfter(f, t = 1000){
         f();
         clearTimeout(timer);
     }, t);
+}
+
+/*********************************************/
+/* Function to do somethong after some time  */
+/* Requieres function, time                  */
+/*********************************************/
+function calaApi_resultToMsg(r){
+    if(r == ERROR_NO_VALID_USER){
+        return "No valid user, the user may not exist."; 
+    }else if(r == ERROR_USER_WRONG_LOGIN_INFO){
+        return "Wrong login info.";
+    }else if(r == ERROR_USER_NO_VALID_SESSION){
+        return "No valid session, maybe is too late.";
+    }else if(r == ERROR_USER_ACCESS_DENIED){
+        return "The user is banned 'status' = 0.";
+    }else if(r == ERROR_USER_EXISTS){
+        return "";
+    }else if(r == ERROR_DB_NO_RESULTS_FOUND){
+        return "No results found in db query";
+    }else if(r == ERROR_BAD_REQUEST){
+        return "Bad request, are all params good?";
+    }else if(r == ERROR_ERROR){
+        return "Standard error";
+    }else if(r == ERROR_MODULE_UNDEFINED){
+        return "There is no module to ask or run, 'w' param is not setted";
+    }else if(r == ERROR_MODULE_NOT_FOUND){
+        return "The module in 'w' does not exist";
+    }else if(r == ERROR_FUNCTION_NOT_FOUND){
+        return "The function in param 'r' not found";
+    }else if(r == SUCCESS_ALL_GOOD){
+        return "The request was successful";
+    }else{
+        return "Is this an error? => " + r;
+    }
 }
