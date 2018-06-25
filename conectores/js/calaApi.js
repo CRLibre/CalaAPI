@@ -25,6 +25,7 @@ var ERROR_USER_WRONG_LOGIN_INFO = "-301";
 var ERROR_USER_NO_VALID_SESSION = "-302"; // Not in use I think
 var ERROR_USER_ACCESS_DENIED = "-303";
 var ERROR_USER_EXISTS = "-304";
+var ERROR_USERS_NO_TOKEN = "-305";
 
 //Database
 var ERROR_DB_NO_RESULTS_FOUND = "-200";
@@ -282,15 +283,17 @@ function calaApi_doSomethingAfter(f, t = 1000){
 /*********************************************/
 function calaApi_resultToMsg(r){
     if(r == ERROR_NO_VALID_USER){
-        return "No valid user, the user may not exist."; 
+        return "No valid user, the user may not exist"; 
     }else if(r == ERROR_USER_WRONG_LOGIN_INFO){
-        return "Wrong login info.";
+        return "Wrong login info";
     }else if(r == ERROR_USER_NO_VALID_SESSION){
-        return "No valid session, maybe is too late.";
+        return "No valid session, maybe is too late";
     }else if(r == ERROR_USER_ACCESS_DENIED){
-        return "The user is banned 'status' = 0.";
+        return "The user is banned 'status' = 0";
     }else if(r == ERROR_USER_EXISTS){
         return "";
+    }else if(r == ERROR_USERS_NO_TOKEN){
+        return "Error with token";
     }else if(r == ERROR_DB_NO_RESULTS_FOUND){
         return "No results found in db query";
     }else if(r == ERROR_BAD_REQUEST){

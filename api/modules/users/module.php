@@ -31,7 +31,7 @@ define('ERROR_USERS_EXISTS', '-304');
 define('SUCCESS_USERS_BG_EXISTS', '301');
 
 //! No secret token or not a valid token
-define('ERROR_USERS_NO_TOKEN', '-302');
+define('ERROR_USERS_NO_TOKEN', '-305');
 
 /** @} */
 
