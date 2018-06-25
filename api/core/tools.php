@@ -43,14 +43,14 @@ function tools_returnJson($response, $addHeaders = true){
 
 function tools_addHeaders(){
     
-    header('Content-Type: text/html; charset=utf-8');
-    header('Content-Type: application/json');
+    @header('Content-Type: text/html; charset=utf-8');
+    @header('Content-Type: application/json');
     
     if(conf_get('cors', 'core', true)){
         /*CORS to the app access*/
-        header('Access-Control-Allow-Origin: *');
-        header('Access-Control-Allow-Headers: Cache-Control, Pragma, Origin, Authorization, Content-Type, X-Requested-With');
-        header('Access-Control-Allow-Methods: GET, PUT, POST');
+        @header('Access-Control-Allow-Origin: *');
+        @header('Access-Control-Allow-Headers: Cache-Control, Pragma, Origin, Authorization, Content-Type, X-Requested-With');
+        @header('Access-Control-Allow-Methods: GET, PUT, POST');
     }
 }
 
