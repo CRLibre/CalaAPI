@@ -282,12 +282,13 @@ function users_registerNew() {
                 )
         );
 
-        # Load the user and log it in
+        # Load the user and log it in   
         $user = users_loadByName(params_get('userName'));
 
         return users_logMeIn();
     } else {
         grace_debug("This user already exists");
+        grace_debug("This is only a test");
         return ERROR_USERS_EXISTS;
     }
 }
@@ -343,7 +344,8 @@ function users_generateSessionKey($idUser) {
     db_query($q, 0);
     
     modules_loader("crypto", "crypto.php");
-    $sessionKey = crypto_encrypt(password_hash(time() * rand(0, 1000)));
+    $key = conf_get('key', 'crypto');
+    $sessionKey = crypto_encrypt(time() * rand(0, 1000));
 
     $q = sprintf("INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) "
             . "VALUES('%s', '%s', '%s', '%s')", $idUser, $sessionKey, $_SERVER['REMOTE_ADDR'], time());
@@ -359,7 +361,9 @@ function users_generateSessionKey($idUser) {
  */
 function users_hash($pwd) {
     modules_loader("crypto", "crypto.php");
+    
     $salt;
+    
     if (version_compare(PHP_VERSION, '7.0', '<')) {
         $salt = mcrypt_create_iv(22, MCRYPT_DEV_URANDOM);
     } else {
@@ -551,10 +555,7 @@ function users_updateProfile() {
  * # @todo create a validation tool for this
  */
 function users_cleanName($name) {
-
-    $name = trim($name);
-
-    return $name;
+    return trim($name);
 }
 
 /**
