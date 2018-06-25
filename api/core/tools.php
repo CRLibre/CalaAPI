@@ -80,13 +80,11 @@ function tools_proccesPath($paths){
 				grace_debug("Found function: " . $p['action']);
 				$response = call_user_func($p['action']);
 				return $response;
-			}else{
-				return ERROR_BAD_REQUEST;
 			}
 		}
 	}
 	grace_debug("Path not found?");
-	return "Function not found";
+	return ERROR_FUNCTION_NOT_FOUND;
 }
 
 /**

@@ -26,8 +26,11 @@ define('ERROR_ERROR', -2);
 //! If the w is not setted, there is no module to load
 define('ERROR_MODULE_UNDEFINED', -3);
 
-//! If the w is not setted, there is no module to load
+//! If the w is setted, but module not found
 define('ERROR_MODULE_NOT_FOUND', -4);
+
+//! If the w is not setted, there is no module to load
+define('ERROR_FUNCTION_NOT_FOUND', -5);
 
 //! ALl is good
 define('SUCCESS_ALL_GOOD', 1);
@@ -84,9 +87,9 @@ function boot_initThisPath(){
 	}else if(params_get("w", "--") == "--"){
 		$response = ERROR_MODULE_UNDEFINED;
     }else{
-		$response = ERROR_MODULE_NOT_FOUND;
+        $response = ERROR_MODULE_NOT_FOUND;
 	}
-	tools_reply($response);
+	return tools_reply($response);
 }
 
 /**
@@ -109,5 +112,3 @@ function boot_loadAllCoreModules(){
 function boot_loadBootModules(){
     //Todo
 }
-
-

@@ -47,6 +47,7 @@ function users_bootMeUp() {
  * Loads the current user
  */
 function users_loadCurrentUser() {
+    
     global $user;
     # If I am running on emebed mode I don't have any users, so I will just load it from the session
     $user = users_load(array('userName' => params_get('iam', '')));
@@ -288,11 +289,7 @@ function users_registerNew() {
         return users_logMeIn();
     } else {
         grace_debug("This user already exists");
-        $arrayResp = array(
-            "code" => ERROR_USERS_EXISTS,
-            "status" => "usuario ya existe"
-        );
-        return $arrayResp;
+        return ERROR_USERS_EXISTS;
     }
 }
 
@@ -413,8 +410,10 @@ function users_load($by = array()) {
     FROM users
     %s", $where);
 
+    $q .= " AND `status` > 0 ";
+    
     $user = db_query($q, 1);
-
+    
     # If no user found or erros
     if ($user == ERROR_DB_NO_RESULTS_FOUND || $user == ERROR_DB_ERROR) {
         grace_debug("Unable to locate user");
@@ -529,11 +528,7 @@ function users_updateProfile() {
     if ($user->userName != $dets['userName']) {
         $newUserByName = users_load(array('userName' => $dets['userName']));
         if ($newUserByName->idUser != 0) {
-            $arrayResp = array(
-                "code" => ERROR_USERS_EXISTS,
-                "status" => "usuario ya existe"
-            );
-            return $arrayResp;
+            return ERROR_USERS_EXISTS;
         }
     }
 
@@ -542,28 +537,16 @@ function users_updateProfile() {
         grace_debug("Requested a new email");
         $newUserByEmail = users_load(array('email' => $dets['email']));
         if ($newUserByEmail->idUser != 0) {
-            $arrayResp = array(
-                "code" => ERROR_USERS_EXISTS,
-                "status" => "usuario ya existe"
-            );
-            return $arrayResp;
+            return ERROR_USERS_EXISTS;
         }
     }
 
     $r = _users_update($dets);
 
     if ($r == 0) {
-        $arrayResp = array(
-            "code" => ERROR_ERROR,
-            "status" => "error registrando"
-        );
-        return $arrayResp;
+        return ERROR_ERROR;
     }
-    $arrayResp = array(
-        "code" => SUCCESS_ALL_GOOD,
-        "status" => "registrado con exito"
-    );
-    return $arrayResp;
+    return SUCCESS_ALL_GOOD;
 }
 
 /**
@@ -666,7 +649,6 @@ function _users_register($userDets) {
 # Create a basic empty user
 
 function _userCreateBasic() {
-
     $theUser = (object) array('idUser' => 0, 'pwd' => '');
     return $theUser;
 }

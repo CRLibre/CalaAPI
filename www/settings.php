@@ -58,9 +58,9 @@ $config['core']['cors'] = true;
 #Log path
 $config['grace']['logPath'] = "../api/errors/";
 #If save errors
-$config['grace']['errors'] = true;
+$config['grace']['errors'] = false;
 #If display errors
-$config['grace']['display'] = true;
+$config['grace']['display'] = false;
 
 /*******************************************************************************
  * You should not need to touch anything beyond this point
