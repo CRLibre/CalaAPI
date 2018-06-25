@@ -39,7 +39,6 @@ define('ERROR_USERS_NO_TOKEN', '-302');
  * Boot up procedure
  */
 function users_bootMeUp() {
-
     users_loadCurrentUser();
 }
 
@@ -333,9 +332,7 @@ function users_logMeIn() {
  * Create a basic empty user
  */
 function users_createBasic() {
-
-    $user = (object) array('idUser' => 0, 'pwd' => '');
-    return $user;
+    return (object) array('idUser' => 0, 'pwd' => '');
 }
 
 /**
