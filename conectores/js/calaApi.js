@@ -309,6 +309,6 @@ function calaApi_resultToMsg(r){
     }else if(r == SUCCESS_ALL_GOOD){
         return "The request was successful";
     }else{
-        return "Is this an error? => " + r;
+        return "Is this an error? => " + r + " You coud add the error and make a git pull request. :)";
     }
 }

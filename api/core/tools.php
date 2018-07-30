@@ -42,7 +42,6 @@ function tools_returnJson($response, $addHeaders = true){
 }
 
 function tools_addHeaders(){
-    
     @header('Content-Type: text/html; charset=utf-8');
     @header('Content-Type: application/json');
     
