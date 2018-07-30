@@ -3,7 +3,7 @@
  * Cala Framework: To make your life simpler
  *
  * Copyright (c) 2018 CRLibre
- * License: MIT - CalaApi
+ * License: AGPL - CalaApi
  * Include this AT THE BOTTOM of your pages, that is all you need to do.
  *
  *           | |      
@@ -13,7 +13,7 @@
  *  \___\__,_|_|\__,_|
  *
  *****************************************************************************/                   
-// Version
+// Version 0.1
 
 /*******************************/
 /*            CONS             */
