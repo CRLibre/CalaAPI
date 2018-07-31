@@ -115,7 +115,12 @@ if($allDone){
     
     $key = md5($dbName . $dbHost . $dbPss . $dbUser);
     
-    $tpl = file_get_contents("$wwwPath/www/settings.tpl.php");
+    $tpl = "";
+    if(strpos($os, "Windows") !== false){
+        $tpl = file_get_contents("$wwwPath\www\settings.tpl.php");
+    }else{
+        $tpl = file_get_contents("$wwwPath/www/settings.tpl.php");
+    }
     
     $tpl = str_replace("{dbName}", $dbName, $tpl);
     $tpl = str_replace("{dbPss}", $dbPss, $tpl);
