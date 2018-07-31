@@ -39,7 +39,7 @@ define('ERROR_USERS_NO_TOKEN', '-305');
  * Boot up procedure
  */
 function users_bootMeUp() {
-   // users_loadCurrentUser();
+    users_loadCurrentUser();
 }
 
 /**
