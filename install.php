@@ -147,6 +147,10 @@ function rCopy($dir, $dest, $os, $f){
         return exec($cmd);
     }else{
         mkdir("$dest/$f");
-        return exec("cp -r $dir $dest/$f");
+		$cmd = "cp -r $dir/* $dest/$f";
+		echo "\n\n$cmd\n\n";
+        $res = exec($cmd);
+		echo $res . "<<<<<<<<<";
+		return true;
     }
 }
