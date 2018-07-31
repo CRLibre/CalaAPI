@@ -33,7 +33,7 @@ $config['crypto']['key'] = "LkWfgWGQ/XhSd+ML13PEJsuecTHUPs9quAWGs1fMC9o=";
 # same directory as the Api, but they can be placed anywhere else
 
 # The core installation: This is probably the only one you need to touch
-$config['modules']['coreInstall'] = "/var/www/html/CalaApiDev/CalaAPI/api/";
+$config['modules']['coreInstall'] = "";
 
 # Name of your site, Not in use really
 $config['core']['siteName'] = 'MySite';

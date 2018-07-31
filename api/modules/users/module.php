@@ -39,7 +39,7 @@ define('ERROR_USERS_NO_TOKEN', '-305');
  * Boot up procedure
  */
 function users_bootMeUp() {
-    users_loadCurrentUser();
+   // users_loadCurrentUser();
 }
 
 /**
@@ -259,8 +259,6 @@ function users_registerNew() {
 
     grace_debug("Register a user");
 
-    $run = false;
-
     # Does this account exist?
     $newUserByName = users_load(array('userName' => params_get('userName', '')));
     $newUserByEmail = users_load(array('email' => params_get('email', '')));
@@ -268,22 +266,19 @@ function users_registerNew() {
     if ($newUserByName->idUser == 0 && $newUserByEmail->idUser == 0) {
         grace_debug("New user does not exist");
         $user = _users_register(
-                array(
-                    "fullName" => params_get('fullName', ''),
-                    "userName" => params_get('userName', ''),
-                    "email" => params_get('email', ''),
-                    "about" => params_get('about', 'May all beings be at ease'),
-                    "country" => params_get('country', 'crc'),
-                    "status" => 1,
-                    "timestamp" => time(),
-                    "lastAccess" => time(),
-                    "pwd" => params_get('pwd', ''),
-                    "avatar" => 0
-                )
+            array(
+                "fullName" => params_get('fullName', ''),
+                "userName" => params_get('userName', ''),
+                "email" => params_get('email', ''),
+                "about" => params_get('about', 'May all beings be at ease'),
+                "country" => params_get('country', 'crc'),
+                "status" => 1,
+                "timestamp" => time(),
+                "lastAccess" => time(),
+                "pwd" => params_get('pwd', ''),
+                "avatar" => 0
+            )
         );
-
-        # Load the user and log it in   
-        $user = users_loadByName(params_get('userName'));
 
         return users_logMeIn();
     } else {
@@ -299,32 +294,27 @@ function users_registerNew() {
  */
 function users_logMeIn() {
 
-    //global $user;
+    global $user;
 
     grace_debug("Log in this person");
 
     $userName = params_get('userName');
 
     # Is it an email based login?
-    if (strpos($userName, '@') > 0) {
+    if(strpos($userName, '@') > 0) {
         grace_debug("email based login");
         $user = users_load(array('email' => $userName));
-    } else {
+    }else {
         grace_debug("username based login");
         $user = users_load(array('userName' => $userName));
     }
-
-    if (password_verify(params_get('pwd', ''), users_deshash($user->pwd))) {
+        
+    if(isset($user) && $user->idUser > 0) {
         // Create a token
         grace_debug("Able to login");
         return array('sessionKey' => users_generateSessionKey($user->idUser), 'userName' => $user->userName);
-    } else if ($user->pwd == md5_hash(params_get('pwd', ''))) {
-        // Create a token
-        grace_debug("Able to login");
-        return array('sessionKey' => users_generateSessionKey($user->idUser), 'userName' => $user->userName);
-    } else {
-
-        grace_debug(sprintf("Not able to login %s | %s", params_get('pwd', ''), users_deshash($user->pwd)));
+    }else {
+        grace_debug(sprintf("Not able to login user: %s | pass: %s", params_get('pwd', '')));
         return ERROR_USERS_WRONG_LOGIN_INFO;
     }
 }
@@ -340,12 +330,14 @@ function users_createBasic() {
  * Generates a session key
  */
 function users_generateSessionKey($idUser) {
-    $q = sprintf("delete from sessions where idUser='".$idUser."' and ip='".$_SERVER['REMOTE_ADDR']."'");
-    db_query($q, 0);
+    //Clean all sessions
+    $q = sprintf("DELETE FROM sessions 
+    WHERE `idUser`='" . $idUser . "' 
+    AND `ip`='" . $_SERVER['REMOTE_ADDR'] . "'");
     
-    modules_loader("crypto", "crypto.php");
-    $key = conf_get('key', 'crypto');
-    $sessionKey = crypto_encrypt(time() * rand(0, 1000));
+    db_query($q, 0);
+
+    $sessionKey = users_hash(time() * rand(0, 1000));
 
     $q = sprintf("INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) "
             . "VALUES('%s', '%s', '%s', '%s')", $idUser, $sessionKey, $_SERVER['REMOTE_ADDR'], time());
@@ -359,33 +351,8 @@ function users_generateSessionKey($idUser) {
  * Generates a user hash (for passwords mostly)
  * @todo Use php's function
  */
-function users_hash($pwd) {
-    modules_loader("crypto", "crypto.php");
-    
-    $salt;
-    
-    if (version_compare(PHP_VERSION, '7.0', '<')) {
-        $salt = mcrypt_create_iv(22, MCRYPT_DEV_URANDOM);
-    } else {
-        $salt = random_bytes(22);
-    }
-    $options = array(
-        'salt' => $salt,
-        'cost' => 12,
-    );
-    $hashPass = password_hash($pwd, PASSWORD_BCRYPT, $options);
-    $rsp = base64_encode(crypto_encrypt($hashPass));
-    return $rsp;
-}
-
-function users_deshash($pwd) {
-    $pwd = base64_decode($pwd);
-    modules_loader("crypto", "crypto.php");
-    return crypto_desencrypt($pwd);
-}
-
-function md5_hash($pwd) {
-    return md5($pwd);
+function users_hash($val){
+    return md5(crypt($val, md5($val)));
 }
 
 /**
@@ -400,20 +367,28 @@ function users_load($by = array()) {
     if (count($by) == 0) {
         return false;
     }
+    
     $where = "-";
+    
     foreach ($by as $b => $bb) {
         $where .= sprintf(" AND %s = '%s'", $b, $bb);
     }
+    
+    $pwd = users_hash(params_get("pwd"));
+    
     # Replace the first AND
     $where = trim(str_replace("- AND", " WHERE", $where), ',');
 
-    $q = sprintf("SELECT *
-    FROM users
+    $q = sprintf("SELECT `idUser`, `userName`, `email`, `about`, `country`, `status`, `timestamp`, `lastAccess`, `avatar`, `settings` 
+    FROM `users`
     %s", $where);
 
     $q .= " AND `status` > 0 ";
+    $q .= " AND `pwd` = '$pwd'";
     
     $user = db_query($q, 1);
+    
+    echo $q;
     
     # If no user found or erros
     if ($user == ERROR_DB_NO_RESULTS_FOUND || $user == ERROR_DB_ERROR) {
@@ -424,32 +399,6 @@ function users_load($by = array()) {
     return $user;
 }
 
-/**
- * Loads a user by its unique name
- * @deprecated use users_load() 
- */
-function users_loadByName($userName) {
-
-    grace_debug("Loading user: " . $userName);
-
-    # This should not happen
-    if (trim($userName) == '') {
-        grace_debug("Requested empty user");
-        return users_createBasic();
-    }
-
-    $q = sprintf("SELECT * FROM users WHERE userName = '%s'", $userName);
-
-    $user = db_query($q, 1);
-
-    # If no user found or erros
-    if ($user == ERROR_DB_NO_RESULTS_FOUND || $user == ERROR_DB_ERROR) {
-        grace_debug("Unable to locate user");
-        return users_createBasic();
-    }
-
-    return $user;
-}
 
 /**
  * Confirm the validity of a session
@@ -488,7 +437,7 @@ function users_confirmSessionKey() {
  * Destroys a session
  */
 function users_destroySession() {
-    $q = sprintf("DELETE FROM sessions WHERE sessionKey = '%s' AND ip = '%s'", params_get('sessionKey', ''), $_SERVER['REMOTE_ADDR']);
+    $q = sprintf("DELETE FROM `sessions` WHERE `sessionKey` = '%s' AND `ip` = '%s'", params_get('sessionKey', ''), $_SERVER['REMOTE_ADDR']);
     db_query($q, 0);
 }
 
@@ -737,8 +686,7 @@ function users_recoverPwd() {
 
     # Generate a new temporary password
 
-    modules_loader("crypto", "crypto.php");
-    $user->pwd = substr(crypto_encrypt(password_hash(rand(0, 1000) + time()), 0, 6));
+    $user->pwd = users_hash(rand(0, 1000) + time());
 
     grace_debug("New tmp pwd: " . $user->pwd);
 
