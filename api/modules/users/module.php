@@ -303,10 +303,10 @@ function users_logMeIn() {
     # Is it an email based login?
     if(strpos($userName, '@') > 0) {
         grace_debug("email based login");
-        $user = users_load(array('email' => $userName));
+        $user = users_load(array('email' => $userName), true);
     }else {
         grace_debug("username based login");
-        $user = users_load(array('userName' => $userName));
+        $user = users_load(array('userName' => $userName), true);
     }
         
     if(isset($user) && $user->idUser > 0) {
@@ -352,13 +352,13 @@ function users_generateSessionKey($idUser) {
  * @todo Use php's function
  */
 function users_hash($val){
-    return md5(crypt($val, md5($val)));
+    return password_hash($val, PASSWORD_BCRYPT);
 }
 
 /**
  * Loads a user by its unique name
  */
-function users_load($by = array()) {
+function users_load($by = array(), $logginIn = false) {
 
     grace_debug("Loading user");
 
@@ -383,19 +383,24 @@ function users_load($by = array()) {
 
     $q .= " AND `status` > 0 ";
     
-    $pwd = params_get("pwd", "--");
-
-    if($pwd != "--"){
-        $pwd = users_hash($pwd);
-        $q .= " AND `pwd` = '$pwd'";    
-    }
-    
     $user = db_query($q, 1);
     
     # If no user found or erros
     if ($user == ERROR_DB_NO_RESULTS_FOUND || $user == ERROR_DB_ERROR) {
         grace_debug("Unable to locate user");
         return users_createBasic();
+    }
+
+    if($logginIn){
+        $userPass = params_get("pwd");
+        $q = "SELECT `pwd` FROM `users` $where";
+        $r = db_query($q, 1);
+
+        if(password_verify($userPass, $r->pwd)){
+            return $user;    
+        }else{
+            return users_createBasic();
+        }
     }
 
     return $user;
