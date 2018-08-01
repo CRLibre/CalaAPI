@@ -314,7 +314,7 @@ function users_logMeIn() {
         grace_debug("Able to login");
         return array('sessionKey' => users_generateSessionKey($user->idUser), 'userName' => $user->userName);
     }else {
-        grace_debug(sprintf("Not able to login user: %s | pass: %s", params_get('pwd', '')));
+        grace_debug(sprintf("Not able to login user: %s | pass: %s", params_get('pwd', ''), params_get('userName', '')));
         return ERROR_USERS_WRONG_LOGIN_INFO;
     }
 }
@@ -387,8 +387,6 @@ function users_load($by = array()) {
     $q .= " AND `pwd` = '$pwd'";
     
     $user = db_query($q, 1);
-    
-    echo $q;
     
     # If no user found or erros
     if ($user == ERROR_DB_NO_RESULTS_FOUND || $user == ERROR_DB_ERROR) {
