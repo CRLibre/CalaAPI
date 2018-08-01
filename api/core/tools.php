@@ -69,7 +69,7 @@ function tools_proccesPath($paths){
 			# Check for permissions
 			$p['access_params'] = isset($p['access_params']) ? $p['access_params'] : '';
 			if(call_user_func($p['access'], $p['access_params']) === false){
-				return ERROR_USERS_ACCESS_DENIED;
+				return "ERROR_USERS_ACCESS_DENIED";
 			}
 			// Load the correct file
 			if(isset($p['file'])){

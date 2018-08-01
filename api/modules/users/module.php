@@ -374,17 +374,21 @@ function users_load($by = array()) {
         $where .= sprintf(" AND %s = '%s'", $b, $bb);
     }
     
-    $pwd = users_hash(params_get("pwd"));
-    
     # Replace the first AND
     $where = trim(str_replace("- AND", " WHERE", $where), ',');
 
-    $q = sprintf("SELECT `idUser`, `userName`, `email`, `about`, `country`, `status`, `timestamp`, `lastAccess`, `avatar`, `settings` 
+    $q = sprintf("SELECT `idUser`, `fullName`, `userName`, `email`, `about`, `country`, `status`, `timestamp`, `lastAccess`, `avatar`, `settings` 
     FROM `users`
     %s", $where);
 
     $q .= " AND `status` > 0 ";
-    $q .= " AND `pwd` = '$pwd'";
+    
+    $pwd = params_get("pwd", "--");
+
+    if($pwd != "--"){
+        $pwd = users_hash($pwd);
+        $q .= " AND `pwd` = '$pwd'";    
+    }
     
     $user = db_query($q, 1);
     
@@ -397,6 +401,33 @@ function users_load($by = array()) {
     return $user;
 }
 
+/**
+ * Loads a user by its unique name
+ * @deprecated use users_load() 
+ */
+function users_loadByName($userName){
+
+	grace_debug("Loading user: " . $userName);
+
+	# This should not happen
+	if(trim($userName) == ''){
+		grace_debug("Requested empty user");
+		return users_createBasic();
+	}
+
+	$q = sprintf("SELECT `idUser`, `fullName`, `userName`, `email`, `about`, `country`, `status`, `timestamp`, `lastAccess`, `avatar`, `settings` 
+	FROM users 
+	WHERE userName = '%s'", $userName);
+
+	$user = db_query($q, 1);
+
+	# If no user found or erros
+	if($user == ERROR_DB_NO_RESULTS_FOUND || $user == ERROR_DB_ERROR){
+		grace_debug("Unable to locate user");
+		return users_createBasic();
+	}
+	return $user;
+}
 
 /**
  * Confirm the validity of a session
@@ -694,7 +725,7 @@ function users_recoverPwd() {
         grace_debug("I will send the email");
         $resp = mailer_sendEmail(array(
             'to' => $user->email,
-            'subject' => 'Recuperación de Clave ' . conf_get('siteName', 'core', 'Mi Sitio'),
+            'subject' => 'Recuperaci贸n de Clave ' . conf_get('siteName', 'core', 'Mi Sitio'),
             'replyTo' => 'no-repy@' . conf_get("domain", "core", "example.net"),
             'message' => 'Su nueva clave es: ' . $user->pwd
         ));
