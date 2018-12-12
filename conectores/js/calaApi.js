@@ -229,10 +229,9 @@ function calaApi_postRequest(req, success, error, timeout = 800, times = 0){
     oReq.onload = function(oEvent) {
         if(oReq.status == 200) {
             var r = oReq.responseText;
-            console.log(r);
             r = JSON.parse(r);
-            success(r);
             calaApi_debug("Done!");
+            success(r);
         }else{
             var r = oReq.responseText;
             calaApi_debug("There was an error");
