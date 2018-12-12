@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.3.11.1
+-- version 4.5.4.1deb2ubuntu2.1
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Apr 26, 2015 at 10:30 AM
--- Server version: 5.5.43-0ubuntu0.14.04.1
--- PHP Version: 5.5.9-1ubuntu4.9
+-- Generation Time: Dec 12, 2018 at 11:06 AM
+-- Server version: 5.7.23-0ubuntu0.16.04.1
+-- PHP Version: 7.0.32-0ubuntu0.16.04.1
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `cala_dev_01`
+-- Database: `pumpkin`
 --
 
 -- --------------------------------------------------------
@@ -26,13 +26,13 @@ SET time_zone = "+00:00";
 -- Table structure for table `conversations`
 --
 
-CREATE TABLE IF NOT EXISTS `conversations` (
-  `idConversation` int(11) unsigned NOT NULL,
-  `idUser` int(11) unsigned NOT NULL,
-  `idRecipient` int(11) unsigned NOT NULL,
-  `timestamp` int(11) unsigned NOT NULL,
+CREATE TABLE `conversations` (
+  `idConversation` int(11) UNSIGNED NOT NULL,
+  `idUser` int(11) UNSIGNED NOT NULL,
+  `idRecipient` int(11) UNSIGNED NOT NULL,
+  `timestamp` int(11) UNSIGNED NOT NULL,
   `subject` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
 
@@ -40,16 +40,16 @@ CREATE TABLE IF NOT EXISTS `conversations` (
 -- Table structure for table `files`
 --
 
-CREATE TABLE IF NOT EXISTS `files` (
-  `idFile` int(10) unsigned NOT NULL,
+CREATE TABLE `files` (
+  `idFile` int(10) UNSIGNED NOT NULL,
   `md5` varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL,
   `name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `timestamp` int(11) unsigned NOT NULL,
-  `size` int(11) unsigned NOT NULL,
-  `idUser` int(11) unsigned NOT NULL,
+  `timestamp` int(11) UNSIGNED NOT NULL,
+  `size` int(11) UNSIGNED NOT NULL,
+  `idUser` int(11) UNSIGNED NOT NULL,
   `downloadCode` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
   `fileType` varchar(25) COLLATE utf8mb4_unicode_ci NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
 
@@ -57,12 +57,12 @@ CREATE TABLE IF NOT EXISTS `files` (
 -- Table structure for table `lestatz_domains`
 --
 
-CREATE TABLE IF NOT EXISTS `lestatz_domains` (
-  `idDomain` int(10) unsigned NOT NULL,
-  `idUser` int(10) unsigned NOT NULL,
+CREATE TABLE `lestatz_domains` (
+  `idDomain` int(10) UNSIGNED NOT NULL,
+  `idUser` int(10) UNSIGNED NOT NULL,
   `domain` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `total` int(10) unsigned NOT NULL
-) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='A list of domains per user';
+  `total` int(10) UNSIGNED NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='A list of domains per user';
 
 -- --------------------------------------------------------
 
@@ -70,13 +70,13 @@ CREATE TABLE IF NOT EXISTS `lestatz_domains` (
 -- Table structure for table `lestatz_goals`
 --
 
-CREATE TABLE IF NOT EXISTS `lestatz_goals` (
-  `idGoal` int(10) unsigned NOT NULL,
-  `idUser` int(10) unsigned NOT NULL,
+CREATE TABLE `lestatz_goals` (
+  `idGoal` int(10) UNSIGNED NOT NULL,
+  `idUser` int(10) UNSIGNED NOT NULL,
   `goal` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `total` int(10) unsigned NOT NULL,
-  `idDomain` int(10) unsigned NOT NULL
-) ENGINE=MyISAM AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='A list of goals per user';
+  `total` int(10) UNSIGNED NOT NULL,
+  `idDomain` int(10) UNSIGNED NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='A list of goals per user';
 
 -- --------------------------------------------------------
 
@@ -84,13 +84,13 @@ CREATE TABLE IF NOT EXISTS `lestatz_goals` (
 -- Table structure for table `lestatz_refs`
 --
 
-CREATE TABLE IF NOT EXISTS `lestatz_refs` (
-  `idRef` int(10) unsigned NOT NULL,
-  `idUser` int(10) unsigned NOT NULL,
+CREATE TABLE `lestatz_refs` (
+  `idRef` int(10) UNSIGNED NOT NULL,
+  `idUser` int(10) UNSIGNED NOT NULL,
   `ref` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `total` int(10) unsigned NOT NULL,
-  `idDomain` int(10) unsigned NOT NULL
-) ENGINE=MyISAM AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='A list of refs per user';
+  `total` int(10) UNSIGNED NOT NULL,
+  `idDomain` int(10) UNSIGNED NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='A list of refs per user';
 
 -- --------------------------------------------------------
 
@@ -98,9 +98,9 @@ CREATE TABLE IF NOT EXISTS `lestatz_refs` (
 -- Table structure for table `lestatz_visit_log`
 --
 
-CREATE TABLE IF NOT EXISTS `lestatz_visit_log` (
-  `user_id` int(10) unsigned NOT NULL,
-  `timestamp` int(10) unsigned NOT NULL,
+CREATE TABLE `lestatz_visit_log` (
+  `user_id` int(10) UNSIGNED NOT NULL,
+  `timestamp` int(10) UNSIGNED NOT NULL,
   `ip` varchar(50) NOT NULL,
   `browser` varchar(15) NOT NULL,
   `lang` varchar(10) NOT NULL,
@@ -110,8 +110,8 @@ CREATE TABLE IF NOT EXISTS `lestatz_visit_log` (
   `page_name` varchar(250) NOT NULL,
   `referrer` varchar(250) NOT NULL,
   `country` varchar(3) NOT NULL,
-  `idRef` int(10) unsigned NOT NULL COMMENT 'The refering page according to a user setting',
-  `idGoal` int(10) unsigned NOT NULL COMMENT 'The goal set by the user',
+  `idRef` int(10) UNSIGNED NOT NULL COMMENT 'The refering page according to a user setting',
+  `idGoal` int(10) UNSIGNED NOT NULL COMMENT 'The goal set by the user',
   `coordinates` varchar(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COMMENT='The main registry of visits, this can become quite big';
 
@@ -121,17 +121,17 @@ CREATE TABLE IF NOT EXISTS `lestatz_visit_log` (
 -- Table structure for table `msgs`
 --
 
-CREATE TABLE IF NOT EXISTS `msgs` (
-  `idMsg` int(11) unsigned NOT NULL,
-  `timestamp` int(11) unsigned NOT NULL,
+CREATE TABLE `msgs` (
+  `idMsg` int(11) UNSIGNED NOT NULL,
+  `timestamp` int(11) UNSIGNED NOT NULL,
   `ip` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `idSender` int(11) unsigned NOT NULL,
-  `idRecipient` int(11) unsigned NOT NULL,
+  `idSender` int(11) UNSIGNED NOT NULL,
+  `idRecipient` int(11) UNSIGNED NOT NULL,
   `text` text COLLATE utf8mb4_unicode_ci NOT NULL,
   `channel` int(11) NOT NULL,
-  `attachments` int(11) unsigned NOT NULL,
-  `idConversation` int(11) unsigned NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=76 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+  `attachments` int(11) UNSIGNED NOT NULL,
+  `idConversation` int(11) UNSIGNED NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
 
@@ -139,13 +139,13 @@ CREATE TABLE IF NOT EXISTS `msgs` (
 -- Table structure for table `sessions`
 --
 
-CREATE TABLE IF NOT EXISTS `sessions` (
-  `idSession` int(11) unsigned NOT NULL,
-  `idUser` int(11) unsigned NOT NULL,
+CREATE TABLE `sessions` (
+  `idSession` int(11) UNSIGNED NOT NULL,
+  `idUser` int(11) UNSIGNED NOT NULL,
   `sessionKey` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `ip` varchar(25) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `lastAccess` int(10) unsigned NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=70 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+  `lastAccess` int(10) UNSIGNED NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
 
@@ -153,20 +153,20 @@ CREATE TABLE IF NOT EXISTS `sessions` (
 -- Table structure for table `users`
 --
 
-CREATE TABLE IF NOT EXISTS `users` (
-  `idUser` int(11) unsigned NOT NULL,
+CREATE TABLE `users` (
+  `idUser` int(11) UNSIGNED NOT NULL,
   `fullName` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `userName` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `about` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `country` varchar(3) COLLATE utf8mb4_unicode_ci NOT NULL,
   `status` varchar(1) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `timestamp` int(11) unsigned NOT NULL,
-  `lastAccess` int(11) unsigned NOT NULL,
+  `timestamp` int(11) UNSIGNED NOT NULL,
+  `lastAccess` int(11) UNSIGNED NOT NULL,
   `pwd` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `avatar` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
   `settings` text COLLATE utf8mb4_unicode_ci NOT NULL COMMENT 'Any and all settings you would like to set'
-) ENGINE=MyISAM AUTO_INCREMENT=36 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Indexes for dumped tables
@@ -188,13 +188,15 @@ ALTER TABLE `files`
 -- Indexes for table `lestatz_domains`
 --
 ALTER TABLE `lestatz_domains`
-  ADD PRIMARY KEY (`idDomain`), ADD UNIQUE KEY `idDomain` (`idDomain`);
+  ADD PRIMARY KEY (`idDomain`),
+  ADD UNIQUE KEY `idDomain` (`idDomain`);
 
 --
 -- Indexes for table `lestatz_goals`
 --
 ALTER TABLE `lestatz_goals`
-  ADD PRIMARY KEY (`idGoal`), ADD UNIQUE KEY `idGoal` (`idGoal`);
+  ADD PRIMARY KEY (`idGoal`),
+  ADD UNIQUE KEY `idGoal` (`idGoal`);
 
 --
 -- Indexes for table `lestatz_refs`
@@ -212,13 +214,15 @@ ALTER TABLE `msgs`
 -- Indexes for table `sessions`
 --
 ALTER TABLE `sessions`
-  ADD PRIMARY KEY (`idSession`), ADD KEY `key` (`sessionKey`), ADD KEY `sessionKey` (`sessionKey`);
+  ADD PRIMARY KEY (`idSession`),
+  ADD KEY `key` (`sessionKey`),
+  ADD KEY `sessionKey` (`sessionKey`);
 
 --
 -- Indexes for table `users`
 --
 ALTER TABLE `users`
-  ADD PRIMARY KEY (`idUser`), ADD UNIQUE KEY `wire_2` (`userName`), ADD UNIQUE KEY `email` (`email`), ADD KEY `idUser` (`idUser`), ADD KEY `wire` (`userName`), ADD KEY `status` (`status`);
+  ADD PRIMARY KEY (`idUser`);
 
 --
 -- AUTO_INCREMENT for dumped tables
@@ -228,42 +232,42 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `conversations`
 --
 ALTER TABLE `conversations`
-  MODIFY `idConversation` int(11) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=3;
+  MODIFY `idConversation` int(11) UNSIGNED NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT for table `files`
 --
 ALTER TABLE `files`
-  MODIFY `idFile` int(10) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=15;
+  MODIFY `idFile` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT for table `lestatz_domains`
 --
 ALTER TABLE `lestatz_domains`
-  MODIFY `idDomain` int(10) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=5;
+  MODIFY `idDomain` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 --
 -- AUTO_INCREMENT for table `lestatz_goals`
 --
 ALTER TABLE `lestatz_goals`
-  MODIFY `idGoal` int(10) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=8;
+  MODIFY `idGoal` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 --
 -- AUTO_INCREMENT for table `lestatz_refs`
 --
 ALTER TABLE `lestatz_refs`
-  MODIFY `idRef` int(10) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=6;
+  MODIFY `idRef` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 --
 -- AUTO_INCREMENT for table `msgs`
 --
 ALTER TABLE `msgs`
-  MODIFY `idMsg` int(11) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=76;
+  MODIFY `idMsg` int(11) UNSIGNED NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT for table `sessions`
 --
 ALTER TABLE `sessions`
-  MODIFY `idSession` int(11) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=70;
+  MODIFY `idSession` int(11) UNSIGNED NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `idUser` int(11) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=36;
+  MODIFY `idUser` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=36;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
