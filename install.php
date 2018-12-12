@@ -28,10 +28,10 @@ $allDone = false;
 
 while(!$wwwDone){
 
-    echo "So, where do you want to locate the www file?: ";
+    echo "So, where do you want to locate the www folder?: ";
     $line = trim(fgets(STDIN));
 
-    echo "\nIs this the right path for www? (Y/N): $line\n";
+    echo "\nIs this the right path for www folder? (Y/N): $line\n";
     $wwwPath = $line;
     
     $line = trim(fgets(STDIN));
@@ -43,11 +43,11 @@ echo "\n\nNice! Lets keep on rocking! \n\n\n";
 
 while(!$apiDone){
 
-    echo "So, where do you want to locate the api file?: ";
+    echo "So, where do you want to locate the api folder?: ";
     $handle = fopen ("php://stdin","r");
     $line = trim(fgets(STDIN));
 
-    echo "\nIs this the right path for www? (Y/N): $line\n";
+    echo "\nIs this the right path for api folder? (Y/N): $line\n";
     $apiPath = $line;
     
     $line = trim(fgets(STDIN));
